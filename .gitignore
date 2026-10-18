@@ -1,0 +1,12 @@
+# Checkpoints and logs
+.ocr_checkpoint.json
+.solve_checkpoint.json
+*.log
+
+# Large binary files (78MB original scan PDF)
+Trắc nghiệm.pdf
+
+# Agent and IDE configuration
+.agents/
+.gemini/
+__pycache__/
