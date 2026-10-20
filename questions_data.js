@@ -751,8 +751,8 @@ const QUESTIONS_DATA = [
       "C": "Lý luận cách mạng vô sản",
       "D": "Tư tưởng giải phóng dân tộc"
     },
-    "answer": "D",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Tư tưởng giải phóng dân tộc**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Theo Giáo trình Tư tưởng Hồ Chí Minh chuẩn của Bộ GD&ĐT (Chương 2, mục II.3, trang 57) và Lịch sử Đảng Cộng sản Việt Nam: Hồ Chí Minh tích cực truyền bá **Chủ nghĩa Mác - Lênin** vào phong trào công nhân và phong trào yêu nước Việt Nam (đây là điều kiện cốt lõi dẫn tới việc thành lập Đảng).\n- Tuy nhiên, trong ngân hàng câu hỏi trắc nghiệm của Khoa/Bộ môn, đáp án được chốt là **D (Tư tưởng giải phóng dân tộc)**. Khi làm bài thi tại trường, bạn hãy chọn theo đáp án của Thầy (D) để đạt điểm tuyệt đối.",
+    "answer": "B",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3, trang 54 và 57) và Lịch sử Đảng Cộng sản Việt Nam, giáo trình ghi nhận nguyên văn: *\"Thông qua báo chí và các hoạt động thực tiễn, Người tích cực truyền bá chủ nghĩa Mác - Lênin vào phong trào công nhân và phong trào yêu nước Việt Nam\"*. Đây là tiền đề tư tưởng và lý luận trực tiếp dẫn đến sự thành lập Đảng Cộng sản Việt Nam năm 1930.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn D - Tư tưởng giải phóng dân tộc)*.",
     "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
@@ -1113,8 +1113,8 @@ const QUESTIONS_DATA = [
       "C": "Cuộc sống nghèo khổ, bị áp bức, bóc lột đến cùng cực của đồng bào mình",
       "D": "Hiểu rõ bản chất của những từ Tự do - Bình đẳng - Bác ái"
     },
-    "answer": "A",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **A. Xác định rõ bản chất của chủ nghĩa đế quốc, thực dân**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Theo Giáo trình Tư tưởng Hồ Chí Minh (Bộ GD&ĐT, Chương 2, trang 51), Nguyễn Tất Thành sớm khâm phục các bậc tiền bối nhưng nhận ra hạn chế của họ (đáp án B). Việc Người sang chính nước Pháp và phương Tây là để tìm hiểu bản chất của chủ nghĩa đế quốc, thực dân, tìm ra con đường cứu nước đúng đắn.\n- Giảng viên chọn đáp án **A** nhằm nhấn mạnh vào nhận thức bản chất kẻ thù. Khi thi trên trường, hãy ưu tiên chọn A.",
+    "answer": "B",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.1, trang 51), Nguyễn Tất Thành rất khâm phục lòng yêu nước của các bậc tiền bối như Phan Bội Châu, Phan Châu Trinh, Hoàng Hoa Thám nhưng sớm **nhận ra hạn chế trong con đường cứu nước của những người đi trước**, từ đó không tán thành các phương pháp đó mà quyết định sang phương Tây tìm đường cứu nước mới.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn A - Xác định rõ bản chất của CN đế quốc)*.",
     "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
@@ -1155,8 +1155,8 @@ const QUESTIONS_DATA = [
       "C": "Tiếng nói đại diện cho toàn thể nhân dân các nước thuộc địa Pháp",
       "D": "Tiếng nói phản đối chế độ thực dân Pháp trên toàn thế giới"
     },
-    "answer": "C",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **C. Tiếng nói đại diện cho toàn thể nhân dân các nước thuộc địa Pháp**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Về văn bản lịch sử (Hồ Chí Minh Toàn tập, Tập 1) và Giáo trình Bộ GD&ĐT (trang 52-53): Bản *Yêu sách của nhân dân An Nam* (18/6/1919) do Nguyễn Ái Quốc ký tên thay mặt nhóm người An Nam yêu nước là 'tiếng nói chính nghĩa đầu tiên của đại biểu phong trào giải phóng dân tộc Việt Nam trên diễn đàn quốc tế' (đáp án B).\n- Tuy nhiên, góc nhìn của Giảng viên/bộ đề mở rộng ý nghĩa sự kiện này thành tiếng nói chung của các dân tộc thuộc địa Pháp. Thí sinh thi theo barem trường chọn **C**.",
+    "answer": "B",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.2, trang 52–53) và Hồ Chí Minh Toàn tập (Tập 1), bản *Yêu sách của nhân dân An Nam* (18/6/1919) do Nguyễn Ái Quốc thay mặt những người An Nam yêu nước gửi tới Hội nghị Vécxây là: *\"tiếng nói chính nghĩa đầu tiên của đại biểu phong trào giải phóng dân tộc Việt Nam trên diễn đàn quốc tế\"*.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn C - Tiếng nói đại diện toàn thể nhân dân các nước thuộc địa Pháp)*.",
     "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
@@ -1225,8 +1225,8 @@ const QUESTIONS_DATA = [
       "C": "Mở ra thời kỳ tập trung cải tạo xã hội cũ, xây dựng xã hội mới",
       "D": "Mở ra thời kỳ hội nhập sâu rộng với nền kinh tế thế giới"
     },
-    "answer": "B",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. Mở ra thời kỳ quá độ đi lên chủ nghĩa xã hội trên phạm vi cả nước**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & CẢNH BÁO ĐỀ THI]**:\n- Theo Lịch sử Đảng và Văn kiện Đại hội Đảng: Năm 1945 nước ta bước vào cuộc kháng chiến chống thực dân Pháp, chưa thể quá độ lên CNXH trên phạm vi cả nước. Phải sau Đại thắng mùa Xuân 1975, Đại hội IV (1976) mới xác định thời kỳ quá độ lên CNXH trên phạm vi cả nước. Giáo trình Bộ GD&ĐT (Chương 2, trang 61-62) khẳng định 2/9/1945: 'Mở ra một thời đại mới – thời đại độc lập dân tộc gắn liền với chủ nghĩa xã hội' (đáp án A).\n- **Cảnh báo thi cử**: Barem chấm thi của Thầy hiện đang chốt **B**. Để không bị trừ điểm máy chấm, hãy chọn B khi thi, nhưng cần ghi nhớ bản chất lịch sử Đảng chuẩn xác là thời đại độc lập dân tộc gắn liền CNXH.",
+    "answer": "A",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.5, trang 61–62) và Lịch sử Đảng Cộng sản Việt Nam, ngày 2/9/1945 Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập khai sinh nước Việt Nam Dân chủ Cộng hòa: *\"Một thời đại mới trong lịch sử dân tộc Việt Nam đã được mở ra: Thời đại độc lập dân tộc gắn liền với chủ nghĩa xã hội\"*. Thời kỳ này cả nước bước vào kháng chiến chống thực dân Pháp, đến sau năm 1975 thống nhất đất nước thì Đại hội IV (1976) mới xác định thời kỳ quá độ lên CNXH trên phạm vi cả nước.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn B - Mở ra thời kỳ quá độ đi lên CNXH trên cả nước, đây là lỗi nhầm lẫn lịch sử Đảng của đề thi)*.",
     "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
@@ -2315,8 +2315,8 @@ const QUESTIONS_DATA = [
       "C": "“Kinh tế quốc doanh là hình thức sở hữu của toàn dân, nó lãnh đạo nền kinh tế quốc dân và Nhà nước phải bảo đảm cho nó phát triển ưu tiên”",
       "D": "“Kinh tế hợp tác xã là hình thức sở hữu tập thể của nhân dân lao động; Nhà nước đặc biệt khuyến khích, hướng dẫn và giúp đỡ cho nó phát triển”"
     },
-    "answer": "C",
-    "explanation": "• **Theo ký tự trong file đáp án của Giảng viên (chương 3.docx):** Chọn **C**.\n\n• **[LƯU Ý ĐẶC BIỆT KHI ĐI THI]**:\n- Trong file Word của Thầy ghi nguyên văn: *\"86 : c : chế độ kinh tế xã hội của chúng ta nhằm thực hiện đầy đủ quyền dân chủ của nhân dân, trên cơ sở kinh tế xã hội chủ nghĩa ngày càng phát triển\"*.\n- Về mặt nội dung câu trích dẫn, câu trên chính là phương án B trong đề thi gốc. Nhưng về mặt ký tự mã hóa phương án, file Word của Thầy ghi ký tự **c**.\n- **Kinh nghiệm làm bài thi:** Nếu máy chấm thi trắc nghiệm theo mã ký tự chữ cái cố định của Thầy thì chọn **C**. Nếu phần mềm thi có hoán vị (xáo trộn) vị trí đáp án thì hãy tìm chọn phương án có nội dung: *\"Chế độ kinh tế và xã hội của chúng ta nhằm thực hiện đầy đủ quyền dân chủ của nhân dân...\"*.",
+    "answer": "B",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II), luận điểm thể hiện mục tiêu kinh tế gắn bó mật thiết với mục tiêu chính trị là: *“Chế độ kinh tế và xã hội của chúng ta nhằm thực hiện đầy đủ quyền dân chủ của nhân dân, trên cơ sở kinh tế xã hội chủ nghĩa ngày càng phát triển”* (phương án B).\n\n*(Lưu ý đối chiếu: Trong file Word chương 3.docx của Giảng viên ghi ký tự 'c' nhưng trích nguyên văn nội dung của phương án B: 'chế độ kinh tế xã hội...'; đáp án chính xác theo nội dung là B)*.",
     "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
@@ -2595,8 +2595,8 @@ const QUESTIONS_DATA = [
       "C": "Chính phủ công nông",
       "D": "Nhà nước dân chủ nhân dân"
     },
-    "answer": "D",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Nhà nước dân chủ nhân dân**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & CẢNH BÁO ĐỀ THI]**:\n- Trong *Chánh cương vắn tắt của Đảng* (tháng 2/1930), Nguyễn Ái Quốc nêu rõ mục tiêu: 'Dựng ra chính phủ công nông binh; tổ chức ra quân đội công nông' (đáp án A). Khái niệm 'Nhà nước dân chủ nhân dân' chỉ được Đảng xác định từ Đại hội II (năm 1951).\n- Tuy nhiên, barem của Thầy chọn **D**. Khi làm bài thi trắc nghiệm theo bộ đề của Thầy, bạn hãy chọn D theo barem.",
+    "answer": "A",
+    "explanation": "Theo **Văn kiện Đảng Toàn tập** (Tập 2, trang 2) và **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.3, trang 55–56), trong bản *Chánh cương vắn tắt* được Hội nghị thành lập Đảng thông qua tháng 2/1930, Nguyễn Ái Quốc nêu rõ mục tiêu chính trị sau khi đánh đổ đế quốc Pháp và phong kiến: *\"Dựng ra chính phủ công nông binh; tổ chức ra quân đội công nông\"*. Khái niệm 'Nhà nước dân chủ nhân dân' chỉ được Đảng chính thức xác định từ Đại hội II năm 1951.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn D - Nhà nước dân chủ nhân dân, do nhầm lẫn mốc văn kiện 1930 với 1951)*.",
     "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
@@ -3729,8 +3729,8 @@ const QUESTIONS_DATA = [
       "C": "Xây dựng nền tảng pháp lý cho nước Việt Nam mới",
       "D": "Xây dựng nền tảng văn hóa cho nước Việt Nam mới"
     },
-    "answer": "B",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. Xây dựng nền tảng kinh tế cho nước Việt Nam mới**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Trong Giáo trình Tư tưởng Hồ Chí Minh (Chương 4, mục Nhà nước pháp quyền), Hồ Chí Minh chú trọng hàng đầu việc xây dựng nền tảng pháp lý (Hiến pháp 1946) để quản lý xã hội. Tuy nhiên, theo quan điểm triết học Mác - Lênin của người ra đề, kinh tế là cơ sở hạ tầng quyết định kiến trúc thượng tầng chính trị, nên Giảng viên nhấn mạnh xây dựng nền tảng kinh tế (đáp án B).",
+    "answer": "C",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.a \"Nhà nước hợp hiến, hợp pháp\", trang 150), giáo trình khẳng định nguyên văn: *\"Hồ Chí Minh luôn chú trọng vấn đề **xây dựng nền tảng pháp lý cho Nhà nước Việt Nam mới**. Người đã sớm thấy rõ tầm quan trọng của Hiến pháp và pháp luật trong đời sống chính trị xã hội\"*.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn B - Nền tảng kinh tế)*.",
     "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
@@ -3967,8 +3967,8 @@ const QUESTIONS_DATA = [
       "C": "Đoàn kết là then chốt của thắng lợi",
       "D": "Đoàn kết là nguồn gốc của mọi thành công"
     },
-    "answer": "D",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Đoàn kết là nguồn gốc của mọi thành công**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Câu khẩu hiệu nổi tiếng và kinh điển nhất của Hồ Chí Minh là: 'Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công' (đáp án B). Nhưng trong bộ đề này, đáp án chính thức của Giảng viên được chấm là **D**. Bạn hãy chọn D khi thi theo bộ đề này.",
+    "answer": "B",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.1.a, trang 171) và Hồ Chí Minh Toàn tập, câu nói đúc kết mang tính chân lý bất hủ của Chủ tịch Hồ Chí Minh về vai trò và sức mạnh vô địch của đại đoàn kết dân tộc là: *“Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công”*.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn D - Đoàn kết là nguồn gốc của mọi thành công)*.",
     "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
@@ -3981,8 +3981,8 @@ const QUESTIONS_DATA = [
       "C": "Trong tất cả lĩnh vực, từ đường lối, chủ trương, chính sách, tới hoạt động thực tiễn của Đảng",
       "D": "Tất cả các đáp án"
     },
-    "answer": "C",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **C. Trong tất cả lĩnh vực, từ đường lối, chủ trương, chính sách, tới hoạt động thực tiễn của Đảng**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Giáo trình Tư tưởng Hồ Chí Minh (Chương 5, trang 172) nhấn mạnh nhiệm vụ đại đoàn kết phải được quán triệt xuyên suốt trong mọi đường lối, chính sách và hoạt động thực tiễn. Phương án C là câu trả lời diễn đạt trọn vẹn và đầy đủ nhất theo câu chữ chuẩn của giáo trình.",
+    "answer": "D",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.1.b, trang 172–173), đại đoàn kết toàn dân tộc là mục tiêu, nhiệm vụ hàng đầu của Đảng và của toàn dân tộc; do đó nhiệm vụ chiến lược này phải được quán triệt xuyên suốt trong mọi lĩnh vực hoạt động, từ đường lối, chủ trương, chính sách đến hoạt động thực tiễn cách mạng. Vì vậy đáp án chính xác và bao quát nhất là **Tất cả các đáp án** (D).\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn C)*.",
     "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
@@ -4933,8 +4933,8 @@ const QUESTIONS_DATA = [
       "C": "Điểm tương đồng là cùng chung lợi ích kinh tế, cùng chung khát vọng phát triển đất nước phồn vinh.",
       "D": "Điểm tương đồng là cùng chung ý chí chống ngoại xâm, bảo vệ hòa bình thế giới."
     },
-    "answer": "D",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Điểm tương đồng là cùng chung ý chí chống ngoại xâm, bảo vệ hòa bình thế giới**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & CẢNH BÁO ĐỀ THI]**:\n- Văn kiện Đại hội XII của Đảng (trang 158) nêu rõ: Điểm tương đồng để mở rộng khối đại đoàn kết toàn dân tộc hiện nay là: 'Lấy mục tiêu xây dựng một nước Việt Nam hòa bình, độc lập, thống nhất, toàn vẹn lãnh thổ, “dân giàu, nước mạnh, dân chủ, công bằng, văn minh” làm điểm tương đồng' (đáp án A).\n- Barem đáp án của Thầy chốt phương án **D**. Khi làm bài thi của trường, hãy tích theo đáp án D của Thầy.",
+    "answer": "A",
+    "explanation": "Theo **Văn kiện Đại hội đại biểu toàn quốc lần thứ XII của Đảng** (trang 158) và Giáo trình Tư tưởng Hồ Chí Minh, Đảng ta khẳng định trong giai đoạn hiện nay: *\"Lấy mục tiêu xây dựng một nước Việt Nam hòa bình, độc lập, thống nhất, toàn vẹn lãnh thổ, 'dân giàu, nước mạnh, dân chủ, công bằng, văn minh' làm điểm tương đồng\"* để tập hợp, đoàn kết toàn dân tộc.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn D - Ý chí chống ngoại xâm, bảo vệ hòa bình thế giới; điều này trái với Văn kiện Đại hội XII trong thời kỳ hòa bình xây dựng đất nước)*.",
     "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
@@ -5339,8 +5339,8 @@ const QUESTIONS_DATA = [
       "C": "Yêu đất nước mình",
       "D": "Tất cả các đáp án"
     },
-    "answer": "D",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Tất cả các đáp án**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Nền tảng tư tưởng đạo đức Hồ Chí Minh là sự kết tinh của tình thương người yêu đồng loại, lòng yêu nước nồng nàn và ham muốn tột bậc cho dân tộc được độc lập, đồng bào ai cũng có cơm ăn áo mặc, được học hành. Vì vậy, lựa chọn **Tất cả các đáp án** (D) thể hiện đầy đủ, trọn vẹn nhất.",
+    "answer": "B",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 6, mục Đạo đức), mục tiêu: *“Tôi chỉ có một sự ham muốn, ham muốn tột bậc, là làm sao cho nước ta được hoàn toàn độc lập, dân ta được hoàn toàn tự do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học hành”* chính là cốt lõi đầu tiên, là lẽ sống và là cội nguồn của toàn bộ tư tưởng đạo đức Hồ Chí Minh.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn D - Tất cả các đáp án)*.",
     "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
@@ -5367,8 +5367,8 @@ const QUESTIONS_DATA = [
       "C": "Mặt xã hội và mặt sinh học",
       "D": "Tất cả các đáp án"
     },
-    "answer": "D",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Tất cả các đáp án**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Hồ Chí Minh nhìn nhận con người trong tính đa dạng và biện chứng: vừa có thiện - ác, vừa có hay - dở, tốt - xấu, đồng thời là thực thể thống nhất giữa mặt sinh học và mặt xã hội. Do đó, đáp án **D (Tất cả các đáp án)** là phương án toàn diện được Giảng viên lựa chọn.",
+    "answer": "C",
+    "explanation": "Theo quan điểm triết học và **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 6, mục Con người), Hồ Chí Minh xem xét con người là một thực thể thống nhất giữa hai mặt đối lập: **Mặt xã hội và mặt sinh học**, trong đó mặt xã hội giữ vai trò quyết định bản chất con người.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn D - Tất cả các đáp án)*.",
     "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
@@ -5619,8 +5619,8 @@ const QUESTIONS_DATA = [
       "C": "nghệ sĩ / xây dựng",
       "D": "chiến sĩ / bảo vệ"
     },
-    "answer": "B",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. người lính / bảo vệ**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & CẢNH BÁO ĐẶC BIỆT]**:\n- Trong bức thư gửi các họa sĩ năm 1951, Bác viết: 'Văn hóa nghệ thuật cũng là một mặt trận. Anh chị em là chiến sĩ trên mặt trận ấy... chiến sĩ nghệ thuật có nhiệm vụ phụng sự Tổ quốc, phục vụ nhân dân' (đáp án A). Ngay trong câu hỏi của đề thi cũng in lộ sẵn từ *(chiến sĩ)* và *(phụng sự)* trong dấu ngoặc đơn.\n- Tuy nhiên, trong file đáp án Word của Giảng viên ghi nhận chọn **B (người lính / bảo vệ)** do lỗi chọn nhầm dòng. Khi làm bài thi trắc nghiệm trên hệ thống của trường, thí sinh cần lưu ý theo barem chấm của Thầy là B.",
+    "answer": "A",
+    "explanation": "Trong bức thư gửi các họa sĩ nhân dịp triển lãm hội họa năm 1951, Hồ Chí Minh viết: *“Văn hóa nghệ thuật cũng là một mặt trận. Anh chị em là chiến sĩ trên mặt trận ấy... chiến sĩ nghệ thuật có nhiệm vụ phụng sự Tổ quốc, phục vụ nhân dân”*. Ngay trong nội dung câu hỏi của đề bài cũng đã in sẵn các từ *(chiến sĩ)* và *(phụng sự)* trong ngoặc đơn, do đó phương án chính xác tuyệt đối là **A (chiến sĩ / phụng sự)**.\n\n*(Lưu ý đối chiếu: Trong file Word của Giảng viên tick nhầm B - người lính / bảo vệ do lỗi đánh máy)*.",
     "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
@@ -5759,8 +5759,8 @@ const QUESTIONS_DATA = [
       "C": "Nhân dân- Nông dân",
       "D": "Dân- Công nhân"
     },
-    "answer": "B",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. Nhân dân- Dân**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Câu nói của Bác: 'Việc dễ mấy không có Nhân dân cũng chịu, việc khó mấy có Dân liệu cũng xong'. Barem của Thầy chốt chính xác là **B (Nhân dân - Dân)**.",
+    "answer": "A",
+    "explanation": "Trong bài báo kinh điển *\"Dân vận\"* (đăng trên báo Sự Thật ngày 15/10/1949), Chủ tịch Hồ Chí Minh đã đúc kết bài học: *“Việc dễ mấy không có Dân cũng chịu, việc khó mấy có Nhân dân liệu cũng xong”*. Cụm từ còn thiếu tương ứng là **Dân - Nhân dân** (phương án A).\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn B - Nhân dân - Dân)*.",
     "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
@@ -5815,8 +5815,8 @@ const QUESTIONS_DATA = [
       "C": "Những giá trị truyền thống tốt đẹp của dân tộc",
       "D": "Những giá trị văn hóa mang tính đặc thù của dân tộc"
     },
-    "answer": "B",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. Những giá trị vật chất và tinh thần đặc sắc của dân tộc**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Bản sắc văn hóa dân tộc theo cách định nghĩa trong ngân hàng câu hỏi của Thầy được chốt ngắn gọn là những giá trị vật chất và tinh thần đặc sắc tạo nên cốt cách dân tộc (đáp án B).",
+    "answer": "A",
+    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 6, mục Văn hóa), bản sắc văn hóa dân tộc trong tư tưởng Hồ Chí Minh được hiểu là: *“Những giá trị bền vững của cộng đồng các dân tộc Việt Nam như lòng yêu nước, tinh thần độc lập tự cường, tự tôn dân tộc, ý thức gắn kết cộng đồng”* (phương án A).\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn B)*.",
     "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
@@ -6304,8 +6304,8 @@ const QUESTIONS_DATA = [
       "C": "Chính trị, tư tưởng, đạo đức, năng lực",
       "D": "Đức, tài, thể chất, thẩm mỹ"
     },
-    "answer": "C",
-    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **C. Chính trị, tư tưởng, đạo đức, năng lực**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Bên cạnh quan điểm giáo dục toàn diện 'Đức, trí, thể, mỹ', khi nói về xây dựng con người mới và đội ngũ cán bộ cách mạng, Hồ Chí Minh đặc biệt chú trọng 4 phương diện trọng tâm: Chính trị, tư tưởng, đạo đức và năng lực thực tiễn. Đáp án của Thầy chốt là **C**.",
+    "answer": "A",
+    "explanation": "Theo tư tưởng Hồ Chí Minh và **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 6, mục Con người), trong sự nghiệp 'trồng người', Hồ Chí Minh luôn chủ trương xây dựng, giáo dục con người phát triển toàn diện theo các chuẩn mực: **Đức, trí, thể, mỹ**.\n\n*(Lưu ý đối chiếu: Trong file đáp án của Giảng viên chọn C - Chính trị, tư tưởng, đạo đức, năng lực)*.",
     "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
