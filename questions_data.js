@@ -1,4 +1,3 @@
-// Dữ liệu 464 câu hỏi trắc nghiệm Tư tưởng Hồ Chí Minh
 const QUESTIONS_DATA = [
   {
     "id": 1,
@@ -376,7 +375,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.b \"Tinh hoa văn hóa nhân loại\", trang 40–41), giáo trình chỉ rõ: *\"Đối với Phật giáo, Hồ Chí Minh chú ý kế thừa, phát triển **tư tưởng từ bi, vị tha, yêu thương con người, khuyến khích làm việc thiện, chống lại điều ác; đề cao quyền bình đẳng của con người và chân lý; khuyên con người sống hòa đồng, gắn bó với đất nước của đạo Phật**. Những quan điểm tích cực đó trong triết lý của đạo Phật được Hồ Chí Minh vận dụng sáng tạo để đoàn kết đồng bào theo đạo Phật, đoàn kết toàn dân vì nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh\"* . Vì thế, đáp án đúng là D (\"Tất cả các đáp án\").",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 28,
@@ -390,7 +389,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.b \"Tinh hoa văn hóa phương Tây\", trang 42–43), khi đi sang phương Tây, Người quan tâm tìm hiểu khẩu hiệu \"Tự do - Bình đẳng - Bác ái\" trong các cuộc cách mạng tư sản ở **Anh, Pháp, Mỹ** .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 29,
@@ -404,7 +403,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.c \"Chủ nghĩa Mác - Lênin\", trang 43–44), câu nói này là của **Hồ Chí Minh** viết trong tác phẩm *Đường cách mệnh* (năm 1927) khi khẳng định vai trò quyết định của chủ nghĩa Lênin .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 30,
@@ -418,7 +417,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.c \"Chủ nghĩa Mác - Lênin\", trang 44–45), Hồ Chí Minh nhận định Khổng Tử, Giêsu, Mác, Tôn Dật Tiên đều có ưu điểm chung là: *\"Họ đều muốn 'mưu hạnh phúc cho loài người, mưu phúc lợi cho xã hội'\"* [3, 4].",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 31,
@@ -432,7 +431,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.3.a \"Phẩm chất Hồ Chí Minh\", trang 46–47), các phẩm chất cá nhân của Người bao gồm: - Có lý tưởng cao cả và hoài bão lớn cứu dân, cứu nước... có ý chí, nghị lực to lớn ; - Bản lĩnh tư duy độc lập, tự chủ, sáng tạo, giàu tính phê phán, đổi mới và cách mạng ; - Tầm nhìn chiến lược, bao quát thời đại... suốt đời tận trung với nước, tận hiếu với dân [2, 3]. Do đó, cả ba phương án A, B, C đều chính xác.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 32,
@@ -446,7 +445,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.3.b \"Tài năng hoạt động, tổng kết thực tiễn phát triển lý luận\", trang 47–48), tài năng của Người thể hiện toàn diện ở các mặt: - *\"Hồ Chí Minh là người có vốn sống và thực tiễn cách mạng phong phú, phi thường\"* ; - *\"Người thấu hiểu về phong trào giải phóng dân tộc, về xây dựng chủ nghĩa xã hội, về xây dựng Đảng Cộng sản, v.v.\"* ; - *\"Hồ Chí Minh là nhà tổ chức vĩ đại của cách mạng Việt Nam\"* . Vì vậy, đáp án đúng là D.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 33,
@@ -460,7 +459,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.2 \"Thời kỳ 1911 - 1920\", trang 52–53), giáo trình ghi nhận sự kiện tại Đại hội Tours (tháng 12/1920): *\"Hồ Chí Minh cùng những người phái tả trong Đảng Xã hội Pháp tại Đại hội ở thành phố Tua (từ ngày 25 đến ngày 30/12/1920), **bỏ phiếu tán thành Quốc tế Cộng sản, tham gia sáng lập Đảng Cộng sản Pháp, trở thành người cộng sản Việt Nam đầu tiên**. Đây là bước ngoặt quan trọng trong cuộc đời của Hồ Chí Minh, bước ngoặt chủ nghĩa yêu nước kết hợp chặt chẽ với lập trường cách mạng vô sản\"* [5, 6].",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 34,
@@ -474,7 +473,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3 \"Thời kỳ 1920 - 1930: Hình thành những nội dung cơ bản tư tưởng về cách mạng Việt Nam\", trang 53), giáo trình ghi nhận tiêu đề và nội dung: *\"Thời kỳ 1920 - 1930: Hình thành những nội dung cơ bản tư tưởng về cách mạng Việt Nam. Đây là thời kỳ mục tiêu, phương hướng cách mạng giải phóng dân tộc Việt Nam từng bước được cụ thể hóa, thể hiện rõ trong Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 35,
@@ -488,7 +487,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3 \"Thời kỳ 1920 - 1930\", trang 54), giáo trình nêu rõ: *\"Hồ Chí Minh sáng lập tổ chức tiền thân của Đảng Cộng sản: Hội Việt Nam Cách mạng Thanh niên (tháng 6/1925), ra báo Thanh niên bằng tiếng Việt, từng bước truyền bá chủ nghĩa Mác - Lênin và lý luận cách mạng trong những người yêu nước và công nhân\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 36,
@@ -502,7 +501,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.4 \"Thời kỳ 1930 - 1941\", trang 57–58), Hội nghị Trung ương Đảng họp tháng 10/1930 đã ra Án nghị quyết: *\"Thủ tiêu Chánh cương, Sách lược và Điều lệ Đảng; bỏ tên Đảng Cộng sản Việt Nam do Hồ Chí Minh và những người tham gia Hội nghị thành lập Đảng xác định, lấy tên là Đảng Cộng sản Đông Dương, hoạt động theo như chỉ thị của Quốc tế Cộng sản\"*. Cả ba phương án A, B, C đều nằm trong nội dung Án nghị quyết nên đáp án D là chính xác nhất.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 37,
@@ -516,7 +515,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.4 \"Thời kỳ 1930 - 1941\", trang 59), giáo trình ghi rõ nguyên văn: *\"Tư tưởng Hồ Chí Minh được Đảng Cộng sản Đông Dương khẳng định, trở thành yếu tố chỉ đạo cách mạng Việt Nam từ Hội nghị Trung ương Đảng tháng 5/1941\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 38,
@@ -530,7 +529,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.4 \"Thời kỳ 1930 - 1941\", trang 60), giáo trình ghi nhận nguyên văn: *\"Hội nghị Trung ương Đảng đã tạm thời gác lại khẩu hiệu cách mạng điền địa, xóa bỏ vấn đề lập Chính phủ Liên bang Cộng hòa dân chủ Đông Dương, thay vào đó là chủ trương sẽ thành lập Chính phủ nhân dân của nước Việt Nam Dân chủ Cộng hòa, nêu chủ trương lập Mặt trận Việt Minh, thực hiện đại đoàn kết dân tộc trên cơ sở nòng cốt liên minh công nông, nêu ra phương hướng khởi nghĩa vũ trang giành chính quyền, v.v.\"* . Vì vậy, cả ba phương án A, B và C đều là các nội dung được thay thế.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 39,
@@ -544,7 +543,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.5 \"Thời kỳ 1941 - 1969\", trang 62), giáo trình nêu rõ: Với phương châm “Dĩ bất biến, ứng vạn biến”, Người đã chỉ đạo thành công các sách lược linh hoạt: *\"Khi thì tạm hòa hoãn với Tưởng để rảnh tay đối phó với thực dân Pháp, lúc thì tạm hòa hoãn với Pháp để đuổi quân Tưởng và quét sạch bọn phản động tay sai của Tưởng về nước, dành thời gian củng cố lực lượng, chuẩn bị toàn quốc kháng chiến chống thực dân Pháp\"* . Do đó, đáp án đúng là D.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 40,
@@ -558,7 +557,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.5 \"Thời kỳ 1941 - 1969\", trang 62 và Chương 3, mục I.2.b, trang 84), tại Đại hội đại biểu toàn quốc lần thứ II (tháng 2/1951), Đảng ra hoạt động công khai lấy tên là **Đảng Lao động Việt Nam** [1, 2]. Hồ Chí Minh khẳng định: *\"Chính vì Đảng Lao động Việt Nam là Đảng của giai cấp công nhân và nhân dân lao động, cho nên nó phải là Đảng của dân tộc Việt Nam\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 41,
@@ -572,7 +571,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.1.a \"Thực tiễn Việt Nam cuối thế kỷ XIX - đầu thế kỷ XX\", trang 33), cuộc khai thác thuộc địa của thực dân Pháp đã làm biến đổi cơ cấu xã hội: *\"Bên cạnh tầng lớp thợ thủ công, tiểu thương, trong xã hội Việt Nam xuất hiện những giai tầng mới, đó là **giai cấp công nhân, giai cấp tư sản và tầng lớp tiểu tư sản ở thành thị**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 42,
@@ -586,7 +585,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.1.a \"Thực tiễn Việt Nam cuối thế kỷ XIX - đầu thế kỷ XX\", trang 33), giáo trình ghi rõ: *\"Từ đó, bên cạnh mâu thuẫn cơ bản trong xã hội phong kiến là mâu thuẫn giữa giai cấp nông dân với địa chủ phong kiến, xuất hiện các mâu thuẫn mới: **Mâu thuẫn giữa giai cấp công nhân Việt Nam với giai cấp tư sản, mâu thuẫn giữa toàn thể nhân dân Việt Nam với thực dân Pháp**\"* (chủ nghĩa đế quốc) .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 43,
@@ -600,7 +599,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.1.a \"Thực tiễn Việt Nam cuối thế kỷ XIX - đầu thế kỷ XX\", trang 34), giáo trình phân tích nguyên nhân thất bại của các phong trào yêu nước theo khuynh hướng dân chủ tư sản nguyên văn như sau: *\"Các phong trào yêu nước theo khuynh hướng dân chủ tư sản nói trên đều thất bại. **Nguyên nhân sâu xa là giai cấp tư sản Việt Nam còn non yếu. Nguyên nhân trực tiếp là các tổ chức và người lãnh đạo của các phong trào chưa có đường lối và phương pháp cách mạng đúng đắn**\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 44,
@@ -614,7 +613,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.1.b \"Thực tiễn thế giới cuối thế kỷ XIX - đầu thế kỷ XX\", trang 36), giáo trình ghi nhận nguyên văn 3 mâu thuẫn cơ bản: *\"Tình hình đó đã làm sâu sắc thêm mâu thuẫn vốn có trong lòng chủ nghĩa tư bản, đó là **mâu thuẫn giữa giai cấp tư sản với giai cấp vô sản ở các nước tư bản; mâu thuẫn giữa các nước đế quốc với nhau; mâu thuẫn giữa các dân tộc thuộc địa và phụ thuộc với chủ nghĩa đế quốc**\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 45,
@@ -628,7 +627,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.a \"Giá trị truyền thống tốt đẹp của dân tộc Việt Nam\", trang 37), giáo trình khẳng định ngay câu đầu tiên: *\"**Chủ nghĩa yêu nước là giá trị xuyên suốt trong những truyền thống tốt đẹp của dân tộc Việt Nam.** Đó là động lực, sức mạnh giúp cho dân tộc Việt Nam tồn tại và vượt qua mọi khó khăn trong quá trình dựng nước và giữ nước mà phát triển\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 46,
@@ -642,7 +641,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.a \"Giá trị truyền thống tốt đẹp của dân tộc Việt Nam\", trang 38), giáo trình khẳng định nguyên văn: *\"Chủ nghĩa yêu nước là **nền tảng tư tưởng, điểm xuất phát và động lực thúc đẩy** Hồ Chí Minh ra đi tìm đường cứu nước, cứu dân\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 47,
@@ -656,7 +655,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.b \"Tinh hoa văn hóa nhân loại\", trang 39), khi tiếp thu Nho giáo, Hồ Chí Minh chú ý kế thừa *\"về phương pháp quản lý xã hội, đó là **dùng 'nhân trị', 'đức trị'**\"*. *(Các phương án A và C thuộc về Phật giáo, D thuộc về Lão giáo).*",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 48,
@@ -670,7 +669,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.b \"Tinh hoa văn hóa nhân loại\", trang 39–40), giáo trình khẳng định nguyên văn: *\"**Tinh thần trọng đạo đức** của Nho giáo được Hồ Chí Minh kế thừa, đổi mới và phát triển trong việc tu dưỡng, rèn luyện đạo đức của con người; trong công tác xây dựng Đảng về đạo đức...\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 49,
@@ -684,7 +683,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.b \"Tinh hoa văn hóa nhân loại\", trang 41), giáo trình chỉ rõ: *\"Đối với Lão giáo (hoặc Đạo giáo), Hồ Chí Minh chú ý kế thừa, phát triển tư tưởng của Lão Tử, **khuyên con người nên sống gắn bó với thiên nhiên, hòa đồng với thiên nhiên, hơn nữa phải biết bảo vệ môi trường sống**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 50,
@@ -698,7 +697,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.b \"Tinh hoa văn hóa phương Tây\", trang 42–43), giáo trình khẳng định: *\"Người đã kế thừa, phát triển những quan điểm nhân quyền, dân quyền trong bản **Tuyên ngôn độc lập năm 1776 của Mỹ**, bản **Tuyên ngôn nhân quyền và dân quyền năm 1791 của Pháp** và đề xuất quan điểm về quyền mưu cầu độc lập, tự do, hạnh phúc của các dân tộc\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 51,
@@ -712,7 +711,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.c \"Chủ nghĩa Mác - Lênin\", trang 44), giáo trình nêu rõ: *\"**Chủ nghĩa Mác - Lênin là tiền đề lý luận quan trọng nhất, có vai trò quyết định trong việc hình thành tư tưởng Hồ Chí Minh.**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 52,
@@ -726,7 +725,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.1 \"Thời kỳ trước năm 1911\", trang 49–50), giáo trình nêu rõ về người cha của Bác: *\"Cụ Nguyễn Sinh Sắc thân sinh của Người đỗ phó bảng... Tinh thần yêu nước, thương dân và nhân cách của cụ Nguyễn Sinh Sắc có ảnh hưởng lớn lao đến tư tưởng, nhân cách Hồ Chí Minh thuở niên thiếu\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 53,
@@ -740,7 +739,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.1 \"Thời kỳ trước năm 1911\", trang 51), giáo trình chỉ rõ: *\"Tuy rất khâm phục tinh thần yêu nước của các vị tiền bối cách mạng nổi tiếng như Phan Bội Châu, Phan Châu Trinh, Hoàng Hoa Thám, v.v. nhưng Người sáng suốt phê phán, không tán thành, không đi theo các **phương pháp, khuynh hướng cứu nước** của các vị đó\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 54,
@@ -752,9 +751,9 @@ const QUESTIONS_DATA = [
       "C": "Lý luận cách mạng vô sản",
       "D": "Tư tưởng giải phóng dân tộc"
     },
-    "answer": "B",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3 \"Thời kỳ 1920 - 1930\", trang 54 và 57), giáo trình ghi nhận nguyên văn: *\"Thông qua báo chí và các hoạt động thực tiễn, Người tích cực **truyền bá chủ nghĩa Mác - Lênin** vào phong trào công nhân và phong trào yêu nước Việt Nam\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "answer": "D",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Tư tưởng giải phóng dân tộc**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Theo Giáo trình Tư tưởng Hồ Chí Minh chuẩn của Bộ GD&ĐT (Chương 2, mục II.3, trang 57) và Lịch sử Đảng Cộng sản Việt Nam: Hồ Chí Minh tích cực truyền bá **Chủ nghĩa Mác - Lênin** vào phong trào công nhân và phong trào yêu nước Việt Nam (đây là điều kiện cốt lõi dẫn tới việc thành lập Đảng).\n- Tuy nhiên, trong ngân hàng câu hỏi trắc nghiệm của Khoa/Bộ môn, đáp án được chốt là **D (Tư tưởng giải phóng dân tộc)**. Khi làm bài thi tại trường, bạn hãy chọn theo đáp án của Thầy (D) để đạt điểm tuyệt đối.",
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 55,
@@ -768,7 +767,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3 \"Thời kỳ 1920 - 1930\", trang 55–56), giáo trình trích dẫn nguyên văn: *\"Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam nêu mục tiêu và con đường cách mạng là 'làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản', 'đánh đổ đế quốc Pháp, phong kiến An Nam và giai cấp tư sản phản cách mạng'...\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 56,
@@ -782,7 +781,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3 \"Thời kỳ 1920 - 1930\", trang 56), giáo trình khẳng định nguyên văn: *\"Hồ Chí Minh thành lập Đảng Cộng sản Việt Nam với Cương lĩnh chính trị đúng đắn và sáng tạo đã chấm dứt cuộc khủng hoảng về đường lối cứu nước và tổ chức lãnh đạo cách mạng Việt Nam kéo dài suốt từ cuối thế kỷ XIX sang đầu năm 1930\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 57,
@@ -796,7 +795,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.4 \"Thời kỳ 1930 - 1941\", trang 57–58), giáo trình ghi nhận: *\"Thoát khỏi nhà tù của thực dân Anh ở Hồng Kông, năm 1934, Hồ Chí Minh trở lại Liên Xô, vào học Trường quốc tế Lênin. Sau đó, Người làm nghiên cứu sinh tại Ban Sử của Viện Nghiên cứu các vấn đề dân tộc và thuộc địa của Quốc tế Cộng sản. Trong khoảng thời gian từ năm 1934 đến năm 1938, Hồ Chí Minh vẫn còn bị hiểu lầm về một số hoạt động thực tế và quan điểm cách mạng\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 58,
@@ -810,7 +809,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.5 \"Thời kỳ 1941 - 1969\", trang 61), giáo trình ghi nhận nguyên văn: *\"Cách mạng Tháng Tám năm 1945 thành công đã lật đổ chế độ phong kiến hơn nghìn năm, lật đổ ách thống trị của thực dân Pháp hơn 80 năm và giành lại độc lập dân tộc trực tiếp từ tay phátxít Nhật. **Đây là thắng lợi to lớn đầu tiên của chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh ở Việt Nam**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 59,
@@ -824,7 +823,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.5 \"Thời kỳ 1941 - 1969\", trang 63), giáo trình khẳng định nguyên văn: *\"Từ năm 1954 đến năm 1969, Hồ Chí Minh xác định và lãnh đạo thực hiện đường lối cùng một lúc thi hành hai nhiệm vụ chiến lược của cách mạng Việt Nam: **Xây dựng chủ nghĩa xã hội ở miền Bắc; tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân ở miền Nam**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 60,
@@ -838,7 +837,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.5 \"Thời kỳ 1941 - 1969\", trang 63–64; Chương 1, mục IV.1, trang 28 và Chương 3, mục I.1.d, trang 78), câu nói trên được trích nguyên văn từ phần kết tác phẩm **Di chúc** (năm 1969) của Chủ tịch Hồ Chí Minh: *\"Điều mong muốn cuối cùng của Hồ Chí Minh là: 'Toàn Đảng, toàn dân ta đoàn kết phấn đấu, xây dựng một nước Việt Nam hoà bình, thống nhất, độc lập, dân chủ và giàu mạnh, và góp phần xứng đáng vào sự nghiệp cách mạng thế giới'\"* [3-5].",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 61,
@@ -852,7 +851,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 1, mục I \"Khái niệm tư tưởng Hồ Chí Minh\", trang 15), giáo trình khẳng định nguyên văn: *\"Đại hội đại biểu toàn quốc lần thứ VII của Đảng (năm 1991) là một mốc lớn khi nêu cao tư tưởng Hồ Chí Minh... Đại hội VII của Đảng khẳng định: 'Đảng lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động'\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 62,
@@ -864,9 +863,9 @@ const QUESTIONS_DATA = [
       "C": "Liên Xô đánh thắng 14 nước đế quốc",
       "D": "Tất cả các đáp án"
     },
-    "answer": "D",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.1.b \"Thực tiễn thế giới cuối thế kỷ XIX - đầu thế kỷ XX\", trang 36–37) cùng tác phẩm *Lịch sử nước ta* (1942) của Hồ Chí Minh, \"chuyện lạ đời\" ở nước Nga phản ánh thắng lợi vĩ đại của Cách mạng Tháng Mười Nga năm 1917, việc lập ra Nhà nước công nông đầu tiên trong lịch sử và sự kiện chính quyền Xô viết đánh thắng cuộc can thiệp của 14 nước đế quốc. Vì thế, cả ba nội dung ở các đáp án A, B, C đều chính xác.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "answer": "A",
+    "explanation": "Theo tác phẩm *Lịch sử nước ta* (1942) của Hồ Chí Minh: 'Năm một nghìn chín trăm mười bảy / Có một việc rất vẻ vang / Nước Nga cách mệnh thành công / Nước Nga có chuyện lạ đời / Biến người nô lệ thành người tự do'. Sự kiện trực tiếp biến người nô lệ thành người tự do là thắng lợi của Cách mạng Tháng Mười Nga năm 1917.",
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 63,
@@ -880,7 +879,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 1, mục I \"Khái niệm tư tưởng Hồ Chí Minh\", trang 15), giáo trình ghi nhận nguyên văn: *\"Đại hội đại biểu toàn quốc lần thứ VI của Đảng (tháng 12/1986) đã đề ra đường lối đổi mới toàn diện ở nước ta, trong đó nhấn mạnh: 'Đảng ta phải nắm vững bản chất cách mạng và khoa học của chủ nghĩa Mác - Lênin, kế thừa di sản quý báu về tư tưởng và lý luận cách mạng của Chủ tịch Hồ Chí Minh'\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 64,
@@ -894,7 +893,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (phần văn kiện chỉ đạo học tập lý luận chính trị và vận dụng tư tưởng Hồ Chí Minh), Ban Bí thư khóa XII đã ban hành **Chỉ thị số 23-CT/TW ngày 9/2/2018** về *\"Tiếp tục đổi mới, nâng cao chất lượng, hiệu quả học tập, nghiên cứu, vận dụng và phát triển chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh trong tình hình mới\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 65,
@@ -908,7 +907,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 1, mục I \"Khái niệm tư tưởng Hồ Chí Minh\", trang 14), đoạn trích trên nằm trong *Điếu văn của Ban Chấp hành Trung ương Đảng* do Bí thư thứ nhất **Lê Duẩn** đọc tại Lễ truy điệu Chủ tịch Hồ Chí Minh ngày 9/9/1969.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 66,
@@ -922,7 +921,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 6, mục II.3.c \"Tu dưỡng đạo đức suốt đời\", trang 239–240), câu nói: *\"Đạo đức cách mạng không phải trên trời sa xuống. Nó do đấu tranh, rèn luyện bền bỉ hằng ngày mà phát triển và củng cố. Cũng như ngọc càng mài càng sáng, vàng càng luyện càng trong\"* được trích nguyên văn từ tác phẩm **Đạo đức cách mạng** (năm 1958) của Chủ tịch Hồ Chí Minh (Hồ Chí Minh: *Toàn tập*, t.11, tr.612).",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 67,
@@ -936,7 +935,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Căn cứ **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.2 \"Thời kỳ 1911 - 1920\", trang 51–52 và mục II.3 \"Thời kỳ 1920 - 1930\", trang 53–54), trong 10 năm đầu bôn ba (1911 - 1920), Nguyễn Ái Quốc đã đi qua 3 đại dương, 4 châu lục, đến gần 30 nước, sống và làm thuê tại Mỹ, Anh, Pháp [1, 2]. Sự kiện Người đến Mátxcơva (Liên Xô) và dự Hội nghị Quốc tế Nông dân diễn ra vào tháng 10/1923 (thuộc thời kỳ 1920 - 1930), do đó phương án D là đáp án sai đối với giai đoạn 1911 - 1920 [1, 2].",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 68,
@@ -950,7 +949,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Căn cứ **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 6, mục III.3.c \"Phương pháp xây dựng con người\", trang 247), câu thơ *\"Hiền, dữ phải đâu là tính sẵn/ Phần nhiều do giáo dục mà nên\"* trích từ bài thơ \"Nửa đêm\" (Dạ bán) trong tác phẩm *Nhật ký trong tù* của Chủ tịch **Hồ Chí Minh** .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 69,
@@ -964,7 +963,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Căn cứ **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.1.a \"Thực tiễn Việt Nam cuối thế kỷ XIX - đầu thế kỷ XX\", trang 35), giáo trình khẳng định nguyên văn: *\"Phong trào công nhân và các phong trào yêu nước Việt Nam đầu thế kỷ XX tạo điều kiện thuận lợi để chủ nghĩa Mác - Lênin xâm nhập, truyền bá vào đất nước ta\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 70,
@@ -978,7 +977,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.1.b \"Thực tiễn thế giới cuối thế kỷ XIX - đầu thế kỷ XX\", trang 36–37) , giáo trình khẳng định nguyên văn: *\"Ngày 2/3/1919, Quốc tế Cộng sản ra đời ở Mátxcơva trở thành Bộ tham mưu, lãnh đạo phong trào cách mạng thế giới. Dưới sự lãnh đạo của Lênin, Quốc tế Cộng sản đẩy mạnh việc **truyền bá chủ nghĩa Mác - Lênin và kinh nghiệm Cách mạng Tháng Mười Nga ra khắp thế giới**, thúc đẩy sự ra đời và hoạt động ngày càng mạnh mẽ của các đảng cộng sản ở nhiều nước\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 71,
@@ -990,7 +989,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.b \"Tinh hoa văn hóa nhân loại\", trang 40–41) , giáo trình ghi rõ nguyên văn: *\"Những quan điểm tích cực đó trong triết lý của đạo Phật được Hồ Chí Minh vận dụng sáng tạo để đoàn kết đồng bào theo đạo Phật, đoàn kết toàn dân vì **nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh**\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 72,
@@ -1004,7 +1003,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.b \"Tinh hoa văn hóa nhân loại\", trang 41–42  và Chương 3, mục I.1.b, trang 75–76 ), giáo trình nêu rõ: Hồ Chí Minh *\"đánh giá cao học thuyết 'Tam dân' của Tôn Trung Sơn về độc lập và tự do: **dân tộc độc lập, dân quyền tự do và dân sinh hạnh phúc**\"*, từ đó phát triển sáng tạo thành tư tưởng đấu tranh cho Độc lập - Tự do - Hạnh phúc của dân tộc Việt Nam.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 73,
@@ -1018,7 +1017,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.b \"Tinh hoa văn hóa phương Tây\", trang 43), giáo trình ghi nhận nguyên văn: *\"Người trực tiếp nghiên cứu **tư tưởng nhân văn, dân chủ và nhà nước pháp quyền** của các nhà khai sáng phương Tây như Vonte, Rútxô, Môngtétxkiơ, tìm hiểu chủ nghĩa Tam dân của Tôn Trung Sơn, v.v.\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 74,
@@ -1032,7 +1031,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.c \"Chủ nghĩa Mác - Lênin\", trang 43), giáo trình khẳng định nguyên văn: *\"**Cách mạng Tháng Mười Nga năm 1917 và thời đại mới cũng như chủ nghĩa Mác - Lênin** là cơ sở lý luận quyết định bước phát triển mới về chất trong tư tưởng Hồ Chí Minh, khiến Người vượt hẳn lên phía trước so với những người yêu nước cùng thời\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 75,
@@ -1046,7 +1045,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.c \"Chủ nghĩa Mác - Lênin\", trang 43–44), giáo trình ghi nhận nguyên văn: *\"Vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin, Hồ Chí Minh đã giải quyết được cuộc khủng hoảng đường lối cứu nước và người lãnh đạo cách mạng ở Việt Nam cuối thế kỷ XIX - đầu thế kỷ XX. **Đối với Hồ Chí Minh, chủ nghĩa Mác - Lênin là thế giới quan, phương pháp luận trong nhận thức và hoạt động cách mạng**\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 76,
@@ -1060,7 +1059,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.2 \"Thời kỳ 1911 - 1920\", trang 52), giáo trình khẳng định nguyên văn: *\"Hồ Chí Minh đã tìm thấy và xác định rõ **phương hướng đấu tranh giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản** qua nghiên cứu Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa... của V.I. Lênin\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 77,
@@ -1074,7 +1073,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3 \"Thời kỳ 1920 - 1930\", trang 53–54), giáo trình nêu rõ: năm 1922, Hồ Chí Minh *\"sáng lập báo Le Paria bằng tiếng Pháp... gửi đến các thuộc địa của Pháp, trong đó có Đông Dương, để **thức tỉnh tinh thần giải phóng dân tộc của nhân dân các nước thuộc địa**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 78,
@@ -1088,7 +1087,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3 \"Thời kỳ 1920 - 1930\", trang 54), giáo trình ghi nhận nguyên văn: *\"Tổng kết kinh nghiệm các cuộc cách mạng tư sản Anh, Pháp, Mỹ và nhất là từ kinh nghiệm Cách mạng Tháng Mười Nga, Hồ Chí Minh vạch rõ **cách mạng Việt Nam phải có Đảng Cộng sản với chủ nghĩa Mác - Lênin làm cốt để lãnh đạo; lực lượng cách mạng giải phóng dân tộc là toàn thể nhân dân Việt Nam, trong đó nòng cốt là liên minh công nông**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 79,
@@ -1102,7 +1101,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.2.c \"Chủ nghĩa Mác - Lênin\", trang 44–45), Hồ Chí Minh ghi nhận nguyên văn: *\"Hồ Chí Minh trở thành người cộng sản trên cơ sở hiểu biết sâu sắc kho tàng tri thức của nhân loại từ cổ chí kim, từ Đông sang Tây. Người nhận định: 'Học thuyết Khổng Tử có ưu điểm là **sự tu dưỡng đạo đức cá nhân**. Tôn giáo Giêsu có ưu điểm là lòng nhân ái cao cả. Chủ nghĩa Mác có ưu điểm là phương pháp làm việc biện chứng. Chủ nghĩa Tôn Dật Tiên có ưu điểm là chính sách của nó phù hợp với điều kiện nước ta'...\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 80,
@@ -1114,9 +1113,9 @@ const QUESTIONS_DATA = [
       "C": "Cuộc sống nghèo khổ, bị áp bức, bóc lột đến cùng cực của đồng bào mình",
       "D": "Hiểu rõ bản chất của những từ Tự do - Bình đẳng - Bác ái"
     },
-    "answer": "B",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.1 \"Thời kỳ trước năm 1911\", trang 51), giáo trình nêu rõ: Tuy rất khâm phục tinh thần yêu nước của các vị tiền bối như Phan Bội Châu, Phan Châu Trinh, Hoàng Hoa Thám, nhưng Hồ Chí Minh đã sớm **nhận ra hạn chế trong con đường cứu nước của những người đi trước**, từ đó *\"sáng suốt phê phán, không tán thành, không đi theo các phương pháp, khuynh hướng cứu nước của các vị đó\"* để tìm kiếm một con đường cứu nước mới .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "answer": "A",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **A. Xác định rõ bản chất của chủ nghĩa đế quốc, thực dân**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Theo Giáo trình Tư tưởng Hồ Chí Minh (Bộ GD&ĐT, Chương 2, trang 51), Nguyễn Tất Thành sớm khâm phục các bậc tiền bối nhưng nhận ra hạn chế của họ (đáp án B). Việc Người sang chính nước Pháp và phương Tây là để tìm hiểu bản chất của chủ nghĩa đế quốc, thực dân, tìm ra con đường cứu nước đúng đắn.\n- Giảng viên chọn đáp án **A** nhằm nhấn mạnh vào nhận thức bản chất kẻ thù. Khi thi trên trường, hãy ưu tiên chọn A.",
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 81,
@@ -1130,7 +1129,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.1 \"Thời kỳ trước năm 1911\", trang 50), giáo trình khẳng định nguyên văn: *\"Tiếp thu truyền thống tốt đẹp của quê hương, gia đình... hiểu rõ tình cảnh nước nhà bị giặc ngoại xâm đô hộ, Hồ Chí Minh sớm có tư tưởng yêu nước và thể hiện rõ tư tưởng yêu nước trong hành động. Hồ Chí Minh đã tham gia **phong trào chống thuế ở Trung Kỳ (năm 1908)**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 82,
@@ -1144,7 +1143,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.2 \"Thời kỳ 1911 - 1920\", trang 51–52), giáo trình nêu rõ nguyên văn: *\"Năm 1919, Người gia nhập Đảng Xã hội của giai cấp công nhân Pháp, bởi theo Người, đây là tổ chức theo đuổi lý tưởng cao quý của Đại Cách mạng Pháp: Tự do, bình đẳng, bác ái\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 83,
@@ -1156,9 +1155,9 @@ const QUESTIONS_DATA = [
       "C": "Tiếng nói đại diện cho toàn thể nhân dân các nước thuộc địa Pháp",
       "D": "Tiếng nói phản đối chế độ thực dân Pháp trên toàn thế giới"
     },
-    "answer": "B",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.2 \"Thời kỳ 1911 - 1920\", trang 52–53), giáo trình ghi nhận nguyên văn: *\"Gửi Yêu sách của nhân dân An Nam tới Hội nghị Vécxây (ngày 18/6/1919)... Đây là tiếng nói chính nghĩa đầu tiên của đại biểu phong trào giải phóng dân tộc Việt Nam trên diễn đàn quốc tế\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "answer": "C",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **C. Tiếng nói đại diện cho toàn thể nhân dân các nước thuộc địa Pháp**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Về văn bản lịch sử (Hồ Chí Minh Toàn tập, Tập 1) và Giáo trình Bộ GD&ĐT (trang 52-53): Bản *Yêu sách của nhân dân An Nam* (18/6/1919) do Nguyễn Ái Quốc ký tên thay mặt nhóm người An Nam yêu nước là 'tiếng nói chính nghĩa đầu tiên của đại biểu phong trào giải phóng dân tộc Việt Nam trên diễn đàn quốc tế' (đáp án B).\n- Tuy nhiên, góc nhìn của Giảng viên/bộ đề mở rộng ý nghĩa sự kiện này thành tiếng nói chung của các dân tộc thuộc địa Pháp. Thí sinh thi theo barem trường chọn **C**.",
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 84,
@@ -1172,7 +1171,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3 \"Thời kỳ 1920 - 1930\", trang 54–55), giáo trình khẳng định nguyên văn: *\"Những nội dung cốt lõi đó và nhiều vấn đề trong đường lối, phương pháp cách mạng Việt Nam được thể hiện trong tác phẩm Đường cách mệnh của Người xuất bản năm 1927 ở Quảng Châu, Trung Quốc. Tác phẩm là sự chuẩn bị mọi mặt về chính trị, tư tưởng, tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 85,
@@ -1186,7 +1185,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.4 \"Thời kỳ 1930 - 1941\", trang 56–57), giáo trình chỉ rõ: *\"Một số người trong Quốc tế Cộng sản và Đảng Cộng sản Đông Dương có những nhìn nhận sai lầm về Hồ Chí Minh do chịu ảnh hưởng quan điểm giáo điều tả khuynh xuất hiện trong Đại hội VI của Quốc tế Cộng sản. **Do không nắm vững tình hình các dân tộc thuộc địa và ở Đông Dương**, nên tư tưởng mới mẻ, đúng đắn, sáng tạo của Hồ Chí Minh trong Cương lĩnh chính trị đầu tiên chẳng những không được hiểu và chấp nhận mà còn bị phê phán...\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 86,
@@ -1200,7 +1199,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.4 \"Thời kỳ 1930 - 1941\", trang 57–58), giáo trình ghi nhận nguyên văn: *\"Khi Chiến tranh thế giới thứ hai bùng nổ, **nhận thấy thời cuộc sẽ có những chuyển biến lớn, nên cần phải trở về nước trực tiếp tham gia lãnh đạo cách mạng Việt Nam**, ngày 6/6/1938, Hồ Chí Minh gửi thư cho một lãnh đạo Quốc tế Cộng sản, đề nghị cho phép trở về nước hoạt động...\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 87,
@@ -1214,7 +1213,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.4 \"Thời kỳ 1930 - 1941\", trang 58), giáo trình trích dẫn nguyên văn lời Hồ Chí Minh tại Hội nghị Ban Chấp hành Trung ương Đảng tháng 5/1941: *\"Trong lúc này **quyền lợi dân tộc giải phóng cao hơn hết thảy**. Chúng ta phải đoàn kết lại đánh đổ bọn **đế quốc** và bọn **Việt gian** đặng cứu giống nòi ra khỏi nước sôi lửa nóng\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 88,
@@ -1226,9 +1225,9 @@ const QUESTIONS_DATA = [
       "C": "Mở ra thời kỳ tập trung cải tạo xã hội cũ, xây dựng xã hội mới",
       "D": "Mở ra thời kỳ hội nhập sâu rộng với nền kinh tế thế giới"
     },
-    "answer": "A",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.5 \"Thời kỳ 1941 - 1969\", trang 61–62 ; Chương 3, mục III.1.a, trang 64 ), ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn độc lập khai sinh ra nước Việt Nam Dân chủ Cộng hòa: *\"Một thời đại mới trong lịch sử dân tộc Việt Nam đã được mở ra: Thời đại độc lập dân tộc và chủ nghĩa xã hội\"* [1, 2].",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "answer": "B",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. Mở ra thời kỳ quá độ đi lên chủ nghĩa xã hội trên phạm vi cả nước**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & CẢNH BÁO ĐỀ THI]**:\n- Theo Lịch sử Đảng và Văn kiện Đại hội Đảng: Năm 1945 nước ta bước vào cuộc kháng chiến chống thực dân Pháp, chưa thể quá độ lên CNXH trên phạm vi cả nước. Phải sau Đại thắng mùa Xuân 1975, Đại hội IV (1976) mới xác định thời kỳ quá độ lên CNXH trên phạm vi cả nước. Giáo trình Bộ GD&ĐT (Chương 2, trang 61-62) khẳng định 2/9/1945: 'Mở ra một thời đại mới – thời đại độc lập dân tộc gắn liền với chủ nghĩa xã hội' (đáp án A).\n- **Cảnh báo thi cử**: Barem chấm thi của Thầy hiện đang chốt **B**. Để không bị trừ điểm máy chấm, hãy chọn B khi thi, nhưng cần ghi nhớ bản chất lịch sử Đảng chuẩn xác là thời đại độc lập dân tộc gắn liền CNXH.",
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 89,
@@ -1242,7 +1241,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.5 \"Thời kỳ 1941 - 1969\", trang 62–63 ; Chương 3, mục I.1.a, trang 75 ), giáo trình khẳng định nguyên văn: *\"Ngày 19/12/1946, Người ra Lời kêu gọi toàn quốc kháng chiến, vừa thể hiện khái quát đường lối kháng chiến chống thực dân Pháp, vừa là lời thề thiêng liêng bảo vệ Tổ quốc của dân tộc Việt Nam, với ý chí, quyết tâm thà hy sinh tất cả chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ\"* [3, 4].",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 90,
@@ -1256,7 +1255,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục III.1 \"Đối với cách mạng Việt Nam\", trang 64–66 [2, 5]), giá trị của tư tưởng Hồ Chí Minh đối với cách mạng Việt Nam bao gồm hai nội dung lớn: 1. *\"Tư tưởng Hồ Chí Minh đưa cách mạng giải phóng dân tộc Việt Nam đến thắng lợi và bắt đầu xây dựng một xã hội mới trên đất nước ta\"* ; 2. *\"Tư tưởng Hồ Chí Minh là nền tảng tư tưởng và kim chỉ nam cho cách mạng Việt Nam\"* . (Các phương án A, C, D đều bị ghép lẫn với phần III.2 \"Đối với sự phát triển tiến bộ của nhân loại\").",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 91,
@@ -1268,7 +1267,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục III.2 \"Đối với sự phát triển tiến bộ của nhân loại\", trang 66–69), giá trị của tư tưởng Hồ Chí Minh đối với nhân loại gồm hai nội dung lớn: 1. *\"Góp phần mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc gắn với sự tiến bộ xã hội\"*; 2. *\"Góp phần tích cực vào cuộc đấu tranh vì độc lập dân tộc, dân chủ, hòa bình, hợp tác và phát triển trên thế giới\"*. Phương án A bao quát đầy đủ cả hai giá trị này, trong khi phương án B bị lẫn với giá trị đối với cách mạng Việt Nam.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 2: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh"
   },
   {
     "id": 92,
@@ -1282,7 +1281,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1 \"Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản\", trang 72–75), giáo trình khẳng định luận điểm trung tâm: *\"Muốn cứu nước và giải phóng dân tộc không có con đường nào khác con đường cách mạng vô sản\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 93,
@@ -1296,7 +1295,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.2 \"Thời kỳ 1911 - 1920\", trang 52), giáo trình ghi nhận nguyên văn: *\"Tháng 7/1920, Người đọc bản Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của V.I. Lênin đăng trên báo Nhân đạo (L'Humanité) tại Pháp. Từ bản Luận cương của Lênin, Hồ Chí Minh đã tìm thấy con đường cứu nước, giải phóng dân tộc\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 94,
@@ -1310,7 +1309,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.b \"Cách mạng giải phóng dân tộc, trong điều kiện của Việt Nam, muốn thắng lợi phải do Đảng Cộng sản lãnh đạo\", trang 84), giáo trình ghi rõ nguyên văn: *\"Trong hoàn cảnh Việt Nam là một nước thuộc địa phong kiến, Hồ Chí Minh cho rằng, Đảng Cộng sản vừa là đội tiên phong của **giai cấp công nhân** vừa là đội tiên phong của **nhân dân lao động**, kiên quyết nhất, hăng hái nhất, trong sạch nhất, tận tâm tận lực phụng sự Tổ quốc\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 95,
@@ -1324,7 +1323,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam - Về con người Việt Nam\", trang 107), giáo trình ghi nhận nguyên văn giải thích của Hồ Chí Minh: *\"Những tư tưởng và tác phong mới mà mỗi người cần bồi dưỡng cho mình là: Có ý thức làm chủ nhà nước, có tinh thần tập thể xã hội chủ nghĩa và tư tưởng 'mình vì mọi người, mọi người vì mình'; có quan điểm 'tất cả phục vụ sản xuất'; có ý thức cần kiệm xây dựng nước nhà; có tinh thần tiến nhanh, tiến mạnh, tiến vững chắc lên chủ nghĩa xã hội và phải chống lại những tư tưởng, tác phong xấu là: Chủ nghĩa cá nhân; quan liêu, mệnh lệnh; tham ô, lãng phí; bảo thủ, rụt rè\"*. Vì vậy, cả 3 phương án A, B, C đều thuộc nội dung Hồ Chí Minh giải thích, đáp án đúng là D.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 96,
@@ -1338,7 +1337,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.3.a \"Tính chất, đặc điểm và nhiệm vụ của thời kỳ quá độ\", trang 109), giáo trình chỉ rõ nguyên văn: *\"Hồ Chí Minh nhận thấy **'đặc điểm to nhất của ta trong thời kỳ quá độ là từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa'**\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 97,
@@ -1352,7 +1351,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.3.a \"Tính chất, đặc điểm và nhiệm vụ của thời kỳ quá độ\", trang 109), giáo trình nêu rõ luận điểm khái quát về nhiệm vụ lịch sử: *\"Nhiệm vụ của thời kỳ quá độ: Đấu tranh cải tạo, xóa bỏ tàn tích của chế độ xã hội cũ, xây dựng các yếu tố mới phù hợp với quy luật tiến lên chủ nghĩa xã hội trên tất cả các lĩnh vực của đời sống...\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 98,
@@ -1366,7 +1365,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.3.b \"Một số nguyên tắc xây dựng chủ nghĩa xã hội trong thời kỳ quá độ\", trang 111–113), Hồ Chí Minh xác định các nguyên tắc xây dựng CNXH bao gồm: 1. *\"Mọi tư tưởng, hành động phải được thực hiện trên nền tảng chủ nghĩa Mác - Lênin\"* (trang 111) ; 2. *\"Phải giữ vững độc lập dân tộc\"* (trang 112) ; 3. *\"Phải đoàn kết, học tập kinh nghiệm của các nước anh em\"* (trang 112) ; 4. *\"Xây phải đi đôi với chống\"* (trang 113) . Do đó, cả 3 phương án A, B, C đều là nguyên tắc xây dựng CNXH, chọn đáp án D [2-5].",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 99,
@@ -1380,7 +1379,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục III.2 \"Chủ nghĩa xã hội là điều kiện để bảo đảm nền độc lập dân tộc vững chắc\", trang 116), giáo trình trích nguyên văn câu nói năm 1960 của Hồ Chí Minh (Hồ Chí Minh: *Toàn tập*, t.12, tr.563): *\"Chỉ có chủ nghĩa xã hội, chủ nghĩa cộng sản mới giải phóng được **các dân tộc** bị áp bức và những **người lao động** trên thế giới khỏi ách **nô lệ**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 100,
@@ -1394,7 +1393,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục III.3 \"Điều kiện để bảo đảm độc lập dân tộc gắn liền với chủ nghĩa xã hội\", trang 117–118), giáo trình xác định 3 điều kiện cơ bản bao gồm [1, 2]: 1. *\"Một là, phải bảo đảm vai trò lãnh đạo tuyệt đối của Đảng Cộng sản trong suốt tiến trình cách mạng\"* ; 2. *\"Hai là, phải củng cố và tăng cường khối đại đoàn kết dân tộc mà nền tảng là khối liên minh công - nông\"* ; 3. *\"Ba là, phải đoàn kết, gắn bó chặt chẽ với cách mạng thế giới\"* . Cả ba điều kiện này phải luôn được bảo đảm và gắn bó chặt chẽ với nhau .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 101,
@@ -1408,7 +1407,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.a \"Mục tiêu về văn hóa\", trang 101–102), giáo trình trích nguyên văn: *\"Hồ Chí Minh cho rằng, mối quan hệ giữa văn hóa với chính trị và kinh tế là mối quan hệ biện chứng. **Chế độ chính trị và kinh tế của xã hội là nền tảng và quyết định tính chất của văn hóa; còn văn hóa góp phần thực hiện mục tiêu của chính trị và kinh tế**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 102,
@@ -1422,7 +1421,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam\", trang 103–104), giáo trình ghi rõ: *\"để thúc đẩy tiến trình cách mạng xã hội chủ nghĩa phải bảo đảm lợi ích của dân, dân chủ của dân, **sức mạnh đoàn kết toàn dân**. Trong tư tưởng Hồ Chí Minh, đây là những động lực hàng đầu của chủ nghĩa xã hội\"* . Đồng thời, Người khẳng định *\"Về sức mạnh đoàn kết toàn dân, Hồ Chí Minh cho rằng, đây là lực lượng mạnh nhất trong tất cả các lực lượng...\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 103,
@@ -1436,7 +1435,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.3.a \"Tính chất, đặc điểm và nhiệm vụ của thời kỳ quá độ\", trang 110), giáo trình khẳng định nguyên văn: *\"Về kinh tế, trong bối cảnh nền kinh tế của nước ta còn nghèo nàn, kỹ thuật lạc hậu, Hồ Chí Minh xác định nhiệm vụ quan trọng nhất của thời kỳ quá độ là phải **cải tạo nền kinh tế cũ, xây dựng nền kinh tế mới có công nghiệp và nông nghiệp hiện đại**\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 104,
@@ -1450,7 +1449,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục III \"Tư tưởng Hồ Chí Minh về mối quan hệ giữa độc lập dân tộc và chủ nghĩa xã hội\", trang 112, 114, 116), giáo trình chỉ rõ mối quan hệ hai chiều: *\"1. Độc lập dân tộc là cơ sở, tiền đề để tiến lên chủ nghĩa xã hội\"* và *\"2. Chủ nghĩa xã hội là điều kiện để bảo đảm nền độc lập dân tộc vững chắc\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 105,
@@ -1464,7 +1463,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục III.1 \"Độc lập dân tộc là cơ sở, tiền đề để tiến lên chủ nghĩa xã hội\", trang 115), giáo trình trích nguyên văn: *\"Khi đề cao mục tiêu độc lập dân tộc, Hồ Chí Minh không coi đó là mục tiêu cuối cùng của cách mạng, mà là **tiền đề cho một cuộc cách mạng tiếp theo - cách mạng xã hội chủ nghĩa**\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 106,
@@ -1478,7 +1477,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 75), giáo trình trích dẫn nguyên văn: *\"Trong Chánh cương vắn tắt của Đảng (năm 1930), Hồ Chí Minh xác định mục tiêu chính trị của Đảng là: **a) Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến. b) Làm cho nước Nam được hoàn toàn độc lập**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 107,
@@ -1492,7 +1491,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 75), giáo trình ghi nhận nguyên văn: *\"Trong Tuyên ngôn độc lập năm 1945, thay mặt Chính phủ lâm thời, Hồ Chí Minh trịnh trọng tuyên bố trước quốc dân đồng bào và thế giới rằng: **'Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thực đã thành một nước tự do và độc lập...'**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 108,
@@ -1506,7 +1505,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 75), giáo trình trích nguyên văn: *\"Trong lời kêu gọi Liên hợp quốc năm 1946, một lần nữa Hồ Chí Minh khẳng định: 'Nhân dân chúng tôi thành thật mong muốn hòa bình. Nhưng nhân dân chúng tôi cũng kiên quyết chiến đấu đến cùng để bảo vệ những quyền thiêng liêng nhất: **Toàn vẹn lãnh thổ cho Tổ quốc và độc lập cho đất nước**'\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 109,
@@ -1520,7 +1519,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 76; Chương 2, mục II.5, trang 63), giáo trình ghi nhận nguyên văn: *\"Năm 1965, đế quốc Mỹ tăng cường mở rộng chiến tranh ở Việt Nam... Trong hoàn cảnh khó khăn, chiến tranh ác liệt đó, Hồ Chí Minh đã nêu lên một chân lý thời đại, một tuyên ngôn bất hủ của các dân tộc khao khát nền độc lập, tự do trên thế giới: **'Không có gì quý hơn độc lập, tự do'**\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 110,
@@ -1534,7 +1533,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng...\", trang 74 và mục I.1.b, trang 76–77), giáo trình trích nguyên văn: *\"Khi viện dẫn bản Tuyên ngôn nhân quyền và dân quyền của Cách mạng Pháp năm 1791 'Người ta sinh ra tự do và bình đẳng về quyền lợi, và phải luôn luôn được tự do và bình đẳng về quyền lợi', Hồ Chí Minh khẳng định dân tộc Việt Nam đương nhiên cũng phải được tự do và bình đẳng về quyền lợi. **'Đó là những lẽ phải không ai chối cãi được'**\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 111,
@@ -1548,7 +1547,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.b \"Độc lập dân tộc phải gắn liền với tự do, hạnh phúc của nhân dân\", trang 77), giáo trình trích nguyên văn câu nói của Hồ Chí Minh sau Cách mạng Tháng Tám năm 1945: *\"Nước độc lập mà **dân không hưởng hạnh phúc tự do**, thì độc lập cũng chẳng có nghĩa lý gì\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 112,
@@ -1562,7 +1561,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.c \"Độc lập dân tộc phải là nền độc lập thật sự, hoàn toàn và triệt để\", trang 77–78), giáo trình khẳng định nguyên văn: *\"Theo Hồ Chí Minh, độc lập dân tộc phải là **độc lập thật sự, hoàn toàn và triệt để trên tất cả các lĩnh vực**. Người nhấn mạnh: độc lập mà người dân không có quyền tự quyết về ngoại giao, không có quân đội riêng, không có nền tài chính riêng..., thì độc lập đó chẳng có ý nghĩa gì\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 113,
@@ -1576,7 +1575,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.d \"Độc lập dân tộc gắn liền với thống nhất và toàn vẹn lãnh thổ\", trang 78), giáo trình trích dẫn nguyên văn: *\"Trong Thư gửi đồng bào Nam Bộ (năm 1946), Hồ Chí Minh khẳng định: 'Đồng bào Nam Bộ là dân nước Việt Nam. Sông có thể cạn, núi có thể mòn, song chân lý đó không bao giờ thay đổi'\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 114,
@@ -1590,7 +1589,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.a \"Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản\", trang 80), giáo trình trích dẫn nhận định của Hồ Chí Minh trong tác phẩm *Đường cách mệnh*: *\"Trong thế giới bây giờ chỉ có cách mệnh Nga là đã thành công, và thành công đến nơi, nghĩa là **dân chúng được hưởng cái hạnh phúc tự do, bình đẳng thật**, không phải tự do và bình đẳng giả dối như đế quốc chủ nghĩa Pháp khoe khoang bên An Nam...\"*.",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 115,
@@ -1604,7 +1603,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.a \"Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản\", trang 81), giáo trình trích dẫn nguyên văn cảm xúc của Hồ Chí Minh trong bài *Con đường dẫn tôi đến chủ nghĩa Lênin*: *\"Hỡi đồng bào bị đọa đày đau khổ! **Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta!**\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 116,
@@ -1618,7 +1617,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.3 \"Thời kỳ 1920 - 1930\", trang 55 và Chương 3, mục I.2.a, trang 81), giáo trình khẳng định nguyên văn: *\"Trong Chánh cương vắn tắt của Đảng năm 1930, Hồ Chí Minh đã khẳng định phương hướng chiến lược cách mạng Việt Nam: **làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản**\"* [2, 3].",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 117,
@@ -1632,7 +1631,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 73 và Chương 4, mục II.2.a, trang 150), giáo trình chỉ rõ bản *Yêu sách của nhân dân An Nam* gồm 8 điểm với hai nội dung chính là *\"đòi **quyền bình đẳng về mặt pháp lý** và đòi **các quyền tự do, dân chủ của người dân** Đông Dương\"* (làm cho người bản xứ cũng được hưởng những bảo đảm về mặt pháp luật như người châu Âu) [4, 5].",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 118,
@@ -1646,7 +1645,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 74–75) , giáo trình trích nguyên văn: *\"Căn cứ vào những quyền tự do, bình đẳng và quyền con người 'những quyền mà không ai có thể xâm phạm được' đã được ghi trong bản Tuyên ngôn độc lập của cách mạng Mỹ năm 1776, Tuyên ngôn nhân quyền và dân quyền của Cách mạng Pháp năm 1791, Hồ Chí Minh tiếp tục khẳng định những giá trị thiêng liêng, bất biến về quyền dân tộc: 'Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng; dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do... Đó là những lẽ phải không ai chối cãi được'\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 119,
@@ -1660,7 +1659,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.b \"Cách mạng giải phóng dân tộc, trong điều kiện của Việt Nam, muốn thắng lợi phải do Đảng Cộng sản lãnh đạo\", trang 83–84) , giáo trình khẳng định nguyên văn: *\"Cách mạng giải phóng dân tộc, trong điều kiện của Việt Nam, muốn thắng lợi phải do Đảng Cộng sản lãnh đạo. Về tầm quan trọng của tổ chức đảng đối với cách mạng, chủ nghĩa Mác - Lênin chỉ rõ: Đảng Cộng sản là nhân tố chủ quan để giai cấp công nhân hoàn thành sứ mệnh lịch sử của mình... Trong tác phẩm Đường cách mệnh (năm 1927), Người đặt vấn đề: 'Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh... Đảng có vững cách mệnh mới thành công'\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 120,
@@ -1674,7 +1673,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.c \"Cách mạng giải phóng dân tộc phải dựa trên lực lượng đại đoàn kết toàn dân tộc...\", trang 85) , giáo trình trích nguyên văn: *\"Kế thừa tư tưởng của các nhà lý luận nói trên, Hồ Chí Minh quan niệm: có dân là có tất cả, trên đời này không gì quý bằng dân, được lòng dân thì được tất cả, mất lòng dân thì mất tất cả. Người khẳng định: 'cách mệnh là việc chung cả dân chúng chứ không phải việc một hai người'\"* .",
-    "chapter": "Chương 2 & 3: Cơ sở hình thành tư tưởng HCM & Độc lập dân tộc gắn liền CNXH"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 121,
@@ -1688,7 +1687,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.c \"Cách mạng giải phóng dân tộc phải dựa trên lực lượng đại đoàn kết toàn dân tộc...\", trang 85), giáo trình trích nguyên văn *Lời kêu gọi toàn quốc kháng chiến* (tháng 12/1946): *\"Bất kỳ đàn ông, đàn bà, **bất kỳ người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc**. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 122,
@@ -1702,7 +1701,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.d \"Cách mạng giải phóng dân tộc cần chủ động, sáng tạo...\", trang 87), giáo trình trích nguyên văn tác phẩm *Bản án chế độ thực dân Pháp* (năm 1925): *\"Chủ nghĩa tư bản là **một con đỉa có một cái vòi bám vào giai cấp vô sản ở chính quốc và một cái vòi khác bám vào giai cấp vô sản ở thuộc địa**. Nếu muốn giết con vật ấy, người ta phải đồng thời cắt cả hai vòi\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 123,
@@ -1716,7 +1715,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.d \"Cách mạng giải phóng dân tộc cần chủ động, sáng tạo...\", trang 88), giáo trình trích nguyên văn phát biểu của Hồ Chí Minh tại Phiên họp thứ tám (23/6/1924) Đại hội V Quốc tế Cộng sản: *\"**Nọc độc và sức sống của con rắn độc tư bản chủ nghĩa đang tập trung ở các thuộc địa hơn là ở chính quốc**; nếu thờ ơ về vấn đề cách mạng ở thuộc địa thì như 'đánh chết rắn đằng đuôi'\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 124,
@@ -1730,7 +1729,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.đ \"Cách mạng giải phóng dân tộc phải được tiến hành bằng phương pháp bạo lực cách mạng\", trang 91–92), giáo trình trích dẫn nguyên văn lời khẳng định của Hồ Chí Minh: *\"Tùy tình hình cụ thể mà quyết định những hình thức đấu tranh cách mạng thích hợp, **sử dụng đúng và khéo kết hợp** các hình thức đấu tranh vũ trang và đấu tranh chính trị để **giành thắng lợi cho cách mạng**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 125,
@@ -1744,7 +1743,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.b \"Tiến lên chủ nghĩa xã hội là một tất yếu khách quan\", trang 94–95), giáo trình trích dẫn nguyên văn nhận định của Hồ Chí Minh năm 1953: *\"Tùy hoàn cảnh, mà các dân tộc phát triển theo con đường khác nhau. **Có nước thì đi thẳng đến chủ nghĩa xã hội** như Liên Xô. **Có nước thì phải kinh qua chế độ dân chủ mới, rồi tiến lên chủ nghĩa xã hội** như các nước Đông Âu, Trung Quốc, Việt Nam ta\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 126,
@@ -1758,7 +1757,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.b \"Tiến lên chủ nghĩa xã hội là một tất yếu khách quan\", trang 94–95), khi xác định con đường và bản chất thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam qua chế độ dân chủ mới, Hồ Chí Minh nhấn mạnh nhiệm vụ của Đảng là phải *\"lãnh đạo toàn dân thực hiện dân chủ mới, xây dựng đủ điều kiện để tiến lên chủ nghĩa xã hội\"* (Hồ Chí Minh: *Toàn tập*, t.7, tr.41).",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 127,
@@ -1772,7 +1771,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh**  (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam\", trang 103–104; và tài liệu *Trắc nghiệm.pdf* , Chương 3, Câu 42, trang 34), dựa trên các nguyên tắc phương pháp luận xây dựng CNXH, Hồ Chí Minh chỉ đạo biện pháp thực hành cơ bản là: *\"Đem của dân, tài dân, sức dân làm lợi cho dân\"*, huy động và phát huy tối đa sức mạnh của quần chúng nhân dân.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 128,
@@ -1786,7 +1785,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** [3, 4] (Chương 3, mục II.1.b \"Tiến lên chủ nghĩa xã hội là một tất yếu khách quan\", trang 94–95; và tài liệu *Trắc nghiệm.pdf* [2, 5], Chương 3, Câu 43, trang 34–35), Hồ Chí Minh nêu rõ phương thức tiến lên CNXH gồm hai trường hợp: (1) những nước đã qua giai đoạn phát triển TBCN sẽ “đi thẳng” lên CNXH; (2) những nước chưa qua TBCN có thể đi lên CNXH sau khi đã đánh đổ đế quốc và phong kiến dưới sự lãnh đạo của Đảng vô sản. Phương án A không nêu đúng phương thức tiến lên CNXH nên là phương án sai cần chọn.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 129,
@@ -1800,7 +1799,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh**  (Chương 3, mục II.1.c \"Một số đặc trưng cơ bản của xã hội xã hội chủ nghĩa\", trang 96; và tài liệu *Trắc nghiệm.pdf* , Chương 3, Câu 44, trang 35), giáo trình khẳng định nguyên văn: *\"Thứ nhất, về chính trị: Xã hội xã hội chủ nghĩa là xã hội do nhân dân làm chủ\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 130,
@@ -1814,7 +1813,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.c \"Một số đặc trưng cơ bản của xã hội xã hội chủ nghĩa\", trang 96–97)  và bộ đề trắc nghiệm (Câu 46, trang 35) , giáo trình ghi nhận nguyên văn: *\"Mọi quyền lợi, quyền lực, quyền hạn thuộc về nhân dân và mọi hoạt động **xây dựng, bảo vệ đất nước, bảo vệ chế độ xã hội** cũng thuộc về nhân dân\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 131,
@@ -1828,7 +1827,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.c \"Một số đặc trưng cơ bản của xã hội xã hội chủ nghĩa\", trang 97)  và bộ đề trắc nghiệm (Câu 47, trang 35) , giáo trình khẳng định nguyên văn: *\"Thứ hai, về kinh tế: Xã hội xã hội chủ nghĩa là xã hội có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và **chế độ công hữu về tư liệu sản xuất chủ yếu**\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 132,
@@ -1842,7 +1841,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.a \"Mục tiêu chủ nghĩa xã hội ở Việt Nam\", trang 100)  và bộ đề trắc nghiệm (Câu 48, trang 35) , giáo trình xác định nguyên văn: *\"Mục tiêu về chế độ chính trị: **Phải xây dựng được chế độ dân chủ**\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 133,
@@ -1856,7 +1855,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.a \"Mục tiêu về kinh tế\", trang 101), giáo trình trích nguyên văn: *\"Khái quát mục tiêu về kinh tế của chủ nghĩa xã hội ở Việt Nam, Hồ Chí Minh xác định: Đây phải là nền kinh tế phát triển cao **'với công nghiệp và nông nghiệp hiện đại, khoa học và kỹ thuật tiên tiến'**, là 'một nền kinh tế thuần nhất, dựa trên chế độ sở hữu toàn dân và sở hữu tập thể'\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 134,
@@ -1870,7 +1869,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.a \"Cách mạng giải phóng dân tộc muốn thắng lợi...\", trang 81–82), xuất phát từ hoàn cảnh một nước thuộc địa, Hồ Chí Minh khẳng định nhiệm vụ chống đế quốc, giải phóng dân tộc phải đặt lên hàng đầu: đấu tranh chống chủ nghĩa thực dân, giành độc lập dân tộc và thành lập nhà nước dân tộc độc lập; quyền lợi dân tộc giải phóng cao hơn hết thảy.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 135,
@@ -1884,7 +1883,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 73) và bộ đề trắc nghiệm (Câu 67, trang 40), giáo trình khẳng định nguyên văn tiêu đề mục I.1.a: *\"Độc lập, tự do là **quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 136,
@@ -1898,7 +1897,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 74), giáo trình trích nguyên văn lời Hồ Chí Minh bộc lộ khát vọng cháy bỏng của mình: *\"Cái mà tôi cần nhất trên đời là **đồng bào tôi được tự do, Tổ quốc tôi được độc lập**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 137,
@@ -1912,7 +1911,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.a \"Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản\", trang 81), giáo trình phân tích rõ sự vận dụng sáng tạo: *\"Theo C. Mác và Ph. Ăngghen, con đường cách mạng vô sản ở châu Âu là đi từ giải phóng giai cấp - giải phóng dân tộc - giải phóng xã hội - giải phóng con người. Còn theo Hồ Chí Minh, ở Việt Nam và các nước thuộc địa do hoàn cảnh lịch sử - chính trị khác với châu Âu nên phải là: **giải phóng dân tộc - giải phóng xã hội - giải phóng giai cấp - giải phóng con người**\"* (đặt nhiệm vụ giải phóng dân tộc lên trên hết, trước hết).",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 138,
@@ -1926,7 +1925,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2 \"Về cách mạng giải phóng dân tộc\", trang 79–90), luận điểm B là câu nói của Hồ Chí Minh phân tích về ý chí và mục tiêu đấu tranh cách mạng nhằm *\"giải phóng gông cùm nô lệ cho đồng bào, cho nhân loại\"*. Trong khi đó, các phương án khác thuộc về nguyên tắc xây dựng CNXH trong thời kỳ quá độ (A, C) hoặc đạo đức của cán bộ Nhà nước vì dân (D).",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 139,
@@ -1940,7 +1939,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.d \"Cách mạng giải phóng dân tộc cần chủ động, sáng tạo...\", trang 87–88 [1-3]), Hồ Chí Minh khẳng định luận điểm sáng tạo này dựa trên các cơ sở: (1) Thuộc địa có vị trí, vai trò đặc biệt đối với chủ nghĩa đế quốc, là nơi duy trì sự tồn tại và phát triển của chủ nghĩa đế quốc; (2) Tinh thần đấu tranh cách mạng hết sức quyết liệt của các dân tộc thuộc địa; (3) Khả năng tự giải phóng của nhân dân các nước thuộc địa theo quan điểm của C. Mác [1-3].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 140,
@@ -1954,7 +1953,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.c \"Độc lập dân tộc phải là nền độc lập thật sự, hoàn toàn và triệt để\", trang 77–78 ; và tài liệu *Trắc nghiệm.pdf*, Câu 56, trang 38 ), sau Cách mạng Tháng Tám, để bảo vệ nền độc lập thực sự, Hồ Chí Minh ký Hiệp định sơ bộ 6/3/1946 buộc Chính phủ Pháp phải công nhận Việt Nam là một quốc gia tự do, có Chính phủ riêng, Quốc hội riêng, quân đội riêng và tài chính riêng [4, 5].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 141,
@@ -1968,7 +1967,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.a \"Quan niệm của Hồ Chí Minh về chủ nghĩa xã hội\", trang 93–94 [6, 7]; và tài liệu *Trắc nghiệm.pdf*, Câu 57, trang 38 ), sau khi giành độc lập, tự do cho dân tộc, Hồ Chí Minh tiếp tục khẳng định phương hướng phát triển tất yếu của Việt Nam trong thời đại mới là tiến lên chủ nghĩa xã hội, rồi tiến đến chủ nghĩa cộng sản [5-7].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 142,
@@ -1982,7 +1981,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 1, mục IV.2, trang 30 và Chương 5, mục I.1.a, trang 170–174), việc bảo vệ quyền dân tộc và phát triển đất nước hiện nay đòi hỏi phải phát huy sức mạnh tổng hợp của khối đại đoàn kết toàn dân tộc và cả hệ thống chính trị dưới sự lãnh đạo của Đảng, trong đó giáo dục và phát huy thế hệ trẻ thành lực lượng tiên phong, nòng cốt.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 143,
@@ -1996,7 +1995,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.a, trang 81 và mục III, trang 114–116), hạt nhân cốt lõi trong tư tưởng Hồ Chí Minh về vấn đề dân tộc là sự kết hợp nhuần nhuyễn giữa **độc lập dân tộc với chủ nghĩa xã hội** (cũng như giữa dân tộc và giai cấp, chủ nghĩa yêu nước và chủ nghĩa quốc tế trong sáng). Độc lập dân tộc là tiền đề để tiến lên chủ nghĩa xã hội và chủ nghĩa xã hội là điều kiện bảo đảm vững chắc cho độc lập dân tộc.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 144,
@@ -2010,7 +2009,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.c \"Một số đặc trưng cơ bản của xã hội xã hội chủ nghĩa\", trang 98–99), giáo trình trích ghi nguyên văn: *\"Chủ nghĩa xã hội bảo đảm tính công bằng và hợp lý trong các quan hệ xã hội... ai cũng phải lao động và ai cũng có quyền lao động, ai cũng được hưởng thành quả lao động của mình trên nguyên tắc **làm nhiều thì hưởng nhiều, làm ít thì hưởng ít, không làm thì không hưởng**, tất nhiên là trừ những người chưa có khả năng lao động hoặc không còn khả năng lao động\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 145,
@@ -2024,7 +2023,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.d \"Cách mạng giải phóng dân tộc cần chủ động, sáng tạo, có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc\", trang 87–88), giáo trình khẳng định nguyên văn: *\"Cách mạng giải phóng dân tộc cần **chủ động, sáng tạo, có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 146,
@@ -2038,7 +2037,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 73–74), Hồ Chí Minh đặc biệt chú ý đến vấn đề dân tộc thuộc địa vì ở các nước thuộc địa, nhân dân bị thực dân cướp mất nước, bị tước đoạt quyền sống, **mất quyền tự quyết dân tộc trên tất cả các lĩnh vực của đời sống**.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 147,
@@ -2052,7 +2051,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 73), giáo trình khẳng định nguyên văn: *\"Trong lịch sử dựng nước và giữ nước của dân tộc Việt Nam, độc lập dân tộc luôn là **quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 148,
@@ -2066,7 +2065,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.1.a \"Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc\", trang 74) , giáo trình trích dẫn nguyên văn lời của Hồ Chí Minh: *\"Cái mà tôi cần nhất trên đời là **đồng bào tôi được tự do, Tổ quốc tôi được độc lập**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 149,
@@ -2080,7 +2079,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục III.1 \"Độc lập dân tộc là cơ sở, tiền đề để tiến lên chủ nghĩa xã hội\", trang 115) , giáo trình khẳng định: *\"độc lập dân tộc bao gồm cả nội dung dân tộc và dân chủ; độc lập phải gắn liền với thống nhất, chủ quyền và toàn vẹn lãnh thổ và hơn nữa độc lập dân tộc cũng phải gắn liền với **tự do, cơm no, áo ấm, hạnh phúc cho nhân dân**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 150,
@@ -2094,7 +2093,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.a \"Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản\", trang 81) , giáo trình nêu rõ sự vận dụng sáng tạo của Hồ Chí Minh: *\"Theo C. Mác và Ph. Ăngghen, con đường cách mạng vô sản ở châu Âu là đi từ giải phóng giai cấp - giải phóng dân tộc - giải phóng xã hội - giải phóng con người. Còn theo Hồ Chí Minh, ở Việt Nam và các nước thuộc địa do hoàn cảnh lịch sử - chính trị khác với châu Âu nên phải là: **giải phóng dân tộc - giải phóng xã hội - giải phóng giai cấp - giải phóng con người**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 151,
@@ -2108,7 +2107,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.b \"Cách mạng giải phóng dân tộc, trong điều kiện của Việt Nam, muốn thắng lợi phải do Đảng Cộng sản lãnh đạo\", trang 83–84), giáo trình trích nguyên văn tác phẩm *Đường cách mệnh* (năm 1927) của Hồ Chí Minh: *\"Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh, để **trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với các dân tộc bị áp bức và vô sản giai cấp mọi nơi**. Đảng có vững cách mệnh mới thành công\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 152,
@@ -2122,7 +2121,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.c \"Cách mạng giải phóng dân tộc phải dựa trên lực lượng đại đoàn kết toàn dân tộc, lấy liên minh công - nông làm nền tảng\", trang 85), giáo trình khẳng định nguyên văn tiêu đề mục và nội dung: *\"Cách mạng giải phóng dân tộc phải dựa trên **lực lượng đại đoàn kết toàn dân tộc, lấy liên minh công - nông làm nền tảng**\"* [2, 3].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 153,
@@ -2136,7 +2135,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.c \"Cách mạng giải phóng dân tộc phải dựa trên lực lượng đại đoàn kết toàn dân tộc...\", trang 86), giáo trình trích nguyên văn: *\"Trong khi xác định lực lượng cách mạng là toàn dân, Hồ Chí Minh lưu ý rằng, không được quên **'công nông là người chủ cách mệnh... là gốc cách mệnh'**\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 154,
@@ -2150,7 +2149,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.d \"Cách mạng giải phóng dân tộc cần chủ động, sáng tạo...\", trang 87) và tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 36, trang 33), giáo trình ghi rõ nguyên văn: *\"Quán triệt tư tưởng của V.I. Lênin về mối quan hệ chặt chẽ giữa cách mạng vô sản ở chính quốc với phong trào giải phóng dân tộc thuộc địa, từ rất sớm Hồ Chí Minh chỉ rõ **mối quan hệ khăng khít, tác động qua lại lẫn nhau giữa cách mạng thuộc địa và cách mạng vô sản ở chính quốc - mối quan hệ bình đẳng, không lệ thuộc, phụ thuộc vào nhau**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 155,
@@ -2164,7 +2163,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.d \"Cách mạng giải phóng dân tộc cần chủ động, sáng tạo...\", trang 88), giáo trình khẳng định nguyên văn: *\"Là một người dân thuộc địa, một người cộng sản và là người nghiên cứu rất kỹ về chủ nghĩa đế quốc, Hồ Chí Minh cho rằng: **cách mạng thuộc địa không những không phụ thuộc vào cách mạng vô sản ở chính quốc mà có thể giành thắng lợi trước**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 156,
@@ -2178,7 +2177,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.đ \"Cách mạng giải phóng dân tộc phải được tiến hành bằng phương pháp bạo lực cách mạng\", trang 90–91) và tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 76, trang 43), giáo trình nhấn mạnh thực dân đế quốc dùng bạo lực cai trị tàn bạo, do đó: *\"muốn đánh đổ thực dân - phong kiến giành độc lập dân tộc thì **tất yếu phải sử dụng phương pháp bạo lực cách mạng, dùng bạo lực cách mạng để chống lại bạo lực phản cách mạng của kẻ thù**\"*. Đây là giải pháp có tính quy luật tất yếu và bắt buộc, chứ không phải giải pháp tình thế hay tạm thời.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 157,
@@ -2192,7 +2191,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục I.2.đ \"Cách mạng giải phóng dân tộc phải được tiến hành bằng phương pháp bạo lực cách mạng\", trang 91–92) và bộ đề *Trắc nghiệm.pdf* (Câu 77, trang 43), giáo trình khẳng định nguyên văn: *\"Về hình thức bạo lực cách mạng, theo Hồ Chí Minh, bạo lực cách mạng ở đây là bạo lực của quần chúng, được thực hiện với hai lực lượng chính trị và quân sự, hai hình thức đấu tranh: **đấu tranh chính trị và đấu tranh vũ trang**\"*. [1, 2]",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 158,
@@ -2206,7 +2205,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.a \"Quan niệm của Hồ Chí Minh về chủ nghĩa xã hội\", trang 93) và bộ đề *Trắc nghiệm.pdf* (Câu 78, trang 43), giáo trình trích nguyên văn: *\"So sánh các chế độ xã hội đã tồn tại trong lịch sử để thấy sự khác nhau về bản chất giữa chủ nghĩa xã hội với các chế độ khác, Hồ Chí Minh viết: 'Trong xã hội có giai cấp bóc lột thống trị, chỉ có lợi ích cá nhân của một số rất ít người thuộc giai cấp thống trị là được thỏa mãn... Trái lại, trong **chế độ xã hội chủ nghĩa và cộng sản chủ nghĩa là chế độ do nhân dân lao động làm chủ**...'\"*. [2, 3]",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 159,
@@ -2220,7 +2219,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.a \"Mục tiêu chủ nghĩa xã hội ở Việt Nam - Mục tiêu về chế độ chính trị\", trang 100–101) và bộ đề *Trắc nghiệm.pdf* (Câu 79, trang 43), giáo trình nêu rõ: *\"Khi khẳng định **'dân làm chủ' và 'dân là chủ'**, Hồ Chí Minh đã khẳng định quyền lợi và quyền hạn, trách nhiệm và địa vị của nhân dân. Người chỉ rõ: Tất cả lợi ích đều vì dân, tất cả quyền hạn đều của dân...\"*. [2, 4, 5]",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 160,
@@ -2234,7 +2233,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam\", trang 106–107 ) và tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 80, trang 44 ), giáo trình chỉ rõ: cùng với việc xác định và định hướng phát huy sức mạnh những động lực của chủ nghĩa xã hội, Hồ Chí Minh luôn nhắc nhở phải ngăn chặn, loại trừ những lực cản của những động lực này . Quan điểm \"xây\" đi đôi với \"chống\" chính là một trong những nét độc đáo, đặc sắc trong tư tưởng Hồ Chí Minh .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 161,
@@ -2248,7 +2247,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.3.a \"Tính chất, đặc điểm và nhiệm vụ của thời kỳ quá độ\", trang 107–108 ) và tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 81, trang 44 ), giáo trình khẳng định: thời kỳ quá độ là công cuộc biến đổi sâu sắc nhất, khó khăn nhất, thậm chí còn khó khăn hơn cả việc đánh giặc, do đó tiến lên chủ nghĩa xã hội không thể làm mau được mà phải làm **dần dần, thận trọng từng bước một, từ thấp đến cao, không chủ quan nôn nóng và phải luôn căn cứ vào điều kiện khách quan quy định** .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 162,
@@ -2262,7 +2261,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 82, trang 44 ) và **Văn kiện Đại hội XIII của Đảng**, mục tiêu phát triển đất nước đến năm 2045 (kỷ niệm 100 năm thành lập nước) là: **Trở thành nước phát triển, có thu nhập cao** .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 163,
@@ -2276,7 +2275,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.a \"Quan niệm của Hồ Chí Minh về chủ nghĩa xã hội\", trang 92–93), giáo trình ghi nhận nguyên văn: *\"Hồ Chí Minh không định nghĩa về chủ nghĩa xã hội. Với cách diễn đạt dung dị, dễ hiểu, dễ nhớ, khái niệm 'chủ nghĩa xã hội' được Người tiếp cận ở nhiều góc độ khác nhau bằng cách chỉ ra đặc trưng ở một lĩnh vực nào đó (như kinh tế, chính trị, văn hóa, khoa học - kỹ thuật, động lực, nguồn lực, v.v.) của chủ nghĩa xã hội\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 164,
@@ -2290,7 +2289,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.a \"Quan niệm của Hồ Chí Minh về chủ nghĩa xã hội\", trang 93), giáo trình trích nguyên văn lời của Hồ Chí Minh: *\"Nói một cách tóm tắt, mộc mạc, chủ nghĩa xã hội trước hết nhằm **làm cho nhân dân lao động thoát nạn bần cùng, làm cho mọi người có công ăn việc làm**, được ấm no và sống một đời hạnh phúc\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 165,
@@ -2304,7 +2303,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.1.c \"Một số đặc trưng cơ bản của xã hội xã hội chủ nghĩa - Thứ tư, về chủ thể xây dựng chủ nghĩa xã hội\", trang 99–100), giáo trình khẳng định nguyên văn: *\"Trong chế độ xã hội chủ nghĩa - chế độ của nhân dân, do nhân dân làm chủ, lợi ích của cá nhân gắn liền với lợi ích của chế độ xã hội nên chính **nhân dân là chủ thể, là lực lượng quyết định tốc độ xây dựng và sự vững mạnh của chủ nghĩa xã hội**\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 166,
@@ -2316,9 +2315,9 @@ const QUESTIONS_DATA = [
       "C": "“Kinh tế quốc doanh là hình thức sở hữu của toàn dân, nó lãnh đạo nền kinh tế quốc dân và Nhà nước phải bảo đảm cho nó phát triển ưu tiên”",
       "D": "“Kinh tế hợp tác xã là hình thức sở hữu tập thể của nhân dân lao động; Nhà nước đặc biệt khuyến khích, hướng dẫn và giúp đỡ cho nó phát triển”"
     },
-    "answer": "B",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.a \"Mục tiêu về kinh tế\", trang 101), giáo trình nêu rõ mục tiêu kinh tế phải gắn bó chặt chẽ với mục tiêu về chính trị vì: *\"Chế độ kinh tế và xã hội của chúng ta nhằm thực hiện đầy đủ quyền dân chủ của nhân dân, trên cơ sở kinh tế xã hội chủ nghĩa ngày càng phát triển\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "answer": "C",
+    "explanation": "• **Theo ký tự trong file đáp án của Giảng viên (chương 3.docx):** Chọn **C**.\n\n• **[LƯU Ý ĐẶC BIỆT KHI ĐI THI]**:\n- Trong file Word của Thầy ghi nguyên văn: *\"86 : c : chế độ kinh tế xã hội của chúng ta nhằm thực hiện đầy đủ quyền dân chủ của nhân dân, trên cơ sở kinh tế xã hội chủ nghĩa ngày càng phát triển\"*.\n- Về mặt nội dung câu trích dẫn, câu trên chính là phương án B trong đề thi gốc. Nhưng về mặt ký tự mã hóa phương án, file Word của Thầy ghi ký tự **c**.\n- **Kinh nghiệm làm bài thi:** Nếu máy chấm thi trắc nghiệm theo mã ký tự chữ cái cố định của Thầy thì chọn **C**. Nếu phần mềm thi có hoán vị (xáo trộn) vị trí đáp án thì hãy tìm chọn phương án có nội dung: *\"Chế độ kinh tế và xã hội của chúng ta nhằm thực hiện đầy đủ quyền dân chủ của nhân dân...\"*.",
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 167,
@@ -2332,7 +2331,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.a \"Mục tiêu về văn hóa\", trang 101–102), giáo trình trích dẫn nguyên văn lời của Hồ Chí Minh: *\"Muốn tiến lên chủ nghĩa xã hội phải phát triển **kinh tế** và văn hóa. Vì sao không nói phát triển **văn hóa** và kinh tế? Tục ngữ ta có câu: Có thực mới vực được đạo; vì thế kinh tế phải đi trước\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 168,
@@ -2346,7 +2345,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.a \"Mục tiêu về văn hóa\", trang 102), giáo trình trích ghi nguyên văn: *\"Phải triệt để tẩy trừ **mọi di tích thuộc địa** và ảnh hưởng nô dịch của văn hóa đế quốc. Đồng thời, phát triển **những truyền thống tốt đẹp của văn hóa dân tộc** và hấp thụ những cái mới của văn hóa tiến bộ thế giới\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 169,
@@ -2360,7 +2359,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.a \"Mục tiêu về quan hệ xã hội\", trang 102–103) và bộ đề *Trắc nghiệm.pdf* (Chương 3, Câu 89, trang 46), giáo trình xác định nguyên văn: *\"Mục tiêu về quan hệ xã hội: Phải bảo đảm dân chủ, công bằng, văn minh\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 170,
@@ -2374,7 +2373,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam\", trang 103–104) và bộ đề *Trắc nghiệm.pdf* (Chương 3, Câu 90, trang 46–47), giáo trình khẳng định nguyên văn: *\"Tất cả các động lực đều rất quan trọng và có mối quan hệ biện chứng với nhau nhưng giữ vai trò quyết định là **nội lực dân tộc, là nhân dân**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 171,
@@ -2388,7 +2387,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam\", trang 104) và bộ đề *Trắc nghiệm.pdf* (Chương 3, Câu 91, trang 47), giáo trình ghi nhận nguyên văn: *\"để thúc đẩy tiến trình cách mạng xã hội chủ nghĩa phải bảo đảm **lợi ích của dân, dân chủ của dân, sức mạnh đoàn kết toàn dân**. Trong tư tưởng Hồ Chí Minh, đây là những động lực hàng đầu của chủ nghĩa xã hội\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 172,
@@ -2402,7 +2401,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam\", trang 104), giáo trình trích trọn vẹn nguyên văn lời dạy của Hồ Chí Minh: *\"Ngay từ những ngày đầu xây dựng chế độ xã hội mới, Người đã dạy: 'việc gì **có lợi** cho dân phải hết sức làm, việc gì **có hại** cho dân phải hết sức tránh', 'phải đặt **quyền lợi** dân lên trên hết thảy'\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 173,
@@ -2416,7 +2415,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam\", trang 104–105), giáo trình khẳng định: *\"Về dân chủ, theo Hồ Chí Minh, 'dân chủ là của quý báu nhất của nhân dân'... Với tư cách là những động lực thúc đẩy tiến trình cách mạng xã hội chủ nghĩa, lợi ích của dân và dân chủ của dân không thể tách rời nhau\"*. Do đó, có dân chủ mới bảo đảm thực hiện lợi ích vì dân.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 174,
@@ -2430,7 +2429,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam\", trang 106 và Chương 6, mục III.3.a, trang 245), giáo trình trích ghi nguyên văn luận điểm của Hồ Chí Minh: *\"Muốn xây dựng chủ nghĩa xã hội, trước hết cần có **những con người xã hội chủ nghĩa**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 175,
@@ -2444,7 +2443,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.2.b \"Động lực của chủ nghĩa xã hội ở Việt Nam\", trang 106)  và tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 95, trang 48) , giáo trình trích ghi nguyên văn lời Hồ Chí Minh căn dặn phải chống lại những tư tưởng, tác phong xấu là: *\"Chủ nghĩa cá nhân; quan liêu, mệnh lệnh; tham ô, lãng phí; bảo thủ, rụt rè\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 176,
@@ -2458,7 +2457,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục II.3.a \"Tính chất, đặc điểm và nhiệm vụ của thời kỳ quá độ\", trang 107)  và tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 96, trang 48) , giáo trình khẳng định nguyên văn: *\"Tính chất của thời kỳ quá độ: Đây là **thời kỳ cải biến sâu sắc nhất nhưng phức tạp, lâu dài, khó khăn, gian khổ**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 177,
@@ -2472,7 +2471,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục IV.1 \"Kiên định mục tiêu và con đường cách mạng mà Hồ Chí Minh đã xác định\", trang 118–119)  và tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 97, trang 48) , Cương lĩnh của Đảng đã rút ra bài học đầu tiên là phải: *\"**Nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội** ngọn cờ quang vinh mà Chủ tịch Hồ Chí Minh đã trao lại cho thế hệ hôm nay và các thế hệ mai sau\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 178,
@@ -2486,7 +2485,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục IV.2 \"Phát huy sức mạnh dân chủ xã hội chủ nghĩa\", trang 118–119) , phát huy sức mạnh dân chủ xã hội chủ nghĩa bảo đảm tất cả quyền lực nhà nước thuộc về nhân dân, thực hiện đầy đủ trên tất cả các lĩnh vực theo phương châm *\"dân biết, dân bàn, dân làm, dân kiểm tra\"* , và trong bối cảnh hiện nay được bổ sung đầy đủ thành *\"dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân hưởng thụ\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 179,
@@ -2500,7 +2499,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục IV.3 \"Củng cố, kiện toàn, phát huy sức mạnh và hiệu quả hoạt động của toàn bộ hệ thống chính trị\", trang 119)  và tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 99, trang 49) , giáo trình khẳng định nguyên văn đặc điểm hệ thống chính trị ở Việt Nam là: *\"**Nhất nguyên về chính trị, về tổ chức, về tư tưởng; thống nhất dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, thống nhất về mục tiêu chính trị**\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 180,
@@ -2514,7 +2513,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 3, mục IV.4, trang 120–121)  và tài liệu *Trắc nghiệm.pdf* (Chương 3, Câu 100, trang 49) , giáo trình chỉ rõ: *\"Vận dụng tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội trong giai đoạn hiện nay là phải tích cực thực hiện **có hiệu quả các nghị quyết của Đảng, trong đó các nghị quyết về xây dựng Đảng giữ vị trí rất quan trọng, vì xây dựng Đảng là nhiệm vụ demanding/then chốt trong sự nghiệp đổi mới**\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội"
   },
   {
     "id": 181,
@@ -2528,7 +2527,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Những vấn đề nguyên tắc trong hoạt động của Đảng\", trang 130) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 1, trang 49), luận điểm trên được trích nguyên văn từ tác phẩm *Đường cách mệnh* (năm 1927): *\"Đảng muốn vững thì phải có chủ nghĩa làm cốt, trong đảng ai cũng phải hiểu, ai cũng phải theo chủ nghĩa ấy. Đảng mà không có chủ nghĩa cũng như người không có trí khôn, tàu không có bàn chỉ nam\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 182,
@@ -2542,7 +2541,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.a \"Đảng là đạo đức, là văn minh\", trang 128–129) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 2, trang 50), xây dựng một Đảng văn minh (Đảng cách mạng chân chính) bao gồm các nội dung: (1) Tiêu biểu cho lương tâm, trí tuệ và danh dự của dân tộc; (2) Xuất phát từ sự tất yếu, phù hợp với quy luật phát triển văn minh, tiến bộ của dân tộc; (3) Lãnh đạo giành độc lập cho Tổ quốc và đem lại tự do, ấm no, hạnh phúc cho nhân dân. Do đó, đáp án đúng là \"Tất cả các đáp án\".",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 183,
@@ -2556,7 +2555,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2 \"Đảng phải trong sạch, vững mạnh\", trang 126–141) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 3, trang 50), để xây dựng Đảng Cộng sản Việt Nam luôn trong sạch, vững mạnh, Hồ Chí Minh yêu cầu thực hiện đồng bộ 3 nội dung chính: A (Xây dựng Đảng là đạo đức, là văn minh), B (Tuân thủ các vấn đề có tính nguyên tắc trong hoạt động của Đảng), và C (Xây dựng đội ngũ cán bộ, đảng viên vừa có đức vừa có tài). Vì vậy, đáp án đúng là \"Tất cả các đáp án\".",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 184,
@@ -2570,7 +2569,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.a \"Đảng là đạo đức, là văn minh\", trang 128–129) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 4, trang 50), đạo đức của Đảng được Hồ Chí Minh khẳng định bao gồm 3 quan điểm cơ bản: A (Mục đích hoạt động của Đảng là giải phóng dân tộc, xã hội, giai cấp, con người), B (Cương lĩnh, đường lối và mọi hoạt động thực tiễn phải nhằm mục đích đó), C (Đội ngũ đảng viên phải luôn thấm nhuần đạo đức cách mạng, suốt đời phấn đấu cho lợi ích của dân, của nước). Do đó, đáp án đúng là \"Tất cả các đáp án\" [1-3].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 185,
@@ -2584,7 +2583,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Những vấn đề nguyên tắc trong hoạt động của Đảng\", trang 130–137) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 5, trang 50), các nguyên tắc hoạt động của Đảng Cộng sản Việt Nam theo tư tưởng Hồ Chí Minh bao gồm tất cả các nội dung nêu ở các phương án A, B và C. Do đó, đáp án đúng là \"Tất cả các đáp án\" [3-11].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 186,
@@ -2596,9 +2595,9 @@ const QUESTIONS_DATA = [
       "C": "Chính phủ công nông",
       "D": "Nhà nước dân chủ nhân dân"
     },
-    "answer": "A",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục I.3, trang 55–56) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 6, trang 50–51), trong bản *Chánh cương vắn tắt* của Đảng năm 1930, Hồ Chí Minh đã xác định sau khi đánh đổ đế quốc Pháp và phong kiến An Nam sẽ xây dựng chính quyền thuộc loại hình **Chính phủ công nông binh** [3, 12].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "answer": "D",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Nhà nước dân chủ nhân dân**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & CẢNH BÁO ĐỀ THI]**:\n- Trong *Chánh cương vắn tắt của Đảng* (tháng 2/1930), Nguyễn Ái Quốc nêu rõ mục tiêu: 'Dựng ra chính phủ công nông binh; tổ chức ra quân đội công nông' (đáp án A). Khái niệm 'Nhà nước dân chủ nhân dân' chỉ được Đảng xác định từ Đại hội II (năm 1951).\n- Tuy nhiên, barem của Thầy chọn **D**. Khi làm bài thi trắc nghiệm theo bộ đề của Thầy, bạn hãy chọn D theo barem.",
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 187,
@@ -2612,7 +2611,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.c \"Xây dựng đội ngũ cán bộ, đảng viên\", trang 137–138), Hồ Chí Minh đề cập các yêu cầu chủ yếu đối với đội ngũ cán bộ, đảng viên bao gồm: tuyệt đối trung thành với Đảng; nghiêm chỉnh thực hiện Cương lĩnh, đường lối, các nguyên tắc xây dựng Đảng; luôn tu dưỡng, trau dồi đạo đức cách mạng; học tập nâng cao trình độ; liên hệ mật thiết với nhân dân; năng động, sáng tạo và luôn phòng, chống các tiêu cực. Do đó, đáp án đúng là \"Tất cả các đáp án\".",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 188,
@@ -2626,7 +2625,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Đoàn kết, thống nhất trong Đảng\", trang 134), giáo trình khẳng định nguyên văn: *\"Đoàn kết trong Đảng là điều kiện để xây dựng khối đại đoàn kết toàn dân tộc; **đoàn kết, thống nhất trong Đảng trước hết là trong cấp ủy, trong những cán bộ lãnh đạo chủ chốt**; đoàn kết trên cơ sở chủ nghĩa Mác - Lênin, trên cơ sở cương lĩnh, đường lối, quan điểm, nghị quyết của Đảng\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 189,
@@ -2640,7 +2639,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 2, mục II.5, trang 61 và Chương 4, mục II.1, trang 141–144), sau thắng lợi của Cách mạng Tháng Tám, ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc bản *Tuyên ngôn Độc lập* khai sinh ra nước Việt Nam Dân chủ Cộng hòa — hiện thực hóa mô hình nhà nước dân chủ nhân dân đầu tiên ở Đông Nam Á.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 190,
@@ -2654,7 +2653,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.a \"Nhà nước hợp hiến, hợp pháp\", trang 151), giáo trình nêu rõ nguyên văn: *\"Chính vì thế, chỉ một ngày sau khi đọc bản Tuyên ngôn độc lập, trong phiên họp đầu tiên của Chính phủ lâm thời (ngày 3/9/1945), Hồ Chí Minh đã đề nghị: 'Chúng ta phải có một hiến pháp dân chủ. Tôi đề nghị **Chính phủ tổ chức càng sớm càng hay cuộc TỔNG TUYỂN CỬ với chế độ phổ thông đầu phiếu**' để lập nên Quốc hội rồi từ đó lập ra Chính phủ và các cơ quan, bộ máy hợp hiến\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 191,
@@ -2668,7 +2667,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 152), giáo trình khẳng định nguyên văn: *\"Ở cương vị Chủ tịch nước, Hồ Chí Minh đã **hai lần tham gia vào quá trình lãnh đạo soạn thảo Hiến pháp (Hiến pháp năm 1946 và Hiến pháp năm 1959)**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 192,
@@ -2682,7 +2681,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.b \"Phòng, chống tiêu cực trong Nhà nước\", trang 159–161), Hồ Chí Minh thường nhắc nhở phòng, chống 3 nhóm tiêu cực chính trong bộ máy nhà nước: (1) Đặc quyền, đặc lợi (trang 159); (2) Tham ô, lãng phí, quan liêu (trang 160); (3) Tư túng, chia rẽ, kiêu ngạo (trang 161). Do đó, đáp án đúng là \"Tất cả các đáp án\".",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 193,
@@ -2696,7 +2695,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 152–153) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 13, trang 52), giáo trình khẳng định nguyên văn: *\"Muốn vậy, trước hết, cần làm tốt công tác lập pháp. Hồ Chí Minh luôn chú trọng xây dựng hệ thống luật pháp dân chủ, hiện đại... Trong bối cảnh đất nước phải vừa kháng chiến, vừa kiến quốc vô cùng khó khăn, sự ra đời của hệ thống luật pháp như trên thể hiện rất rõ **nỗ lực của Hồ Chí Minh và Nhà nước Việt Nam trong công tác lập pháp**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 194,
@@ -2710,7 +2709,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.a \"Bản chất giai cấp của Nhà nước\", trang 143–144) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 14, trang 52), sự thống nhất giữa bản chất giai cấp công nhân với tính nhân dân và tính dân tộc thể hiện cụ thể ở cả 3 điểm: (1) Nhà nước mới ra đời là kết quả đấu tranh gian khổ của toàn thể dân tộc; (2) Nhà nước nhất quán mục tiêu vì quyền lợi nhân dân, lấy lợi ích dân tộc làm nền tảng; (3) Nhà nước đảm đương nhiệm vụ dân tộc giao phó là tổ chức kháng chiến bảo vệ độc lập và xây dựng đất nước. Do đó, đáp án đúng là \"Tất cả các đáp án\".",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 195,
@@ -2724,7 +2723,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.a \"Bản chất giai cấp của Nhà nước\", trang 141–143) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 15, trang 52–53), bản chất giai cấp công nhân của Nhà nước thể hiện trên 3 phương diện chính: (1) Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền (trang 141–142); (2) Tính định hướng xã hội chủ nghĩa trong sự phát triển đất nước (trang 142); (3) Nguyên tắc tổ chức và hoạt động là nguyên tắc tập trung dân chủ (trang 142–143). Vì vậy, đáp án đúng là \"Tất cả các đáp án\".",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 196,
@@ -2738,7 +2737,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.b \"Phòng, chống tiêu cực trong Nhà nước\", trang 160) và bộ đề *Trắc nghiệm.pdf* (Chương 4, trang 53), Hồ Chí Minh ví nạn **tham ô, lãng phí, quan liêu** là *\"giặc nội xâm\"*, *\"giặc ở trong lòng\"*, thứ giặc nguy hiểm hơn giặc ngoại xâm vì nó phá hoại sức mạnh cách mạng từ bên trong.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 197,
@@ -2752,7 +2751,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.b \"Phòng, chống tiêu cực trong Nhà nước\", trang 161) và bộ đề *Trắc nghiệm.pdf* (Chương 4, trang 53), Hồ Chí Minh chỉ rõ căn bệnh **tư túng, chia rẽ, kiêu ngạo** chính là nguyên nhân gây mất đoàn kết nội bộ, chia rẽ cán bộ, bè phái và gây rối cho công tác của cơ quan nhà nước.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 198,
@@ -2766,7 +2765,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.b \"Phòng, chống tiêu cực trong Nhà nước\", trang 161–163) và bộ đề *Trắc nghiệm.pdf* (Chương 4, trang 54), các biện pháp phòng chống tiêu cực trong bộ máy nhà nước được Hồ Chí Minh đề ra bao gồm tổng hòa cả 3 nhóm giải pháp nêu ở phương án A, B và C. Do đó, đáp án đúng là \"Tất cả các đáp án\".",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 199,
@@ -2780,7 +2779,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.1 \"Tính tất yếu và vai trò lãnh đạo của Đảng Cộng sản Việt Nam\", trang 126) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 20, trang 53–54), giáo trình khẳng định nguyên văn: *\"Đảng Cộng sản Việt Nam ra đời, tồn tại và phát triển chính là do nhu cầu tất yếu của xã hội Việt Nam từ đầu năm 1930 trở đi. Đảng đã được toàn dân tộc trao cho sứ mệnh **lãnh đạo đất nước trong sự nghiệp giải phóng dân tộc và đi lên chủ nghĩa xã hội**\"* [1, 2].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 200,
@@ -2794,7 +2793,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.a \"Đảng là đạo đức, là văn minh\", trang 126–127) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 21, trang 54), giáo trình nêu rõ: mục đích hoạt động của Đảng là lãnh đạo đấu tranh giải phóng dân tộc, giải phóng xã hội, giải phóng giai cấp, giải phóng con người, *\"làm cho **dân tộc được độc lập, nhân dân có cuộc sống ấm no, tự do, hạnh phúc thực sự, đoàn kết hữu nghị với các dân tộc trên thế giới**\"* [2-4].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 201,
@@ -2808,7 +2807,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.a \"Đảng là đạo đức, là văn minh\", trang 129) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 22, trang 54), giáo trình ghi nhận nguyên văn nội dung thứ tư của một Đảng văn minh: *\"Bốn là, xây dựng Đảng văn minh còn thể hiện ở việc **Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật**, Đảng không phải là tổ chức đứng trên dân tộc\"* [2, 5].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 202,
@@ -2822,7 +2821,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.c \"Xây dựng đội ngũ cán bộ, đảng viên\", trang 139) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 23, trang 54), giáo trình trích ghi nguyên văn lời nhắc nhở của Hồ Chí Minh: *\"Chúng ta không sợ sai lầm, nhưng đã nhận biết sai lầm thì phải ra sức **sửa chữa**. Vậy nên, ai không phạm những lầm lỗi... thì nên chú ý tránh đi, và gắng sức cho **thêm tiến bộ**\"* [1, 2].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 203,
@@ -2836,7 +2835,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.a \"Đảng là đạo đức, là văn minh\", trang 128) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 24, trang 55), giáo trình trích nguyên văn bản *Di chúc*: *\"Mỗi đảng viên và cán bộ phải thật sự thấm nhuần **đạo đức cách mạng**, thật sự cần kiệm liêm chính, chí công vô tư. Phải giữ gìn Đảng ta **thật trong sạch**, phải xứng đáng là **người lãnh đạo**, là người đầy tớ thật trung thành của nhân dân\"* [3, 4].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 204,
@@ -2850,7 +2849,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.b \"Nhà nước của nhân dân\", trang 145 và mục II.2.b, trang 152) cùng tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 25, trang 55), quan điểm Nhà nước của nhân dân, tất cả mọi quyền lực đều thuộc về nhân dân được hiện thực hóa trong hai bản Hiến pháp do Hồ Chí Minh trực tiếp làm Trưởng Ban chỉ đạo soạn thảo là **Hiến pháp năm 1946 và Hiến pháp năm 1959** [4-6].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 205,
@@ -2864,7 +2863,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.1 \"Tính tất yếu và vai trò lãnh đạo của Đảng Cộng sản Việt Nam\", trang 123) , giáo trình trích nguyên văn tác phẩm *Đường cách mệnh* (1927): *\"Trước hết phải có đảng cách mệnh, để **trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với các dân tộc bị áp bức và vô sản giai cấp mọi nơi**. Đảng có vững cách mệnh mới thành công, cũng như người cầm lái có vững thuyền mới chạy\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 206,
@@ -2878,7 +2877,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.1 \"Tính tất yếu và vai trò lãnh đạo của Đảng Cộng sản Việt Nam\", trang 124)  và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 27, trang 56) , giáo trình khẳng định nguyên văn: *\"Đó là **mâu thuẫn cơ bản giữa toàn thể nhân dân Việt Nam với các thế lực đế quốc và tay sai**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 207,
@@ -2892,7 +2891,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.1 \"Tính tất yếu và vai trò lãnh đạo của Đảng Cộng sản Việt Nam\", trang 123–124)  và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 28, trang 56) , giáo trình khẳng định: *\"Khẳng định đảng cộng sản **'như người cầm lái'** cho con thuyền cách mạng... **sự lãnh đạo của Đảng Cộng sản Việt Nam là một tất yếu, vai trò lãnh đạo của Đảng cũng là một tất yếu - điều đó xuất phát từ yêu cầu phát triển của dân tộc Việt Nam**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 208,
@@ -2906,7 +2905,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.1 \"Tính tất yếu và vai trò lãnh đạo của Đảng Cộng sản Việt Nam\", trang 124) , giáo trình khẳng định nguyên văn: *\"Đảng Cộng sản Việt Nam do Hồ Chí Minh sáng lập và rèn luyện là một đảng chính trị tồn tại và phát triển theo những quan điểm của V.I. Lênin về đảng kiểu mới của giai cấp vô sản\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 209,
@@ -2920,7 +2919,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.1 \"Tính tất yếu và vai trò lãnh đạo của Đảng Cộng sản Việt Nam\", trang 124–125) [1, 2], giáo trình nêu rõ: Học thuyết Mác – Lênin khẳng định sự ra đời của đảng cộng sản là sản phẩm kết hợp giữa chủ nghĩa xã hội khoa học với phong trào công nhân . Còn đối với Việt Nam, Hồ Chí Minh đã bổ sung yếu tố thứ ba là *\"phong trào yêu nước\"*, khẳng định sự ra đời của Đảng Cộng sản Việt Nam là kết quả kết hợp giữa *\"chủ nghĩa Mác - Lênin với phong trào công nhân và **phong trào yêu nước**\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 210,
@@ -2934,7 +2933,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.a \"Đảng là đạo đức, là văn minh\", trang 128)  và bản *Di chúc* năm 1969, giáo trình trích ghi nguyên văn: *\"Mỗi đảng viên và cán bộ phải thật sự thấm nhuần **đạo đức cách mạng, thật sự cần kiệm liêm chính, chí công vô tư**. Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 211,
@@ -2948,7 +2947,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.a \"Đảng là đạo đức, là văn minh\", trang 128) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 32, trang 57), giáo trình khẳng định nguyên văn: *\"Xây dựng Đảng Cộng sản Việt Nam thành một Đảng có đạo đức cách mạng tức là xây dựng Đảng để Đảng trở thành một Đảng văn minh, hoặc Hồ Chí Minh hay gọi đó là 'một Đảng cách mạng chân chính'\"* [1, 2].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 212,
@@ -2962,7 +2961,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.b \"Nhà nước của nhân dân\", trang 145) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 33, trang 57), giáo trình nêu rõ nguyên văn: *\"Nhà nước của dân tức là 'dân là chủ'. Nguyên lý 'dân là chủ' khẳng định địa vị chủ thể tối cao của mọi quyền lực là nhân dân\"* [2, 3].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 213,
@@ -2976,7 +2975,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.a \"Bản chất giai cấp của Nhà nước\", trang 141) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 34, trang 57), giáo trình khẳng định nguyên văn: *\"Nhà nước Việt Nam mới - Nhà nước Việt Nam Dân chủ Cộng hòa, theo quan điểm của Hồ Chí Minh, là một nhà nước mang bản chất giai cấp công nhân\"* [2, 4].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 214,
@@ -2990,7 +2989,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.c \"Xây dựng đội ngũ cán bộ, đảng viên\", trang 137)  và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 35, trang 57) , giáo trình trích trọn vẹn nguyên văn: *\"những người 'đặt lợi ích của Đảng lên trên hết, lên trước hết. Vì lợi ích của Đảng tức là lợi ích **của dân tộc, của Tổ quốc**'\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 215,
@@ -3004,7 +3003,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Đảng phải thường xuyên tự chỉnh đốn\", trang 133)  và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 36, trang 57) , giáo trình trích nguyên văn Điều số 9 trong 12 điều về tư cách của một Đảng cách mạng chân chính trong tác phẩm *Sửa đổi lối làm việc*: *\"Đảng phải chọn lựa những người **rất trung thành và rất hăng hái**, đoàn kết họ thành nhóm trung kiên lãnh đạo\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 216,
@@ -3018,7 +3017,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.b \"Nhà nước của nhân dân\", trang 145) , giáo trình định nghĩa nguyên văn: *\"Dân chủ trực tiếp là hình thức dân chủ trong đó **nhân dân trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 217,
@@ -3032,7 +3031,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.a \"Nhà nước hợp hiến, hợp pháp\", trang 150) và bộ đề *Trắc nghiệm.pdf*, bản *Yêu sách của nhân dân An Nam* (1919) đã nêu lên yêu cầu: *\"Cải cách nền pháp lý ở Đông Dương bằng cách làm cho người bản xứ cũng được quyền hưởng những bảo đảm về mặt pháp luật như người Âu châu... Thay thế chế độ ra các sắc lệnh bằng chế độ ra các đạo luật\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 218,
@@ -3046,7 +3045,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.c \"Nhà nước do nhân dân\", trang 148) và bộ đề *Trắc nghiệm.pdf*, giáo trình khẳng định nguyên văn: *\" 'Dân là chủ' xác định vị thế của nhân dân đối với quyền lực nhà nước, còn **'dân làm chủ' nhấn mạnh quyền lợi và nghĩa vụ của nhân dân với tư cách là người chủ**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 219,
@@ -3060,7 +3059,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.c \"Nhà nước do nhân dân\", trang 148) và bộ đề *Trắc nghiệm.pdf*, giáo trình chỉ rõ nguyên văn: *\"Nhân dân làm chủ thì phải **tuân theo pháp luật của Nhà nước, tuân theo kỷ luật lao động, giữ gìn trật tự chung, đóng góp (nộp thuế) đúng kỳ, đúng số** để xây dựng lợi ích chung...\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 220,
@@ -3074,7 +3073,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.a \"Nhà nước hợp hiến, hợp pháp\", trang 151) , giáo trình trích nguyên văn lời đề nghị của Hồ Chí Minh: *\"Chúng ta phải có một hiến pháp dân chủ. Tôi đề nghị Chính phủ tổ chức càng sớm càng hay cuộc TỔNG TUYỂN CỬ với chế độ phổ thông đầu phiếu\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 221,
@@ -3088,7 +3087,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.a \"Nhà nước hợp hiến, hợp pháp\", trang 151–152) , giáo trình khẳng định nguyên văn: *\"Ngày 2/3/1946, Quốc hội khoá I nước Việt Nam Dân chủ Cộng hoà đã họp phiên đầu tiên, lập ra các tổ chức, bộ máy và các chức vụ chính thức của Nhà nước. Hồ Chí Minh được bầu làm Chủ tịch Chính phủ liên hiệp đầu tiên. Đây chính là Chính phủ có đầy đủ tư cách pháp lý để giải quyết một cách có hiệu quả những vấn đề đối nội và đối ngoại ở nước ta\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 222,
@@ -3102,7 +3101,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 152) , giáo trình khẳng định nguyên văn: *\"Ở cương vị Chủ tịch nước, Hồ Chí Minh đã hai lần tham gia vào quá trình lãnh đạo soạn thảo Hiến pháp (Hiến pháp năm 1946 và Hiến pháp năm 1959), đã ký lệnh công bố 16 đạo luật, 613 sắc lệnh trong đó có 243 sắc lệnh quy định về tổ chức Nhà nước và pháp luật, và nhiều văn bản dưới luật khác\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 223,
@@ -3116,7 +3115,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 152) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 44, trang 60), giáo trình ghi nhận nguyên văn: *\"Trong tư tưởng Hồ Chí Minh, Nhà nước quản lý bằng bộ máy và bằng nhiều biện pháp khác nhau, nhưng quan trọng nhất là quản lý bằng Hiến pháp và bằng pháp luật nói chung\"* [1, 2].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 224,
@@ -3130,7 +3129,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 154) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 45, trang 60), giáo trình nêu rõ căn cứ sau trích dẫn của Hồ Chí Minh: *\"Điều đó đòi hỏi pháp luật phải đúng và phải đủ; tăng cường tuyên truyền, giáo dục pháp luật cho mọi người dân...\"* [2, 3].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 225,
@@ -3144,7 +3143,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Tự phê bình và phê bình\", trang 132) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 46, trang 60), Hồ Chí Minh khẳng định trong bản *Di chúc*: *\"Trong Đảng thực hành dân chủ rộng rãi, thường xuyên và nghiêm chỉnh tự phê bình và phê bình là cách tốt nhất để củng cố sự đoàn kết và thống nhất trong Đảng\"* [2, 4].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 226,
@@ -3158,7 +3157,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Tập trung dân chủ\", trang 130–131)  và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 47, trang 60) , Hồ Chí Minh khẳng định hai mặt dân chủ và tập trung có quan hệ gắn bó biện chứng: *\"Tập trung trên nền tảng dân chủ, dân chủ phải đi đến tập trung\"* . Do đó, cụm từ còn thiếu là **Dân chủ** [1, 2].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 227,
@@ -3172,7 +3171,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Kỷ luật nghiêm minh, tự giác\", trang 132)  và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 48, trang 60–61) [2, 4], giáo trình trích nguyên văn khẳng định của Hồ Chí Minh: *\"Kỷ luật này là do lòng tự giác của đảng viên về nhiệm vụ của họ đối với Đảng; khi đã tự giác thì kỷ luật của Đảng mới nghiêm và mới bền lâu, thực sự tạo sức mạnh cho Đảng\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 228,
@@ -3186,7 +3185,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Đảng phải liên hệ mật thiết với nhân dân\", trang 134)  và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 49, trang 61) , giáo trình khẳng định nguyên tắc hoạt động quan trọng của Đảng là *\"Đảng phải liên hệ mật thiết với nhân dân\"*, tạo nên mối quan hệ khăng khít, máu thịt giữa Đảng và nhân dân .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 229,
@@ -3200,7 +3199,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.c \"Xây dựng đội ngũ cán bộ, đảng viên\", trang 141) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 50, trang 61), giáo trình khẳng định nguyên văn: *\"Cán bộ là gốc của mọi công việc, 'muôn việc thành công hoặc thất bại, đều do cán bộ **tốt hoặc kém**'\"* [1, 2].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 230,
@@ -3214,7 +3213,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.b \"Nhà nước của nhân dân\", trang 145) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 51, trang 61), giáo trình nêu rõ nguyên văn: *\"Hồ Chí Minh luôn coi trọng hình thức dân chủ trực tiếp và tạo mọi điều kiện thuận lợi để thực hành dân chủ trực tiếp, bởi đây là hình thức dân chủ **hoàn bị nhất**\"* [2, 3].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 231,
@@ -3228,7 +3227,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 155) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 52, trang 61), giáo trình trích nguyên văn: *\"Các bạn là những người **phụ trách thi hành pháp luật**. Lẽ tất nhiên các bạn cần phải nêu cao **cái gương** 'phụng công, thủ pháp, chí công vô tư' cho nhân dân noi theo\"* [2, 4].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 232,
@@ -3242,7 +3241,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.c \"Pháp quyền nhân nghĩa\", trang 155–156) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 53, trang 61–62), điểm đặc sắc nhất trong tư tưởng Hồ Chí Minh về nhà nước pháp quyền là mô hình \"Pháp quyền nhân nghĩa\" [1, 2]. Trong đó, giáo trình khẳng định nguyên văn: *\"Tính nhân văn của hệ thống luật pháp thể hiện ở việc ghi nhận đầy đủ và bảo vệ quyền con người... hệ thống luật pháp đó có tính khuyến thiện, bảo vệ cái đúng, cái tốt, lấy mục đích giáo dục, cảm hóa, thức tỉnh con người làm căn bản\"* [3, 4]. Do đó, đáp án chính xác là **Pháp luật có tính nhân văn, khuyến thiện** .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 233,
@@ -3256,7 +3255,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.c \"Pháp quyền nhân nghĩa\", trang 155) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 54, trang 62), giáo trình khẳng định nguyên văn: *\"Tiếp thu và vận dụng sáng tạo các lý thuyết hiện đại về quyền con người, **Hồ Chí Minh tiếp cận quyền con người một cách toàn diện**\"* [1, 4].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 234,
@@ -3270,7 +3269,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.a \"Kiểm soát quyền lực nhà nước\", trang 157–158) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 55, trang 62), giáo trình chỉ rõ: *\"Vấn đề kiểm soát quyền lực nhà nước dựa trên cách thức tổ chức bộ máy nhà nước và việc phân công, phân nhiệm giữa các cơ quan thực thi quyền lực nhà nước bước đầu cũng đã được Hồ Chí Minh đề cập. **Hiến pháp năm 1946 ghi rõ một số hình thức kiểm soát bên trong Nhà nước...**\"* [4, 5].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 235,
@@ -3284,7 +3283,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.1 \"Tính tất yếu và vai trò lãnh đạo của Đảng Cộng sản Việt Nam\", trang 124–125), việc Hồ Chí Minh khẳng định sự ra đời của Đảng Cộng sản Việt Nam là sản phẩm kết hợp của ba yếu tố (Chủ nghĩa Mác – Lênin, phong trào công nhân và phong trào yêu nước) là vì: *\"Quan điểm của Hồ Chí Minh **hoàn toàn phù hợp với xã hội thuộc địa và phong kiến** như Việt Nam, khi mọi giai cấp, tầng lớp, trừ tư sản mại bản và đại địa chủ, đều có mâu thuẫn dân tộc\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 236,
@@ -3298,7 +3297,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Tự phê bình và phê bình\", trang 132) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 57, trang 63), Hồ Chí Minh viết trong bản *Di chúc*: *\"Trong Đảng thực hành dân chủ rộng rãi, thường xuyên và nghiêm chỉnh tự phê bình và phê bình **là cách tốt nhất để củng cố sự đoàn kết và thống nhất trong Đảng**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 237,
@@ -3312,7 +3311,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Tự phê bình và phê bình\", trang 132) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 58, trang 63), giáo trình trích ghi nguyên văn lời Bác dặn trong *Di chúc*: *\"Trong Đảng thực hành dân chủ rộng rãi, thường xuyên và nghiêm chỉnh tự phê bình và phê bình là cách tốt nhất để củng cố sự đoàn kết và thống nhất trong Đảng. **Phải có tình đồng chí thương yêu lẫn nhau**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 238,
@@ -3326,7 +3325,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.a \"Đảng là đạo đức, là văn minh\", trang 129) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 59, trang 63), các nội dung của một Đảng văn minh (Đảng cách mạng chân chính) bao gồm: *\"Bốn là, xây dựng Đảng văn minh còn thể hiện ở việc Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật...\"* và *\"Sáu là, Đảng văn minh còn thể hiện ở chỗ Đảng có quan hệ quốc tế trong sáng, bảo vệ lợi ích của dân tộc Việt Nam, đồng thời tôn trọng độc lập, chủ quyền... vì hòa bình, hữu nghị và sự phát triển chung của toàn nhân loại\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 239,
@@ -3340,7 +3339,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.a \"Đảng là đạo đức, là văn minh\", trang 129) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 60, trang 63), giáo trình khẳng định nguyên văn: *\"Nếu Đảng không đạo đức, văn minh thì Đảng sẽ bị mất quyền lãnh đạo và khi đó Đảng chứng tỏ là một tổ chức không trong sạch, vững mạnh, đội ngũ cán bộ, đảng viên thoái hoá, biến chất\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 240,
@@ -3354,7 +3353,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Tập trung dân chủ\", trang 131) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 61, trang 63–64), giáo trình chỉ rõ nguyên văn: *\"Đối với tập thể lãnh đạo, cá nhân phụ trách, có lúc Hồ Chí Minh coi tập thể lãnh đạo là dân chủ, cá nhân phụ trách là tập trung. Để nhấn mạnh tính chất này, Hồ Chí Minh lưu ý hai điều cần tránh trong hoạt động của Đảng: một là, độc đoán, chuyên quyền, coi thường tập thể; hai là, dựa dẫm tập thể, không dám quyết đoán\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 241,
@@ -3368,7 +3367,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Tự phê bình và phê bình\", trang 131) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 62, trang 64), giáo trình trích ghi nguyên văn: *\"Người cho rằng, tự phê bình và phê bình là 'thang thuốc' tốt nhất để **làm cho phần tốt trong mỗi tổ chức và mỗi con người nảy nở như hoa mùa xuân và phần xấu bị mất dần đi**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 242,
@@ -3382,7 +3381,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Đảng phải thường xuyên tự chỉnh đốn\", trang 133) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 63, trang 64), giáo trình khẳng định nguyên văn: *\"Hồ Chí Minh cho rằng, Đảng không có mục đích tự thân, Đảng không phải là tổ chức để làm quan phát tài mà Đảng từ trong xã hội mà ra, hoạt động vì **Tổ quốc giàu mạnh, đồng bào sung sướng**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 243,
@@ -3396,7 +3395,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.b \"Đảng phải thường xuyên tự chỉnh đốn\", trang 133) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 64, trang 64), giáo trình trích trọn vẹn lời Bác dặn: *\"ngay sau khi cuộc chống Mỹ, cứu nước của nhân dân Việt Nam hoàn toàn thắng lợi, 'việc cần phải làm trước tiên là **chỉnh đốn lại Đảng, làm cho mỗi đảng viên, mỗi đoàn viên, mỗi chi bộ đều ra sức làm tròn nhiệm vụ đảng giao phó cho mình, toàn tâm toàn ý phục vụ nhân dân**'\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 244,
@@ -3410,7 +3409,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh**  (Chương 4, mục I.2.b \"Đoàn kết, thống nhất trong Đảng\", trang 134) và bản *Di chúc* năm 1969 , giáo trình trích nguyên văn lời Chủ tịch Hồ Chí Minh: *\"Nhờ đoàn kết chặt chẽ, một lòng một dạ phục vụ giai cấp, phục vụ nhân dân, phục vụ Tổ quốc, cho nên từ ngày thành lập đến nay, Đảng ta đã đoàn kết, tổ chức và lãnh đạo nhân dân ta **hăng hái đấu tranh tiến từ thắng lợi này đến thắng lợi khác**\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 245,
@@ -3424,7 +3423,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** [2-4] (Chương 4, mục I.2.b \"Đảng phải liên hệ mật thiết với nhân dân\", trang 134–135)  và bản *Di chúc* năm 1969 [2, 3] (trích dẫn ở trang 28 , 63  của Giáo trình), mọi hoạt động và sự tương tác giữa Đảng, giai cấp công nhân và nhân dân Việt Nam đều có tính hướng đích là: *\"Toàn Đảng, toàn dân ta đoàn kết phấn đấu, **xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh, và góp phần xứng đáng vào sự nghiệp cách mạng thế giới**\"* [2, 3].",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 246,
@@ -3438,7 +3437,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh**  (Chương 4, mục I.2.b \"Đảng phải liên hệ mật thiết với nhân dân\", trang 136), giáo trình ghi nhận nguyên văn lý do: *\"Hồ Chí Minh ý thức được rằng, Đảng Cộng sản Việt Nam nhất thiết phải là hiện thân của văn hóa dân tộc **vì Đảng là đội tiên phong không những của giai cấp công nhân mà còn là đội tiên phong của nhân dân lao động và của dân tộc**\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 247,
@@ -3452,7 +3451,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.c \"Xây dựng đội ngũ cán bộ, đảng viên\", trang 138) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 68, trang 65–66), Hồ Chí Minh nêu các yêu cầu chủ yếu đối với cán bộ, đảng viên: *\"Phải luôn luôn tu dưỡng, rèn luyện, trau dồi đạo đức cách mạng\"* và *\"Phải luôn luôn học tập nâng cao trình độ về mọi mặt\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 248,
@@ -3466,7 +3465,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.c \"Xây dựng đội ngũ cán bộ, đảng viên\", trang 138) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 69, trang 66), giáo trình khẳng định nguyên văn: *\"Trong việc phòng, chống tiêu cực, cán bộ, đảng viên phải đặc biệt phòng, chống tham ô, lãng phí, quan liêu bởi Hồ Chí Minh cho đó là **giặc nội xâm, là những kẻ địch bên trong**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 249,
@@ -3480,7 +3479,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục I.2.c \"Xây dựng đội ngũ cán bộ, đảng viên\", trang 141) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 70, trang 66), trong công tác cán bộ, Hồ Chí Minh yêu cầu: *\"phải hiểu và đánh giá đúng cán bộ; phải chú trọng huấn luyện cán bộ, huấn luyện một cách thiết thực, có hiệu quả; phải đề bạt đúng cán bộ; phải sắp xếp, sử dụng cán bộ cho đúng; phải kết hợp cán bộ cấp trên phái đến và cán bộ địa phương...\"*. Do đó, phương án C không thuộc các yêu cầu nguyên văn của Bác trong giáo trình, là phương án SAI (đáp án cần chọn).",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 250,
@@ -3494,7 +3493,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1 \"Nhà nước dân chủ\", trang 141; Chương 2, trang 42–43) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 71, trang 66), trong hành trình tìm đường cứu nước, Hồ Chí Minh đã khảo sát và nghiên cứu các mô hình nhà nước trong lịch sử: **nhà nước phong kiến, nhà nước tư sản và nhà nước kiểu mới** (Nhà nước công nông/xã hội chủ nghĩa).",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 251,
@@ -3508,7 +3507,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 153) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 72, trang 66), giáo trình ghi nhận nguyên văn: *\"Pháp luật là công cụ quyền lực của nhân dân, vì thế điều quan trọng là phải **'làm sao cho nhân dân biết hưởng quyền dân chủ, biết dùng quyền dân chủ của mình, dám nói, dám làm'**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 252,
@@ -3522,7 +3521,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.a \"Kiểm soát quyền lực nhà nước\", trang 158), giáo trình khẳng định nguyên văn: *\"Đảng là đội tiên phong của giai cấp công nhân, của nhân dân lao động và của dân tộc, là Đảng cầm quyền, lãnh đạo Nhà nước và xã hội, chính vì vậy, Đảng có quyền và có trách nhiệm kiểm soát quyền lực nhà nước\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 253,
@@ -3536,7 +3535,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.a \"Kiểm soát quyền lực nhà nước\", trang 159)  và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 95, trang 72) , giáo trình khẳng định nguyên văn: *\"Nhân dân là chủ thể tối cao của quyền lực nhà nước, vì thế, nhân dân có quyền kiểm soát quyền lực nhà nước\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 254,
@@ -3550,7 +3549,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.b \"Phòng, chống tiêu cực trong Nhà nước\", trang 162) , giáo trình nêu rõ nguyên văn: *\"Trước hết là nguyên nhân chủ quan, bắt nguồn từ căn 'bệnh mẹ' là chủ nghĩa cá nhân, từ sự thiếu tu dưỡng, rèn luyện của bản thân cán bộ\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 255,
@@ -3564,7 +3563,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.a \"Bản chất giai cấp của Nhà nước\", trang 142)  và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 76, trang 68) , giáo trình ghi nhận nguyên văn: *\"Ngay trong quan điểm về nhà nước dân chủ, nhà nước do nhân dân là người chủ nắm chính quyền, Hồ Chí Minh đã nhấn mạnh nòng cốt của nhân dân là liên minh công - nông - trí, do giai cấp công nhân mà đội tiên phong của nó là Đảng Cộng sản Việt Nam lãnh đạo\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 256,
@@ -3578,7 +3577,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.a \"Bản chất giai cấp của Nhà nước\", trang 141–142) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 77, trang 68), giáo trình khẳng định nguyên văn ba phương thức Đảng lãnh đạo Nhà nước: *\"Đảng cầm quyền bằng các phương thức: (1) Bằng đường lối, quan điểm, chủ trương để Nhà nước thể chế hóa thành pháp luật, chính sách, kế hoạch; (2) Bằng hoạt động của các tổ chức đảng và đảng viên của mình trong bộ máy, cơ quan nhà nước; (3) Bằng công tác kiểm tra\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 257,
@@ -3592,7 +3591,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.a \"Bản chất giai cấp của Nhà nước\", trang 142) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 78, trang 68), giáo trình ghi nhận nguyên văn: *\"Hồ Chí Minh rất chú ý đến cả hai mặt dân chủ và tập trung trong tổ chức và hoạt động của tất cả bộ máy, cơ quan nhà nước... Nhà nước phải tập trung thống nhất quyền lực để tất cả mọi quyền lực thuộc về nhân dân\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 258,
@@ -3606,7 +3605,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.b \"Nhà nước của nhân dân\", trang 146) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 79, trang 68), giáo trình nêu rõ: *\"Theo quan điểm của Hồ Chí Minh, trong hình thức dân chủ gián tiếp: Quyền lực nhà nước là 'thừa ủy quyền' của nhân dân. Tự bản thân nhà nước không có quyền lực. Quyền lực của nhà nước là do nhân dân ủy thác\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 259,
@@ -3620,7 +3619,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.b \"Nhà nước của nhân dân\", trang 147) , giáo trình khẳng định nguyên văn: *\"Nhân dân có quyền kiểm soát, phê bình nhà nước, có quyền bãi miễn những đại biểu mà họ đã lựa chọn, bầu ra và có quyền giải tán những thiết chế quyền lực mà họ đã lập nên. Đây là quan điểm rõ ràng, kiên quyết của Hồ Chí Minh nhằm bảo đảm cho mọi quyền lực, trong đó có quyền lực nhà nước, luôn nằm trong tay dân chúng\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 260,
@@ -3634,7 +3633,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.b \"Nhà nước của nhân dân\", trang 147) , giáo trình trích ghi nguyên văn lời Bác: *\"Một nhà nước thật sự của dân, theo Hồ Chí Minh, luôn 'mong đồng bào giúp đỡ, **đôn đốc, kiểm soát** và phê bình để làm trọn nhiệm vụ của mình là: người đày tớ trung thành tận tụy của nhân dân'\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 261,
@@ -3648,7 +3647,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.b \"Nhà nước của nhân dân\", trang 147–148) , giáo trình chỉ rõ nguyên văn: *\"Theo Hồ Chí Minh, sự khác biệt căn bản của luật pháp trong Nhà nước Việt Nam mới với luật pháp của nhà nước theo các chế độ tư sản, phong kiến là ở chỗ **nó phản ánh được ý nguyện và bảo vệ quyền lợi của dân chúng**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 262,
@@ -3662,7 +3661,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.c \"Nhà nước do nhân dân\", trang 148) , giáo trình ghi nhận nguyên văn: *\"Nhân dân 'cử ra', 'tổ chức nên' nhà nước dựa trên **nền tảng pháp lý của một chế độ dân chủ** và theo các trình tự dân chủ với các quyền bầu cử, phúc quyết, v.v..\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 263,
@@ -3676,7 +3675,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.c \"Nhà nước do nhân dân\", trang 149) , giáo trình khẳng định nguyên văn: *\"Trong nhà nước do nhân dân làm chủ, nhà nước phải tạo mọi điều kiện để nhân dân được thực hiện những quyền mà Hiến pháp và pháp luật đã quy định... Hồ Chí Minh yêu cầu cán bộ, đảng viên phải thật sự **tôn trọng quyền làm chủ của nhân dân**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 264,
@@ -3690,7 +3689,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.c \"Nhà nước do nhân dân\", trang 149) , giáo trình ghi rõ nguyên văn: *\"Nhà nước do nhân dân cần coi trọng việc giáo dục nhân dân, đồng thời nhân dân cũng phải tự giác phấn đấu để **có đủ năng lực thực hiện quyền dân chủ của mình**. Hồ Chí Minh nói: 'Chúng ta là những người lao động làm chủ nước nhà. Muốn làm chủ được tốt, phải có năng lực làm chủ'\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 265,
@@ -3704,7 +3703,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.d \"Nhà nước vì nhân dân\", trang 149), giáo trình ghi nhận nguyên văn: *\"Nhà nước vì dân là nhà nước phục vụ lợi ích và nguyện vọng của nhân dân, không có đặc quyền đặc lợi, thực sự trong sạch, cần, kiệm, liêm, chính. Hồ Chí Minh là một vị Chủ tịch vì dân và Người yêu cầu các cơ quan nhà nước, các cán bộ nhà nước đều phải **vì nhân dân phục vụ**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 266,
@@ -3718,7 +3717,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.1.d \"Nhà nước vì nhân dân\", trang 150), giáo trình trích nguyên văn chỉ dẫn của Bác: *\"Thước đo một Nhà nước vì dân là phải được lòng dân. Hồ Chí Minh đặt vấn đề với cán bộ Nhà nước phải 'làm sao cho được lòng dân, dân tin, dân mến, dân yêu', đồng thời chỉ rõ: 'muốn được dân yêu, muốn được lòng dân, trước hết phải yêu dân, phải đặt **quyền lợi của dân trên hết thảy**, phải có một tinh thần chí công vô tư'\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 267,
@@ -3730,9 +3729,9 @@ const QUESTIONS_DATA = [
       "C": "Xây dựng nền tảng pháp lý cho nước Việt Nam mới",
       "D": "Xây dựng nền tảng văn hóa cho nước Việt Nam mới"
     },
-    "answer": "C",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.a \"Nhà nước hợp hiến, hợp pháp\", trang 150), giáo trình khẳng định nguyên văn: *\"Hồ Chí Minh luôn chú trọng vấn đề **xây dựng nền tảng pháp lý cho Nhà nước Việt Nam mới**. Người đã sớm thấy rõ tầm quan trọng của Hiến pháp và pháp luật trong đời sống chính trị xã hội\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "answer": "B",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. Xây dựng nền tảng kinh tế cho nước Việt Nam mới**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Trong Giáo trình Tư tưởng Hồ Chí Minh (Chương 4, mục Nhà nước pháp quyền), Hồ Chí Minh chú trọng hàng đầu việc xây dựng nền tảng pháp lý (Hiến pháp 1946) để quản lý xã hội. Tuy nhiên, theo quan điểm triết học Mác - Lênin của người ra đề, kinh tế là cơ sở hạ tầng quyết định kiến trúc thượng tầng chính trị, nên Giảng viên nhấn mạnh xây dựng nền tảng kinh tế (đáp án B).",
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 268,
@@ -3746,7 +3745,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.a \"Nhà nước hợp hiến, hợp pháp\", trang 150–151), giáo trình khẳng định nguyên văn: *\"Sau này, khi trở thành người đứng đầu Nhà nước Việt Nam mới, Hồ Chí Minh càng quan tâm sâu sắc hơn việc bảo đảm cho Nhà nước được tổ chức và vận hành phù hợp với **pháp luật, đồng thời, căn cứ vào pháp luật để điều hành xã hội**, làm cho tinh thần pháp quyền thấm sâu và điều chỉnh mọi quan hệ và hoạt động trong Nhà nước và xã hội\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 269,
@@ -3760,7 +3759,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 153), giáo trình khẳng định nguyên văn: *\"Cùng với công tác lập pháp, Hồ Chí Minh còn chú trọng đưa pháp luật vào **trong cuộc sống, bảo đảm cho pháp luật được thi hành** và có cơ chế giám sát việc thi hành pháp luật\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 270,
@@ -3774,7 +3773,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 153), giáo trình ghi nhận nguyên văn: *\"Hồ Chí Minh chỉ rõ sự cần thiết phải nâng cao **trình độ hiểu biết và năng lực sử dụng luật** của người dân, giáo dục ý thức tôn trọng và tuân thủ pháp luật trong nhân dân\"* .",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 271,
@@ -3788,7 +3787,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 154), giáo trình ghi nhận nguyên văn: *\"Người cho rằng, công tác giáo dục pháp luật cho mọi người, đặc biệt cho **thế hệ trẻ** trở nên cực kỳ quan trọng trong việc xây dựng một Nhà nước pháp quyền, bảo đảm mọi quyền và nghĩa vụ công dân được thực thi trong cuộc sống\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 272,
@@ -3802,7 +3801,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.2.b \"Nhà nước thượng tôn pháp luật\", trang 154–155) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 93, trang 72), giáo trình chỉ rõ nguyên văn: *\"Hồ Chí Minh luôn luôn khuyến khích nhân dân phê bình, giám sát công việc của Nhà nước, giám sát quá trình Nhà nước thực thi pháp luật, đồng thời không ngừng nhắc nhở cán bộ các cấp, các ngành **phải gương mẫu trong việc tuân thủ pháp luật, trước hết là các cán bộ thuộc ngành hành pháp và tư pháp**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 273,
@@ -3816,7 +3815,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.a \"Kiểm soát quyền lực nhà nước\", trang 157) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 94, trang 72), giáo trình khẳng định nguyên văn: *\"Để giữ vững bản chất của Nhà nước, bảo đảm cho Nhà nước hoạt động có hiệu quả, phòng chống thoái hóa, biến chất trong đội ngũ cán bộ nhà nước, Hồ Chí Minh rất chú trọng vấn đề **kiểm soát quyền lực nhà nước**\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 274,
@@ -3830,7 +3829,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.a \"Kiểm soát quyền lực nhà nước\", trang 157–158 [1, 2]) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 95, trang 72 ), giáo trình khẳng định nguyên văn: *\"Để bảo đảm tất cả mọi quyền lực thuộc về nhân dân, cần kiểm soát quyền lực nhà nước\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 275,
@@ -3844,7 +3843,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.a \"Kiểm soát quyền lực nhà nước\", trang 158 ) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 96, trang 72 ), giáo trình ghi nhận nguyên văn: *\"Để kiểm soát có kết quả tốt, theo Hồ Chí Minh, cần có hai điều kiện là việc kiểm soát phải có hệ thống và người đi kiểm soát phải là những người rất có uy tín\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 276,
@@ -3858,7 +3857,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục II.3.a \"Kiểm soát quyền lực nhà nước\", trang 158 ) và tài liệu *Trắc nghiệm.pdf* (Chương 4, Câu 97, trang 73 ), giáo trình nêu rõ nguyên văn: *\"Người còn nêu rõ hai cách kiểm soát là từ trên xuống và từ dưới lên. Người nhấn mạnh, phải 'khéo kiểm soát'\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 277,
@@ -3872,7 +3871,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục III.1 \"Xây dựng Đảng thật sự trong sạch, vững mạnh\", trang 163–164 ) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 98, trang 73), ba nội dung cốt lõi bao gồm: *\"Phải đề ra đường lối, chủ trương đúng đắn... Phải tổ chức thực hiện thật tốt đường lối, chủ trương của Đảng... Phải chú trọng hơn nữa công tác chỉnh đốn Đảng\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 278,
@@ -3886,7 +3885,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 4, mục III.2 \"Xây dựng Nhà nước\", trang 165–167 ) và bộ đề *Trắc nghiệm.pdf* (Chương 4, Câu 99, trang 73), hai nội dung lớn được giáo trình nhấn mạnh là: *\"Phải xây dựng Nhà nước thật sự trong sạch, vững mạnh...\"* và *\"Đổi mới, tăng cường sự lãnh đạo của Đảng đối với Nhà nước\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 4: Tư tưởng Hồ Chí Minh về Đảng Cộng sản và Nhà nước của nhân dân"
   },
   {
     "id": 279,
@@ -3900,7 +3899,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.1.a \"Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa chiến lược, quyết định thành công của cách mạng\", trang 170 ) và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 1, trang 73), giáo trình khẳng định nguyên văn: *\"Trong tư tưởng Hồ Chí Minh, đại đoàn kết toàn dân tộc là chiến lược lâu dài, nhất quán của cách mạng Việt Nam... là nhân tố quyết định sự thành bại của cách mạng\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 280,
@@ -3914,7 +3913,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.4.b \"Nguyên tắc xây dựng và hoạt động của Mặt trận dân tộc thống nhất\", trang 179), giáo trình trích trọn vẹn chỉ dẫn của Bác : *\"Người căn dặn, không nên chỉ nhấn mạnh vai trò của công nông, mà còn phải thấy vai trò và sự cần thiết phải liên minh với các giai cấp khác, nhất là với đội ngũ trí thức\"*.",
-    "chapter": "Chương 4: Tư tưởng HCM về Đảng Cộng sản và Nhà nước của dân, do dân, vì dân"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 281,
@@ -3928,7 +3927,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.4.b \"Nguyên tắc xây dựng và hoạt động của Mặt trận dân tộc thống nhất\", trang 178–180), các nguyên tắc cốt lõi xây dựng và hoạt động của Mặt trận bao gồm cả ba nội dung [2-4]: 1. Phải được xây dựng trên nền tảng liên minh công nhân - nông dân - trí thức và đặt dưới sự lãnh đạo của Đảng. 2. Phải hoạt động theo nguyên tắc hiệp thương dân chủ. 3. Phải đoàn kết lâu dài, chặt chẽ, đoàn kết thật sự, chân thành, thân ái giúp đỡ nhau cùng tiến bộ. Do đó, tất cả các phương án A, B, C đều đúng.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 282,
@@ -3942,7 +3941,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.4.a \"Mặt trận dân tộc thống nhất\", trang 177), giáo trình khẳng định nguyên văn : *\"Khối đại đoàn kết toàn dân tộc chỉ trở thành lực lượng to lớn, có sức mạnh khi được tập hợp, tổ chức lại thành một khối vững chắc, đó là mặt trận dân tộc thống nhất\"*.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 283,
@@ -3956,7 +3955,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.2 \"Điều kiện để xây dựng khối đại đoàn kết toàn dân tộc\", trang 174–176) và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 6, trang 74), ba điều kiện cốt lõi để xây dựng khối đại đoàn kết toàn dân tộc gồm: (1) Phải kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc; (2) Phải có lòng khoan dung, độ lượng với con người; (3) Phải có niềm tin vào nhân dân. Do đó, đáp án đúng là **Tất cả các đáp án**.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 284,
@@ -3968,9 +3967,9 @@ const QUESTIONS_DATA = [
       "C": "Đoàn kết là then chốt của thắng lợi",
       "D": "Đoàn kết là nguồn gốc của mọi thành công"
     },
-    "answer": "B",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.1.a \"Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa chiến lược\", trang 171) và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 2, trang 73–74), Hồ Chí Minh đã đúc kết vai trò và sức mạnh vô địch của đại đoàn kết dân tộc thành câu nói mang tính chân lý: *\"Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công\"*.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "D",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Đoàn kết là nguồn gốc của mọi thành công**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Câu khẩu hiệu nổi tiếng và kinh điển nhất của Hồ Chí Minh là: 'Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công' (đáp án B). Nhưng trong bộ đề này, đáp án chính thức của Giảng viên được chấm là **D**. Bạn hãy chọn D khi thi theo bộ đề này.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 285,
@@ -3982,9 +3981,9 @@ const QUESTIONS_DATA = [
       "C": "Trong tất cả lĩnh vực, từ đường lối, chủ trương, chính sách, tới hoạt động thực tiễn của Đảng",
       "D": "Tất cả các đáp án"
     },
-    "answer": "D",
-    "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.1.b \"Đại đoàn kết toàn dân tộc là mục tiêu, nhiệm vụ hàng đầu của Đảng, của dân tộc\", trang 172–173) và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 4, trang 74), đại đoàn kết toàn dân tộc là nhiệm vụ chiến lược xuyên suốt qua các thời kỳ lịch sử và phải được quán triệt trong mọi lĩnh vực hoạt động của Đảng. Do đó, đáp án đúng là **Tất cả các đáp án**.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "C",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **C. Trong tất cả lĩnh vực, từ đường lối, chủ trương, chính sách, tới hoạt động thực tiễn của Đảng**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Giáo trình Tư tưởng Hồ Chí Minh (Chương 5, trang 172) nhấn mạnh nhiệm vụ đại đoàn kết phải được quán triệt xuyên suốt trong mọi đường lối, chính sách và hoạt động thực tiễn. Phương án C là câu trả lời diễn đạt trọn vẹn và đầy đủ nhất theo câu chữ chuẩn của giáo trình.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 286,
@@ -3998,7 +3997,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục II.3.a \"Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích; có lý, có tình\", trang 194)  và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 8, trang 75) , giáo trình trích nguyên văn câu trả lời của Hồ Chí Minh vào tháng 9/1947: *\"Chính sách đối ngoại của nước Việt Nam là 'làm bạn với tất cả mọi nước **dân chủ** và không gây thù oán với một ai'\"* . Do đó, cụm từ còn thiếu là **Dân chủ**.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 287,
@@ -4012,7 +4011,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục II.2.a \"Các lực lượng cần đoàn kết\", trang 188–190) [3, 4] và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 9, trang 75) , lực lượng đoàn kết quốc tế trong tư tưởng Hồ Chí Minh bao gồm ba lực lượng chính: (1) Phong trào cộng sản và công nhân quốc tế; (2) Phong trào đấu tranh giải phóng dân tộc; (3) Các lực lượng tiến bộ, những người yêu chuộng hòa bình, dân chủ, tự do và công lý [3, 4]. Vì vậy, đáp án đúng là **Tất cả các đáp án**.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 288,
@@ -4026,7 +4025,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.1.b \"Đại đoàn kết toàn dân tộc là một mục tiêu, nhiệm vụ hàng đầu của cách mạng Việt Nam\", trang 171–172) [5, 6] và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 10, trang 75) , giáo trình trích nguyên văn Tuyên bố của Chủ tịch Hồ Chí Minh ngày 3/3/1951: *\"Mục đích của Đảng Lao động Việt Nam có thể gồm trong 8 chữ là: **ĐOÀN KẾT TOÀN DÂN, PHỤNG SỰ TỔ QUỐC**\"* [5, 6].",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 289,
@@ -4040,7 +4039,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.1.a \"Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa chiến lược, quyết định thành công của cách mạng\", trang 170)  và tài liệu *Trắc nghiệm.pdf* (Chương 5, Câu 11, trang 76) , giáo trình trích nguyên văn: *\"Sử dạy cho ta bài học này: Lúc nào dân ta **đoàn kết** muôn người như một thì nước ta độc lập, tự do. Trái lại lúc nào dân ta không **đoàn kết** thì bị nước ngoài xâm lấn\"* [1, 2].",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 290,
@@ -4054,7 +4053,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.1.b \"Đại đoàn kết toàn dân tộc là một mục tiêu, nhiệm vụ hàng đầu của cách mạng Việt Nam\", trang 171)  và tài liệu *Trắc nghiệm.pdf* (Chương 5, Câu 12, trang 76) , giáo trình khẳng định nguyên văn tiêu đề: *\"Đại đoàn kết toàn dân tộc là một mục tiêu, nhiệm vụ hàng đầu của **cách mạng Việt Nam**\"* .",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 291,
@@ -4068,7 +4067,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.4.b \"Nguyên tắc xây dựng và hoạt động của Mặt trận dân tộc thống nhất\", trang 178–179)  và tài liệu *Trắc nghiệm.pdf* (Chương 5, Câu 13, trang 76) , giáo trình trích nguyên văn lời Bác: *\"Lực lượng chủ yếu trong khối đoàn kết dân tộc là **công nông**, cho nên liên minh **công nông** là nền tảng của Mặt trận dân tộc thống nhất\"* [2, 4].",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 292,
@@ -4082,7 +4081,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.4.a \"Mặt trận dân tộc thống nhất\", trang 177) và tài liệu *Trắc nghiệm.pdf* (Chương 5, Câu 14, trang 76), giáo trình nêu rõ tên gọi của Mặt trận dân tộc thống nhất qua các thời kỳ: năm 1941 có tên gọi là **Mặt trận Việt Minh**, năm 1976 có tên gọi là **Mặt trận Tổ quốc Việt Nam** [1, 2].",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 293,
@@ -4096,7 +4095,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục II.2.b \"Hình thức tổ chức\", trang 190) và tài liệu *Trắc nghiệm.pdf* (Chương 5, Câu 15, trang 76–77), giáo trình khẳng định nguyên văn: *\"Từ năm 1924, Hồ Chí Minh đã đưa ra quan điểm về thành lập 'Mặt trận thống nhất của nhân dân chính quốc và thuộc địa' chống chủ nghĩa đế quốc, đồng thời kiến nghị Quốc tế Cộng sản cần có giải pháp cụ thể để quan điểm này trở thành sự thật\"* [2-4].",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 294,
@@ -4110,7 +4109,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục II.2.a \"Các lực lượng cần đoàn kết\", trang 189) và tài liệu *Trắc nghiệm.pdf* (Chương 5, Câu 16, trang 77), giáo trình trích ghi nguyên văn chỉ dẫn của Bác: *\"Người đã lưu ý Quốc tế Cộng sản về những biện pháp nhằm làm cho **các dân tộc thuộc địa**, hiểu biết nhau hơn và đoàn kết lại để đặt cơ sở cho một Liên minh phương Đông tương lai\"* [4, 5]. Do đó, cụm từ còn thiếu là **Các dân tộc thuộc địa**.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 295,
@@ -4124,7 +4123,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.5 \"Phương thức xây dựng khối đại đoàn kết dân tộc\", trang 183), giáo trình khẳng định nguyên văn: *\"Các đoàn thể, tổ chức quần chúng được tập hợp và đoàn kết trong mặt trận dân tộc thống nhất. Theo Hồ Chí Minh, các đoàn thể, tổ chức quần chúng hợp thành Mặt trận dân tộc thống nhất\"* .",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 296,
@@ -4138,7 +4137,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục II.2.b \"Hình thức tổ chức\", trang 191), giáo trình chỉ rõ nguyên văn: *\"Trong hai cuộc kháng chiến chống thực dân Pháp và đế quốc Mỹ, Hồ Chí Minh đã chỉ đạo việc hình thành Mặt trận nhân dân ba nước Đông Dương\"* .",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 297,
@@ -4152,7 +4151,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.5 \"Phương thức xây dựng khối đại đoàn kết dân tộc\", trang 181), giáo trình khẳng định nguyên văn: *\"Một là, làm tốt công tác vận động quần chúng (dân vận). Hồ Chí Minh coi đoàn kết, đại đoàn kết như một mục tiêu, một nhiệm vụ hàng đầu của Đảng. Để thực hiện mục tiêu đó thì phải làm tốt công tác vận động quần chúng\"* .",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 298,
@@ -4166,7 +4165,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.3.b \"Nền tảng của khối đại đoàn kết toàn dân tộc\", trang 174) và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 20, trang 77–78), giáo trình khẳng định nguyên văn: *\"Lực lượng làm nền tảng cho khối đại đoàn kết toàn dân tộc theo quan điểm của Hồ Chí Minh là công nhân, nông dân và trí thức\"*.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 299,
@@ -4180,7 +4179,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.3.a \"Chủ thể của khối đại đoàn kết toàn dân tộc\", trang 173) và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 21, trang 78), giáo trình ghi nhận nguyên văn: *\"Hồ Chí Minh còn chỉ rõ, trong quá trình xây dựng khối đại đoàn kết toàn dân tộc, phải đứng vững trên lập trường giai cấp công nhân...\"*.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 300,
@@ -4194,7 +4193,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo **Giáo trình Tư tưởng Hồ Chí Minh** (Chương 5, mục I.3.b \"Nền tảng của khối đại đoàn kết toàn dân tộc\", trang 174) và bộ đề *Trắc nghiệm.pdf* (Chương 5, Câu 22, trang 78), giáo trình nêu rõ nguyên văn: *\"Trong khối đại đoàn kết toàn dân tộc, phải đặc biệt chú trọng yếu tố 'hạt nhân' là sự đoàn kết và thống nhất trong Đảng vì đó là điều kiện cho sự đoàn kết ngoài xã hội\"*. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh của Bộ Giáo dục và Đào tạo:",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 301,
@@ -4208,7 +4207,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam vừa là thành viên của Mặt trận (để cùng bàn bạc, hiệp thương, thực hiện dân chủ), vừa là lực lượng lãnh đạo Mặt trận (thông qua đường lối, chủ trương để định hướng cho Mặt trận hoạt động). Đảng không đứng ngoài hay đứng trên Mặt trận mà nằm trong khối đại đoàn kết đó.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 302,
@@ -4222,7 +4221,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Tư tưởng đại đoàn kết của Hồ Chí Minh không chỉ là lý luận mà đã trở thành hiện thực sinh động, là chiến lược xuyên suốt của Đảng, thấm sâu vào lòng dân và trở thành sức mạnh vật chất to lớn trong thực tiễn cách mạng Việt Nam qua các thời kỳ.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 303,
@@ -4236,7 +4235,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo tư tưởng Hồ Chí Minh, sức mạnh của cách mạng Việt Nam là sự kết hợp giữa sức mạnh dân tộc (nội lực, chủ nghĩa yêu nước, tinh thần làm chủ của nhân dân) và sức mạnh thời đại (sự ủng hộ của quốc tế). Việc phát huy sức mạnh tổng hợp này là bài học kinh nghiệm cốt lõi để thực hiện thắng lợi công cuộc đổi mới và hội nhập quốc tế. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 304,
@@ -4250,7 +4249,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc là vấn đề có ý nghĩa chiến lược, là nhân tố quyết định thành bại của cách mạng. Người khẳng định đây là vấn đề xuyên suốt, nhất quán trong mọi giai đoạn của cách mạng, không phải là thủ đoạn chính trị hay sách lược tạm thời.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 305,
@@ -4264,7 +4263,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Trong hệ thống tư tưởng của mình, Hồ Chí Minh luôn nhấn mạnh đại đoàn kết toàn dân tộc là vấn đề sống còn, là cội nguồn sức mạnh của cách mạng Việt Nam. Dù ở giai đoạn cách mạng dân tộc dân chủ hay cách mạng xã hội chủ nghĩa, đại đoàn kết vẫn luôn là nhiệm vụ hàng đầu để tập hợp lực lượng.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 306,
@@ -4278,7 +4277,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Hồ Chí Minh đã đúc kết chân lý: \"Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công\". Người khẳng định đại đoàn kết là nhân tố quyết định thắng lợi của cách mạng Việt Nam, do đó đây là chủ trương chiến lược không bao giờ thay đổi dù nhiệm vụ cách mạng ở mỗi giai đoạn có sự khác biệt. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 307,
@@ -4292,7 +4291,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh, đại đoàn kết là một chiến lược nhất quán, nhưng chính sách và phương pháp tập hợp phải linh hoạt, mềm dẻo, thay đổi tùy theo từng giai đoạn cách mạng và đối tượng cụ thể để thu phục được đông đảo nhất các tầng lớp nhân dân.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 308,
@@ -4304,9 +4303,9 @@ const QUESTIONS_DATA = [
       "C": "Sách lược lâu dài của cách mạng Việt Nam",
       "D": "Động lực bên trong và bên ngoài của cách mạng Việt Nam"
     },
-    "answer": "A",
-    "explanation": "Trong giáo trình, Hồ Chí Minh khẳng định đại đoàn kết dân tộc là vấn đề có ý nghĩa chiến lược, quyết định thành bại của cách mạng, là nguồn sức mạnh, là động lực chủ yếu của sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "B",
+    "explanation": "Theo Giáo trình Tư tưởng Hồ Chí Minh (Chương 5, mục I.1.a), đại đoàn kết toàn dân tộc là mục tiêu lâu dài, có ý nghĩa chiến lược quyết định thành công của cách mạng Việt Nam, chứ không phải chỉ là sách lược hay biện pháp tạm thời.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 309,
@@ -4320,7 +4319,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Hồ Chí Minh luôn nhấn mạnh quan điểm \"Cách mạng là sự nghiệp của quần chúng\". Vì vậy, đại đoàn kết dân tộc không phải là ý muốn chủ quan mà là yêu cầu khách quan, là quy luật sống còn để quần chúng nhân dân tự giải phóng và xây dựng cuộc sống mới. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 310,
@@ -4334,7 +4333,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo giáo trình, Hồ Chí Minh khẳng định đại đoàn kết dân tộc là đoàn kết toàn dân. Người xác định chủ thể của khối đại đoàn kết là \"toàn thể nhân dân\", là \"tất cả những người Việt Nam yêu nước\", không phân biệt dân tộc, tôn giáo, giai cấp, tầng lớp, miễn là có lòng yêu nước và tinh thần dân tộc.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 311,
@@ -4348,7 +4347,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Trong tư tưởng Hồ Chí Minh, \"Nhân dân\" là một phạm trù rộng lớn. Người hiểu \"Nhân dân\" vừa là những con người Việt Nam cụ thể (mỗi cá nhân), vừa là tập hợp đông đảo quần chúng nhân dân (lực lượng làm nên lịch sử). Đây là cách tiếp cận vừa mang tính nhân văn, vừa mang tính giai cấp và dân tộc sâu sắc.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 312,
@@ -4360,9 +4359,9 @@ const QUESTIONS_DATA = [
       "C": "Phải tập hợp, đoàn kết tất cả mọi lực lượng thành một khối thống nhất",
       "D": "Phải tập hợp, đoàn kết tất cả mọi tầng lớp vào một khối thống nhất"
     },
-    "answer": "C",
-    "explanation": "Hồ Chí Minh chủ trương đại đoàn kết là phải tập hợp, đoàn kết tất cả mọi lực lượng, mọi tổ chức, mọi cá nhân có thể đoàn kết được vào một khối thống nhất nhằm tạo nên sức mạnh tổng hợp để thực hiện mục tiêu chung của cách mạng. Người nhấn mạnh việc quy tụ mọi lực lượng yêu nước, tiến bộ vào Mặt trận dân tộc thống nhất. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "A",
+    "explanation": "Theo tư tưởng Hồ Chí Minh, trong thực hiện đại đoàn kết dân tộc: 'Dân là gốc của nước', cần phải tập hợp, đoàn kết tất cả mọi người dân yêu nước vào một khối thống nhất, không phân biệt giai cấp, tôn giáo, dân tộc.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 313,
@@ -4376,7 +4375,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh, Mặt trận dân tộc thống nhất là tổ chức rộng rãi nhất, nơi quy tụ mọi tổ chức, cá nhân yêu nước, không phân biệt giai cấp, dân tộc, tôn giáo, hay nơi cư trú (trong nước hay ngoài nước), miễn là có lòng yêu nước và tán thành mục tiêu chung của Mặt trận.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 314,
@@ -4390,7 +4389,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong giáo trình Tư tưởng Hồ Chí Minh, nguyên tắc cốt lõi trong chiến lược đại đoàn kết là phải xây dựng trên nền tảng liên minh công nhân – nông dân – trí thức, và khối liên minh này phải đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam. Đây là cơ sở chính trị vững chắc để tập hợp các tầng lớp khác.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 315,
@@ -4404,7 +4403,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Hồ Chí Minh khẳng định đại đoàn kết phải dựa trên mục tiêu chung. Mục tiêu đó chính là lợi ích tối cao của dân tộc (độc lập, tự do) và lợi ích căn bản của nhân dân (ấm no, hạnh phúc). Đây là điểm tương đồng, là \"mẫu số chung\" để quy tụ mọi người Việt Nam yêu nước, không phân biệt quá khứ, thành phần xuất thân. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh của Bộ Giáo dục và Đào tạo:",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 316,
@@ -4418,7 +4417,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo giáo trình, sức mạnh thời đại bao gồm sức mạnh của phong trào cách mạng thế giới (phong trào cộng sản và công nhân quốc tế, phong trào giải phóng dân tộc) và sức mạnh của chủ nghĩa Mác - Lênin – hệ tư tưởng khoa học và cách mạng soi đường cho các phong trào đó.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 317,
@@ -4430,9 +4429,9 @@ const QUESTIONS_DATA = [
       "C": "Phong trào cách mạng tư sản trên thế giới",
       "D": "Phong trào đấu tranh chống đế quốc trên thế giới"
     },
-    "answer": "B",
-    "explanation": "Hồ Chí Minh khẳng định cách mạng Việt Nam là một bộ phận của cách mạng thế giới. Người nhấn mạnh sự gắn bó mật thiết giữa cách mạng giải phóng dân tộc ở các nước thuộc địa với phong trào cách mạng vô sản ở chính quốc, coi đó là nguyên tắc chiến lược để đảm bảo thắng lợi.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "A",
+    "explanation": "Theo Hồ Chí Minh, cách mạng Việt Nam là một bộ phận khăng khít của cách mạng thế giới. Cách mạng Việt Nam chỉ có thể giành thắng lợi trọn vẹn khi đoàn kết chặt chẽ với phong trào cách mạng thế giới (bao gồm phong trào cộng sản, phong trào giải phóng dân tộc và phong trào dân chủ hòa bình).",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 318,
@@ -4446,7 +4445,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Tư tưởng Hồ Chí Minh về đoàn kết quốc tế không chỉ nhằm mục đích riêng cho dân tộc Việt Nam mà còn gắn liền với mục tiêu chung của nhân loại tiến bộ. Người xác định đoàn kết quốc tế là để cùng nhân dân thế giới thực hiện thắng lợi các mục tiêu cách mạng của thời đại: hòa bình, độc lập dân tộc, dân chủ và chủ nghĩa xã hội. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 319,
@@ -4460,7 +4459,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh, đoàn kết quốc tế là sự kết hợp giữa chủ nghĩa yêu nước chân chính với chủ nghĩa quốc tế trong sáng. Mục tiêu chung của thời đại mà Người hướng tới trong quan hệ quốc tế là hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 320,
@@ -4474,7 +4473,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong các bài viết và bài nói chuyện, Hồ Chí Minh luôn nhấn mạnh việc chống lại chủ nghĩa cơ hội, chủ nghĩa vị kỷ dân tộc (hẹp hòi) và chủ nghĩa sô vanh (nước lớn) vì đây là những khuynh hướng làm chia rẽ, suy yếu sự đoàn kết giữa các dân tộc và các lực lượng cách mạng thế giới.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 321,
@@ -4488,7 +4487,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo quan điểm của Hồ Chí Minh, phong trào cộng sản và công nhân quốc tế là lực lượng nòng cốt, là đội tiên phong của cách mạng thế giới. Việc đoàn kết chặt chẽ với phong trào cộng sản và công nhân quốc tế trên cơ sở chủ nghĩa Mác - Lênin là nhân tố quyết định và là đảm bảo vững chắc cho thắng lợi của chủ nghĩa cộng sản. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 322,
@@ -4502,7 +4501,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, muốn thực hiện đoàn kết quốc tế thắng lợi thì trước hết dân tộc phải tự lực cánh sinh, dựa vào sức mình là chính (nội lực tốt). Đồng thời, Đảng phải có đường lối độc lập, tự chủ, đúng đắn để giữ vững chủ quyền quốc gia trong quan hệ quốc tế.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 323,
@@ -4514,9 +4513,9 @@ const QUESTIONS_DATA = [
       "C": "Giương cao ngọn cờ hòa bình, chống chiến tranh xâm lược",
       "D": "Giương cao ngọn cờ hòa bình, độc lập dân tộc và chủ nghĩa xã hội"
     },
-    "answer": "D",
-    "explanation": "Trong tư tưởng Hồ Chí Minh, đoàn kết quốc tế không chỉ dừng lại ở hòa bình mà còn gắn liền với mục tiêu độc lập dân tộc và chủ nghĩa xã hội. Đây là ngọn cờ tập hợp các lực lượng tiến bộ, yêu chuộng hòa bình trên toàn thế giới để cùng đấu tranh vì sự tiến bộ của nhân loại.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "C",
+    "explanation": "Với các lực lượng tiến bộ, yêu chuộng hòa bình trên thế giới, Hồ Chí Minh luôn giương cao ngọn cờ hòa bình, chống chiến tranh xâm lược, bảo vệ quyền độc lập tự do và quyền tự quyết của các dân tộc.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 324,
@@ -4530,7 +4529,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong quan hệ với phong trào cộng sản và công nhân quốc tế, Hồ Chí Minh luôn nhấn mạnh sự đoàn kết dựa trên nền tảng chủ nghĩa Mác - Lênin và chủ nghĩa quốc tế vô sản trong sáng (\"có lý, có tình\"). Mục tiêu xuyên suốt của sự đoàn kết này là độc lập dân tộc gắn liền với chủ nghĩa xã hội. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 325,
@@ -4542,9 +4541,9 @@ const QUESTIONS_DATA = [
       "C": "Giương cao ngọn cờ độc lập, tự do; chủ nghĩa vô sản có lý, có tình",
       "D": "Giương cao ngọn cờ hòa bình, hữu nghị và hợp tác cùng phát triển"
     },
-    "answer": "C",
-    "explanation": "Theo giáo trình, trong quan hệ quốc tế, Hồ Chí Minh luôn giương cao ngọn cờ độc lập, tự do. Người khẳng định: \"Đoàn kết với các dân tộc bị áp bức, với nhân dân lao động thế giới... trên tinh thần chủ nghĩa vô sản có lý, có tình\". Đây là nguyên tắc cốt lõi để tập hợp lực lượng quốc tế.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "A",
+    "explanation": "Trong quan hệ với các dân tộc trên thế giới, tư tưởng Hồ Chí Minh xác định mục tiêu chung là giương cao ngọn cờ độc lập tự do và quyền bình đẳng giữa các dân tộc, tôn trọng chủ quyền và toàn vẹn lãnh thổ của nhau.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 326,
@@ -4558,7 +4557,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Trong tác phẩm \"Đường Kách mệnh\", Hồ Chí Minh đã khẳng định: \"Cách mệnh là việc chung cả dân chúng chứ không phải việc một hai người... Đem sức ta mà tự giải phóng cho ta\". Đây là tư tưởng chủ đạo về sự tự lực, tự cường trong cách mạng giải phóng dân tộc.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 327,
@@ -4572,7 +4571,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Nguyên tắc hiệp thương dân chủ là phương thức hoạt động của Mặt trận dân tộc thống nhất. Nhờ nguyên tắc này, Mặt trận có thể tập hợp rộng rãi mọi tầng lớp, giai cấp, đảng phái, dân tộc, tôn giáo, những người Việt Nam yêu nước ở trong và ngoài nước cùng hướng tới mục tiêu chung là độc lập dân tộc và xây dựng đất nước. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh của Bộ Giáo dục và Đào tạo:",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 328,
@@ -4586,7 +4585,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc kế thừa truyền thống quý báu của dân tộc Việt Nam, đặc biệt là tư tưởng trọng dân, lấy dân làm gốc. Người thường xuyên nhắc lại các câu nói của tiền nhân như \"Khoan thư sức dân để làm kế sâu rễ bền gốc\" hay \"Chở thuyền là dân, lật thuyền cũng là dân\" để khẳng định vai trò quyết định của nhân dân trong sự nghiệp cách mạng.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 329,
@@ -4600,7 +4599,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo tư tưởng Hồ Chí Minh, mục đích của việc vận động quần chúng là nhằm tập hợp, đoàn kết mọi người dân yêu nước vào một khối thống nhất, từ đó tạo ra sức mạnh tổng hợp (động lực) để thực hiện các nhiệm vụ cách mạng, thúc đẩy sự phát triển toàn diện về kinh tế, văn hóa và xã hội của đất nước.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 330,
@@ -4614,7 +4613,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Hồ Chí Minh luôn nhấn mạnh phương châm \"trọng dân, gần dân, hiểu dân, học dân và có trách nhiệm với dân\". Người yêu cầu cán bộ khi vận động quần chúng phải xuất phát từ tâm tư, nguyện vọng chính đáng của nhân dân, đồng thời phải căn cứ vào trình độ dân trí và đặc điểm văn hóa của từng đối tượng để có phương pháp vận động phù hợp, tránh giáo điều, áp đặt. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 331,
@@ -4628,7 +4627,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo giáo trình, Hồ Chí Minh luôn nhấn mạnh việc kết hợp sức mạnh dân tộc (nội lực) với sức mạnh thời đại (ngoại lực, sự ủng hộ của quốc tế) để tạo thành sức mạnh tổng hợp, giúp cách mạng Việt Nam vượt qua khó khăn và giành thắng lợi.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 332,
@@ -4642,7 +4641,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Trong tư tưởng Hồ Chí Minh, thời đại mới (thời đại quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội) là thời đại mà sự phát triển của lực lượng sản xuất và giao lưu quốc tế đã phá vỡ sự tồn tại biệt lập, khép kín của các quốc gia, mở ra xu thế hội nhập và quan hệ quốc tế sâu rộng.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 333,
@@ -4654,9 +4653,9 @@ const QUESTIONS_DATA = [
       "C": "Từ tính tất yếu về chất lượng giai cấp công nhân trong giai đoạn hiện nay",
       "D": "Từ tính tất yếu về đặc điểm của giai cấp công nhân trong giai đoạn hiện nay"
     },
-    "answer": "D",
-    "explanation": "Hồ Chí Minh khẳng định giai cấp công nhân có tính quốc tế (vô sản toàn thế giới đoàn kết lại). Chủ trương đoàn kết quốc tế của Người xuất phát từ đặc điểm của giai cấp công nhân là giai cấp đại diện cho phương thức sản xuất tiên tiến, có sứ mệnh lịch sử toàn cầu, nên sự đoàn kết giữa các đảng cộng sản là tất yếu khách quan để thực hiện mục tiêu giải phóng con người. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "A",
+    "explanation": "Chủ trương đoàn kết giai cấp công nhân quốc tế và các đảng cộng sản trong tư tưởng Hồ Chí Minh bắt nguồn từ tính tất yếu về sứ mệnh lịch sử và vai trò của giai cấp công nhân trong thời đại cách mạng vô sản.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 334,
@@ -4670,7 +4669,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh, \"cầu đồng\" là tìm điểm tương đồng, \"tồn dị\" là chấp nhận những điểm khác biệt không trái với lợi ích chung của dân tộc. Người chủ trương lấy cái chung (độc lập dân tộc, tự do, hạnh phúc của nhân dân) làm nền tảng để tập hợp mọi người, từ đó hạn chế những cái riêng, cái khác biệt để cùng hướng tới mục tiêu chung.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 335,
@@ -4682,9 +4681,9 @@ const QUESTIONS_DATA = [
       "C": "Vì Đảng là lực lượng lãnh đạo cách mạng Việt Nam",
       "D": "Vì đại đoàn kết là vấn đề sống còn, quyết định thành bại của cách mạng"
     },
-    "answer": "D",
-    "explanation": "(Lưu ý: Câu hỏi của bạn bị khuyết phương án D, tôi đã bổ sung nội dung chuẩn theo giáo trình). Hồ Chí Minh khẳng định: \"Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công\". Người coi đại đoàn kết là chiến lược lâu dài, là vấn đề sống còn, là nhân tố quyết định thắng lợi của cách mạng, do đó Đảng phải đặt nhiệm vụ này lên hàng đầu.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "C",
+    "explanation": "Theo Hồ Chí Minh, đại đoàn kết dân tộc phải được xác định là nhiệm vụ hàng đầu của Đảng vì Đảng là lực lượng lãnh đạo cách mạng Việt Nam; sự đoàn kết trong Đảng là hạt nhân cho khối đại đoàn kết toàn dân.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 336,
@@ -4698,7 +4697,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc không phải là tập hợp một cách cảm tính mà phải có nguyên tắc. Việc đứng vững trên lập trường giai cấp công nhân giúp Đảng giữ vững vai trò lãnh đạo, đồng thời giải quyết hài hòa mối quan hệ giữa lợi ích giai cấp và lợi ích dân tộc, đảm bảo khối đại đoàn kết không bị chệch hướng và có sức mạnh bền vững. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 337,
@@ -4712,7 +4711,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh về đại đoàn kết, Người luôn chủ trương phải có lòng khoan dung, độ lượng, tin vào con người và biết trân trọng \"phần thiện\" dù nhỏ nhất ở mỗi người để tập hợp, đoàn kết mọi người vào khối đại đoàn kết toàn dân tộc.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 338,
@@ -4724,9 +4723,9 @@ const QUESTIONS_DATA = [
       "C": "Trong mỗi cá nhân, cũng như giai cấp đều có những ưu điểm, khuyết điểm",
       "D": "Trong mỗi giai cấp, cũng như tập thể đều có những ưu điểm, khuyết điểm"
     },
-    "answer": "C",
-    "explanation": "Hồ Chí Minh cho rằng con người là một thực thể phức tạp, trong mỗi cá nhân cũng như trong mỗi giai cấp đều có mặt tốt và mặt xấu, ưu điểm và khuyết điểm. Vì vậy, cần phải có lòng khoan dung, độ lượng để khơi dậy mặt tốt, hạn chế mặt xấu, tạo điều kiện cho mọi người cùng tiến bộ.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "B",
+    "explanation": "Theo Hồ Chí Minh, trong thực hiện đại đoàn kết cần khoan dung độ lượng vì Người cho rằng: 'Trong mỗi cá nhân, cũng như cộng đồng đều có những ưu điểm, khuyết điểm'. Cần khơi dậy phần tốt đẹp, nhân ái trong mỗi con người để quy tụ đại nghĩa.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 339,
@@ -4740,7 +4739,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong tư tưởng Hồ Chí Minh, \"yêu dân, tin dân, dựa vào dân, phấn đấu vì hạnh phúc của nhân dân\" là sợi chỉ đỏ xuyên suốt, là nguyên tắc tối cao và là mục tiêu phấn đấu suốt đời của Người. Các phương án khác chỉ là một phần hoặc một khía cạnh cụ thể trong mục tiêu tổng quát là hạnh phúc của nhân dân. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 340,
@@ -4754,7 +4753,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, \"Dân là gốc\", là chủ thể của cách mạng. Người khẳng định: \"Dễ trăm lần không dân cũng chịu, khó vạn lần dân liệu cũng xong\". Nhân dân là nguồn sức mạnh vô tận, là chỗ dựa vững chắc nhất của Đảng và Nhà nước, mọi thắng lợi của cách mạng đều bắt nguồn từ sức mạnh của nhân dân.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 341,
@@ -4768,7 +4767,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Mặt trận dân tộc thống nhất là nơi tập hợp đông đảo các giai cấp, tầng lớp, dân tộc, tôn giáo, đảng phái... trong xã hội. Vì mỗi thành viên có lợi ích, đặc điểm và nguyện vọng riêng, nên nguyên tắc \"hiệp thương dân chủ\" là phương thức cần thiết để thống nhất ý chí, tạo sự đồng thuận và đoàn kết thực sự trong khối đại đoàn kết toàn dân tộc.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 342,
@@ -4782,7 +4781,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Hồ Chí Minh sớm nhận ra bản chất của chủ nghĩa thực dân là \"chia để trị\", chúng dùng thủ đoạn chia rẽ các dân tộc thuộc địa, chia rẽ phong trào cách mạng để dễ bề cai trị và bóc lột. Do đó, Người chủ trương đoàn kết quốc tế, đoàn kết các dân tộc bị áp bức để tạo thành sức mạnh tổng hợp chống lại âm mưu chia rẽ và sự thống trị của chủ nghĩa đế quốc. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 343,
@@ -4794,9 +4793,9 @@ const QUESTIONS_DATA = [
       "C": "Hòa bình, hợp tác và phát triển",
       "D": "Hòa bình, tự do, công lý và bình đẳng"
     },
-    "answer": "B",
-    "explanation": "Theo giáo trình, để tập hợp rộng rãi các lực lượng tiến bộ trên thế giới, Hồ Chí Minh đã nêu cao ngọn cờ \"Hòa bình, dân chủ và chủ nghĩa xã hội\". Đây là mục tiêu chung mà Người hướng tới để kết nối phong trào cách mạng Việt Nam với phong trào cách mạng thế giới.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "D",
+    "explanation": "Để tập hợp sự ủng hộ rộng rãi của nhân dân tiến bộ thế giới, Hồ Chí Minh đã nêu cao ngọn cờ chính nghĩa: Hòa bình, tự do, công lý và bình đẳng. Đây là những giá trị nhân văn phổ quát mà toàn nhân loại tiến bộ hướng tới.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 344,
@@ -4808,9 +4807,9 @@ const QUESTIONS_DATA = [
       "C": "Các tổ chức, chính phủ, cá nhân trên hành tinh",
       "D": "Các nước mất độc lập dân tộc và từng con người trên hành tinh."
     },
-    "answer": "B",
-    "explanation": "Tư tưởng Hồ Chí Minh về đoàn kết quốc tế luôn hướng tới việc tranh thủ sự ủng hộ rộng rãi nhất. Người khẳng định việc gắn độc lập dân tộc với hòa bình, tự do, công lý là để tạo ra tiếng nói đồng thuận từ các nước, các tổ chức quốc tế và từng con người yêu chuộng hòa bình trên hành tinh.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "A",
+    "explanation": "Hồ Chí Minh gắn cuộc đấu tranh giải phóng dân tộc với các giá trị hòa bình, công lý để tranh thủ sự đồng tình, ủng hộ của các tổ chức quần chúng, nhân sĩ trí thức và từng con người tiến bộ trên hành tinh.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 345,
@@ -4824,7 +4823,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Trong tư tưởng Hồ Chí Minh, đoàn kết quốc tế là một bộ phận hợp thành của chiến lược đại đoàn kết. Người khẳng định đoàn kết quốc tế không phải là thủ đoạn chính trị nhất thời mà là chiến lược lâu dài, là vấn đề có tính nguyên tắc, là quy luật sống còn của cách mạng Việt Nam để kết hợp sức mạnh dân tộc với sức mạnh thời đại. *(Lưu ý: Câu hỏi thứ 3 của bạn bị thiếu phương án C và D trong đề bài, tôi đã bổ sung phương án C đúng theo nội dung giáo trình để hoàn thiện câu trả lời).* Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 346,
@@ -4838,7 +4837,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo tư tưởng Hồ Chí Minh, ba nước Đông Dương (Việt Nam, Lào, Campuchia) có mối quan hệ gắn bó mật thiết về địa lý, lịch sử và văn hóa. Trong cuộc đấu tranh chống thực dân Pháp, Người luôn chủ trương xây dựng khối đoàn kết liên minh chiến đấu giữa ba dân tộc để cùng chống lại kẻ thù chung là thực dân Pháp xâm lược.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 347,
@@ -4852,7 +4851,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong tư tưởng Hồ Chí Minh, đoàn kết quốc tế phải dựa trên cơ sở thống nhất về mục tiêu (độc lập dân tộc, hòa bình, dân chủ, chủ nghĩa xã hội) và lợi ích (lợi ích giai cấp, dân tộc và nhân loại). Đồng thời, việc thực hiện đoàn kết phải luôn đảm bảo nguyên tắc \"có lý, có tình\" để vừa giữ vững nguyên tắc, vừa linh hoạt trong sách lược.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 348,
@@ -4866,7 +4865,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Hồ Chí Minh cho rằng để tập hợp lực lượng quốc tế rộng rãi, cần phải tìm ra những điểm tương đồng về mục tiêu (đấu tranh chống áp bức, bóc lột, vì hòa bình và tiến bộ xã hội) và lợi ích (lợi ích của các dân tộc bị áp bức và giai cấp công nhân quốc tế) để tạo thành sức mạnh tổng hợp chống lại chủ nghĩa đế quốc và các lực lượng phản động. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 349,
@@ -4880,7 +4879,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo Giáo trình Tư tưởng Hồ Chí Minh, trong quan hệ quốc tế, Hồ Chí Minh luôn nhấn mạnh nguyên tắc tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của các quốc gia. Đây là nền tảng cốt lõi trong tư tưởng ngoại giao của Người, dựa trên nguyên tắc bình đẳng và cùng có lợi.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 350,
@@ -4892,9 +4891,9 @@ const QUESTIONS_DATA = [
       "C": "Truyền thống yêu nước của dân tộc, chủ nghĩa nhân đạo cộng sản, giá trị nhân văn nhân loại",
       "D": "Truyền thống nhân nghĩa của dân tộc, chủ nghĩa nhân đạo cộng sản, giá trị nhân văn nhân loại"
     },
-    "answer": "D",
-    "explanation": "Trong tư tưởng Hồ Chí Minh, truyền thống \"nhân nghĩa\" của dân tộc Việt Nam kết hợp với chủ nghĩa nhân đạo cộng sản và các giá trị nhân văn của nhân loại là cơ sở lý luận và thực tiễn để Người xây dựng chính sách đối ngoại hòa bình, hữu nghị, chống lại các cuộc chiến tranh xâm lược phi nghĩa.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "A",
+    "explanation": "Cơ sở giương cao ngọn cờ hòa bình, chống chiến tranh xâm lược trong tư tưởng Hồ Chí Minh bắt nguồn sâu xa từ truyền thống hòa hiếu, nhân nghĩa của dân tộc Việt Nam, kết hợp với chủ nghĩa nhân đạo cộng sản và tinh hoa nhân văn nhân loại.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 351,
@@ -4908,7 +4907,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Nghị quyết số 07-NQ/TW ngày 17/11/1993 (thường được nhắc đến trong giáo trình gắn với thời điểm tháng 11/1993) của Bộ Chính trị khóa VII có tiêu đề chính thức là \"Về đại đoàn kết dân tộc và tăng cường Mặt trận dân tộc thống nhất\". Đây là văn kiện quan trọng thể hiện sự kế thừa và phát triển tư tưởng Hồ Chí Minh về đại đoàn kết trong thời kỳ đổi mới. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 352,
@@ -4922,7 +4921,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo Văn kiện Đại hội đại biểu toàn quốc lần thứ XII, Đảng ta khẳng định: \"Đại đoàn kết toàn dân tộc là đường lối chiến lược của cách mạng Việt Nam, là động lực và nguồn lực to lớn trong xây dựng và bảo vệ Tổ quốc\".",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 353,
@@ -4934,9 +4933,9 @@ const QUESTIONS_DATA = [
       "C": "Điểm tương đồng là cùng chung lợi ích kinh tế, cùng chung khát vọng phát triển đất nước phồn vinh.",
       "D": "Điểm tương đồng là cùng chung ý chí chống ngoại xâm, bảo vệ hòa bình thế giới."
     },
-    "answer": "A",
-    "explanation": "Theo Giáo trình Tư tưởng Hồ Chí Minh, để xây dựng khối đại đoàn kết toàn dân tộc, Đảng ta chủ trương lấy mục tiêu chung làm điểm tương đồng. Đại hội XII xác định điểm tương đồng đó là: giữ vững độc lập, thống nhất chủ quyền quốc gia, toàn vẹn lãnh thổ, phấn đấu vì mục tiêu \"dân giàu, nước mạnh, dân chủ, công bằng, văn minh\".",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "answer": "D",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Điểm tương đồng là cùng chung ý chí chống ngoại xâm, bảo vệ hòa bình thế giới**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & CẢNH BÁO ĐỀ THI]**:\n- Văn kiện Đại hội XII của Đảng (trang 158) nêu rõ: Điểm tương đồng để mở rộng khối đại đoàn kết toàn dân tộc hiện nay là: 'Lấy mục tiêu xây dựng một nước Việt Nam hòa bình, độc lập, thống nhất, toàn vẹn lãnh thổ, “dân giàu, nước mạnh, dân chủ, công bằng, văn minh” làm điểm tương đồng' (đáp án A).\n- Barem đáp án của Thầy chốt phương án **D**. Khi làm bài thi của trường, hãy tích theo đáp án D của Thầy.",
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 354,
@@ -4950,7 +4949,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong điều kiện mới, Đảng ta vận dụng tư tưởng Hồ Chí Minh về đoàn kết quốc tế, xác định bài học đầu tiên là phải gắn kết chặt chẽ giữa đoàn kết dân tộc với đoàn kết quốc tế, nhằm thực hiện thắng lợi mục tiêu cách mạng hiện nay là xây dựng thành công chủ nghĩa xã hội với mục tiêu \"dân giàu, nước mạnh, dân chủ, công bằng, văn minh\". Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 355,
@@ -4964,7 +4963,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, cách mạng là sự nghiệp của quần chúng. Người khẳng định: \"Đoàn kết là một lực lượng vô địch\", nếu không đoàn kết, quần chúng sẽ bị chia rẽ, suy yếu và không thể tự giải phóng mình khỏi ách áp bức, bóc lột để giành lấy quyền lợi chính đáng.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 356,
@@ -4978,7 +4977,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Hồ Chí Minh luôn đề cao vai trò của nhân dân là \"gốc\" của cách mạng, là người làm nên lịch sử. Chính từ nhận thức sâu sắc rằng \"dân là chủ\", Người xác định Đảng phải có sứ mệnh thức tỉnh, tập hợp và tổ chức quần chúng thành một khối thống nhất để tạo ra sức mạnh tổng hợp, vì chỉ khi có tổ chức, sức mạnh của nhân dân mới trở thành hiện thực.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 357,
@@ -4992,7 +4991,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Tư tưởng \"lấy dân làm gốc\" là tư tưởng cốt lõi trong truyền thống chính trị Việt Nam (được đúc kết qua các triều đại phong kiến tiến bộ như thời Trần, thời Lê). Hồ Chí Minh đã kế thừa, phát triển tư tưởng này lên một tầm cao mới, biến nó thành niềm tin tuyệt đối vào sức mạnh của nhân dân trong sự nghiệp cách mạng hiện đại. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 358,
@@ -5006,7 +5005,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh, Người khẳng định: \"Công nông là người làm ra của cải, làm ra cơm ăn, áo mặc, nhà ở... cho xã hội. Công nông là gốc cách mệnh\". Người nhấn mạnh công nông là lực lượng đông đảo nhất, bị áp bức nặng nề nhất nên có chí khí cách mạng kiên định nhất, là nền tảng của khối đại đoàn kết.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 359,
@@ -5020,7 +5019,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong Giáo trình Tư tưởng Hồ Chí Minh, nguyên tắc hoạt động của Mặt trận Dân tộc thống nhất được xác định là \"Hiệp thương dân chủ\". Đây là nguyên tắc quan trọng để đảm bảo sự bình đẳng, tôn trọng lẫn nhau giữa các thành viên, từ đó quy tụ được mọi tầng lớp, giai cấp, dân tộc, tôn giáo cùng hướng tới mục tiêu chung.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 360,
@@ -5034,7 +5033,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Hồ Chí Minh luôn gắn kết chặt chẽ giữa độc lập dân tộc với chủ nghĩa xã hội và phong trào cách mạng thế giới. Người khẳng định cách mạng Việt Nam là một bộ phận của cách mạng thế giới, vì vậy đoàn kết quốc tế không chỉ để tranh thủ sự ủng hộ cho Việt Nam mà còn để đóng góp vào mục tiêu chung của nhân loại là hòa bình, độc lập dân tộc, dân chủ và chủ nghĩa xã hội. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 361,
@@ -5048,7 +5047,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh, chủ nghĩa đế quốc là kẻ thù chung của nhân dân lao động toàn thế giới. Người luôn nhấn mạnh tinh thần quốc tế vô sản, coi \"Bốn phương vô sản đều là anh em\" để tạo nên sức mạnh tổng hợp chống lại sự áp bức, bóc lột của chủ nghĩa thực dân, đế quốc.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 362,
@@ -5062,7 +5061,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Tư tưởng Hồ Chí Minh luôn gắn kết chặt chẽ giữa đại đoàn kết dân tộc với đoàn kết quốc tế. Trong giai đoạn hiện nay, Đảng ta tiếp tục khẳng định việc kết hợp sức mạnh dân tộc (nội lực) với sức mạnh quốc tế (ngoại lực) là nhân tố quyết định thắng lợi của sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 363,
@@ -5076,7 +5075,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong tư tưởng Hồ Chí Minh, độc lập dân tộc là mục tiêu xuyên suốt. Khi vận dụng vào thực tiễn hiện nay, Đảng ta xác định lợi ích quốc gia - dân tộc là tối thượng. Mọi chủ trương, chính sách đều phải lấy lợi ích của đất nước, của nhân dân làm mục tiêu và cơ sở cao nhất. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 364,
@@ -5090,7 +5089,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Nghị quyết số 07-NQ/TW ngày 17/11/1993 (thường được gọi tắt là Nghị quyết 07) của Bộ Chính trị khóa VII về \"Đại đoàn kết dân tộc và tăng cường Mặt trận Dân tộc thống nhất\" là văn kiện chuyên đề quan trọng, thể hiện sự kế thừa và phát triển tư tưởng Hồ Chí Minh về đại đoàn kết trong bối cảnh đất nước bước vào thời kỳ đổi mới, khẳng định đại đoàn kết là truyền thống quý báu và là động lực chủ yếu của sự phát triển.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 365,
@@ -5104,7 +5103,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Văn kiện Đại hội XIII của Đảng đã phát triển tư tưởng đối ngoại của Hồ Chí Minh lên tầm cao mới, khẳng định chủ trương: \"Thực hiện nhất quán đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển, đa phương hóa, đa dạng hóa quan hệ đối ngoại. Việt Nam là bạn, là đối tác tin cậy và là thành viên tích cực, có trách nhiệm trong cộng đồng quốc tế\".",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 366,
@@ -5118,7 +5117,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Trong Lời kêu gọi của Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng ngày 30/3/2020 về công tác phòng, chống đại dịch Covid-19, Người đã nhấn mạnh: \"Với tinh thần coi sức khỏe và tính mạng của con người là trên hết, tôi kêu gọi toàn thể đồng bào, đồng chí và chiến sĩ cả nước, đồng bào ta ở nước ngoài hãy đoàn kết một lòng, thống nhất ý chí và hành động, thực hiện quyết liệt, hiệu quả những chủ trương của Đảng và Nhà nước...\". Sự đồng lòng, chung sức của toàn dân là sự vận dụng tư tưởng \"Đoàn kết, đoàn kết, đại đoàn kết - Thành công, thành công, đại thành công\" của Hồ Chí Minh trong bối cảnh mới. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 367,
@@ -5132,7 +5131,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc phải luôn gắn liền với đoàn kết quốc tế. Trong giai đoạn hiện nay, Đảng ta tiếp tục khẳng định việc kết hợp sức mạnh dân tộc với sức mạnh thời đại, trong đó đoàn kết quốc tế là yếu tố quan trọng để tạo ra thế và lực cho cách mạng Việt Nam.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 368,
@@ -5146,7 +5145,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Giáo trình Tư tưởng Hồ Chí Minh nhấn mạnh quan điểm của Người về việc đặt cách mạng Việt Nam trong dòng chảy của cách mạng thế giới. Việc xác định cách mạng Việt Nam là một bộ phận không thể tách rời của cách mạng thế giới là tư tưởng xuyên suốt, đòi hỏi sự đoàn kết với các lực lượng tiến bộ, hòa bình và phát triển trên toàn cầu.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 369,
@@ -5160,7 +5159,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong tư tưởng Hồ Chí Minh, dù thực hiện đoàn kết và hợp tác quốc tế, Người luôn nhấn mạnh nguyên tắc \"độc lập, tự chủ, tự lực tự cường\". Đây là nguyên tắc cốt lõi, đảm bảo cho Việt Nam hội nhập nhưng không hòa tan, giữ vững chủ quyền và lợi ích quốc gia - dân tộc trong quan hệ quốc tế. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên nội dung Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 370,
@@ -5174,7 +5173,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong lời kêu gọi của mình, Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng đã nhấn mạnh tinh thần đoàn kết quốc tế, sự phối hợp chặt chẽ giữa các quốc gia. Điều này kế thừa tư tưởng Hồ Chí Minh về \"đoàn kết, đoàn kết, đại đoàn kết; thành công, thành công, đại thành công\", khẳng định sức mạnh của sự đồng lòng, hợp tác toàn cầu là chìa khóa để giải quyết các vấn đề mang tính nhân loại.",
-    "chapter": "Chương 5: Tư tưởng HCM về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
+    "chapter": "Chương 5: Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế"
   },
   {
     "id": 371,
@@ -5186,9 +5185,9 @@ const QUESTIONS_DATA = [
       "C": "Hình tượng",
       "D": "Ấn tượng"
     },
-    "answer": "C",
-    "explanation": "Đây là nội dung trích dẫn nguyên văn trong Nghị quyết của UNESCO năm 1987 vinh danh Chủ tịch Hồ Chí Minh là \"Anh hùng giải phóng dân tộc, nhà văn hóa kiệt xuất\". Cụm từ chính xác được sử dụng trong văn bản này là \"hình tượng\".",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "A",
+    "explanation": "Nghị quyết 24C/18.6,5 năm 1987 của Đại hội đồng UNESCO ghi nhận: 'Chủ tịch Hồ Chí Minh đã để lại một dấu ấn trong quá trình phát triển của nhân loại vì hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội'.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 372,
@@ -5202,7 +5201,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo tư tưởng Hồ Chí Minh, văn hóa có vai trò rất rộng lớn và toàn diện: (1) Văn hóa là mục tiêu, động lực của sự nghiệp cách mạng; (2) Văn hóa là một mặt trận (văn hóa, văn nghệ cũng là một mặt trận, anh chị em là chiến sĩ trên mặt trận ấy); (3) Văn hóa phải phục vụ quần chúng nhân dân, gắn liền với đời sống của nhân dân. Vì vậy, tất cả các phương án trên đều đúng. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 373,
@@ -5216,7 +5215,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo tư tưởng Hồ Chí Minh, văn hóa không chỉ là phương tiện mà còn là mục tiêu của sự nghiệp cách mạng. Mục tiêu của văn hóa là hướng tới giải phóng con người, xây dựng con người mới, xã hội mới tốt đẹp, nơi con người được hưởng quyền sống, quyền tự do, hạnh phúc và vươn tới các giá trị chân, thiện, mĩ.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 374,
@@ -5230,7 +5229,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Trong tư tưởng Hồ Chí Minh, văn hóa phải gắn liền với đời sống nhân dân. Người yêu cầu văn hóa phải \"về với quần chúng\", phản ánh chân thực cuộc sống, tâm tư, nguyện vọng của nhân dân, đồng thời thông qua đó để giáo dục, định hướng và nâng cao trình độ thẩm mỹ, tư tưởng cho quần chúng.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 375,
@@ -5244,7 +5243,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Tính dân tộc trong văn hóa theo Hồ Chí Minh bao hàm việc giữ gìn bản sắc, truyền thống tốt đẹp (yêu nước, nhân nghĩa...), đồng thời phải phát triển để phù hợp với thời đại, tạo nên sự khác biệt và sức mạnh nội sinh của dân tộc trong quá trình hội nhập và phát triển. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 376,
@@ -5258,7 +5257,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo giáo trình, nền văn hóa mới mà Hồ Chí Minh hướng tới có ba tính chất: Dân tộc, Khoa học và Đại chúng. Tính khoa học thể hiện ở việc thuận với trào lưu tiến hóa của thời đại, có nội dung hiện đại, truyền bá chủ nghĩa Mác - Lênin, chống lại những tư tưởng phản khoa học, mê tín dị đoan và tiếp thu tinh hoa văn hóa nhân loại.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 377,
@@ -5272,7 +5271,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Trong tư tưởng Hồ Chí Minh, tinh thần quốc tế trong sáng là sự kết hợp giữa chủ nghĩa yêu nước chân chính với chủ nghĩa quốc tế vô sản. Nó bao hàm sự đoàn kết với giai cấp vô sản, với các dân tộc bị áp bức, với nhân dân yêu chuộng hòa bình và những người tiến bộ trên toàn thế giới để cùng đấu tranh vì mục tiêu chung là hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 378,
@@ -5286,7 +5285,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Trong tác phẩm \"Đạo đức cách mạng\" và các bài viết về đạo đức, Hồ Chí Minh giải thích chữ \"Chính\" (trong \"Chính tâm\", \"Chính trực\") có nghĩa là thẳng thắn, đứng đắn. Đối với người cách mạng, \"Chính\" là đối lập với \"Tà\", là sự trung thực, ngay thẳng trong tư tưởng và hành động, không làm điều gì trái với đạo đức và lợi ích của nhân dân. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh của Bộ Giáo dục và Đào tạo:",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 379,
@@ -5300,7 +5299,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo tư tưởng Hồ Chí Minh, đạo đức cách mạng được thể hiện qua ba mối quan hệ cơ bản: Đối với mình (phải tự rèn luyện, giữ gìn sự trong sạch), đối với người (phải yêu thương, tôn trọng, giúp đỡ) và đối với việc (phải tận tụy, trách nhiệm, làm việc có hiệu quả).",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 380,
@@ -5312,9 +5311,9 @@ const QUESTIONS_DATA = [
       "C": "Người cán bộ cách mạng (1955)",
       "D": "Đạo đức cách mạng (1958)"
     },
-    "answer": "D",
-    "explanation": "Trong tác phẩm \"Đạo đức cách mạng\" viết năm 1958, Hồ Chí Minh đã khẳng định vai trò quyết định của đạo đức đối với cán bộ, nhấn mạnh đạo đức là gốc của người cách mạng và là yếu tố then chốt dẫn đến thành bại của mọi công việc.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "C",
+    "explanation": "Luận điểm: 'Người cán bộ phải có đạo đức cách mạng... Mọi việc thành bại, chủ chốt là do cán bộ có thấm nhuần đạo đức cách mạng, hay là không' được Hồ Chí Minh viết trong bài 'Người cán bộ cách mạng', đăng trên Báo Nhân Dân số 382 ngày 3/3/1955.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 381,
@@ -5328,7 +5327,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong bản \"Di chúc\" thiêng liêng (đặc biệt là phần viết bổ sung năm 1968), Chủ tịch Hồ Chí Minh đã căn dặn Đảng phải chăm lo giáo dục đạo đức cách mạng cho thế hệ trẻ, đào tạo họ trở thành những người thừa kế xây dựng chủ nghĩa xã hội vừa \"hồng\" (có đạo đức) vừa \"chuyên\" (có năng lực chuyên môn). Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 382,
@@ -5340,9 +5339,9 @@ const QUESTIONS_DATA = [
       "C": "Yêu đất nước mình",
       "D": "Tất cả các đáp án"
     },
-    "answer": "B",
-    "explanation": "Theo Giáo trình Tư tưởng Hồ Chí Minh, mục tiêu \"ham muốn tột bậc\" này chính là sợi chỉ đỏ xuyên suốt, là động lực và là mục đích cao cả nhất trong tư tưởng, đạo đức và sự nghiệp cách mạng của Hồ Chí Minh. Đây là biểu hiện tập trung nhất của lòng yêu nước và thương dân.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "D",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Tất cả các đáp án**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Nền tảng tư tưởng đạo đức Hồ Chí Minh là sự kết tinh của tình thương người yêu đồng loại, lòng yêu nước nồng nàn và ham muốn tột bậc cho dân tộc được độc lập, đồng bào ai cũng có cơm ăn áo mặc, được học hành. Vì vậy, lựa chọn **Tất cả các đáp án** (D) thể hiện đầy đủ, trọn vẹn nhất.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 383,
@@ -5356,7 +5355,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong tư tưởng đạo đức Hồ Chí Minh, Người luôn yêu cầu cán bộ, đảng viên phải có thái độ \"nghiêm khắc với mình\" để không ngừng tự tu dưỡng, rèn luyện, nhưng phải \"rộng rãi, độ lượng\" với người khác để giúp họ tiến bộ, đoàn kết và cùng nhau thực hiện nhiệm vụ cách mạng.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 384,
@@ -5368,9 +5367,9 @@ const QUESTIONS_DATA = [
       "C": "Mặt xã hội và mặt sinh học",
       "D": "Tất cả các đáp án"
     },
-    "answer": "C",
-    "explanation": "Theo quan điểm của Hồ Chí Minh, con người là một thực thể thống nhất giữa mặt sinh học (nhu cầu, bản năng) và mặt xã hội (các mối quan hệ xã hội, giai cấp, lịch sử). Người luôn chú trọng đến cả hai mặt này, trong đó mặt xã hội giữ vai trò quyết định bản chất con người. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "D",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **D. Tất cả các đáp án**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Hồ Chí Minh nhìn nhận con người trong tính đa dạng và biện chứng: vừa có thiện - ác, vừa có hay - dở, tốt - xấu, đồng thời là thực thể thống nhất giữa mặt sinh học và mặt xã hội. Do đó, đáp án **D (Tất cả các đáp án)** là phương án toàn diện được Giảng viên lựa chọn.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 385,
@@ -5384,7 +5383,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo tư tưởng Hồ Chí Minh, để xây dựng con người mới, Người chủ trương kết hợp nhiều phương pháp đồng bộ: giáo dục, rèn luyện trong thực tiễn, nêu gương (lấy gương người tốt việc tốt để giáo dục lẫn nhau) và phát huy vai trò của các tổ chức chính trị - xã hội trong việc quản lý, giáo dục và tạo môi trường cho con người phát triển.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 386,
@@ -5398,7 +5397,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Nghị quyết Hội nghị Trung ương 5 khóa VIII về \"Xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc\" đã xác định các phẩm chất cốt lõi của con người Việt Nam thời kỳ mới bao gồm: yêu nước, tự cường, đoàn kết, có ý thức tập thể, lối sống lành mạnh, cần kiệm, trung thực, có tri thức và kỹ năng lao động.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 387,
@@ -5412,7 +5411,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Việc học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh hiện nay có ý nghĩa toàn diện: vừa là yêu cầu khách quan của sự nghiệp đổi mới và hội nhập, vừa là giải pháp căn cơ để xây dựng nhân cách con người, đồng thời là vũ khí sắc bén để đấu tranh chống lại các biểu hiện suy thoái, \"tự diễn biến\", \"tự chuyển hóa\" trong Đảng và xã hội. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 388,
@@ -5426,7 +5425,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo giáo trình, phẩm chất \"Trung với nước, hiếu với dân\" là phẩm chất đạo đức bao trùm, quan trọng nhất trong tư tưởng Hồ Chí Minh. Nó bao hàm cả sự hy sinh trọn đời vì nước dân, tinh thần bất khuất, ý chí tự cường và sự kiên định mục tiêu cách mạng. Do đó, tất cả các phương án trên đều phản ánh đúng các khía cạnh của phẩm chất này.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 389,
@@ -5440,7 +5439,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Đây là trích dẫn nổi tiếng trong tác phẩm \"Văn hóa nghệ thuật cũng là một mặt trận\" (1951). Nguyên văn câu nói của Người là: \"...nhằm thích ứng những nhu cầu đời sống và đòi hỏi của sự sinh tồn\".",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 390,
@@ -5454,7 +5453,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong định nghĩa về văn hóa (nghĩa rộng), Hồ Chí Minh viết: \"Vì lẽ sinh tồn cũng như mục đích của cuộc sống, loài người mới sáng tạo và phát minh ra ngôn ngữ, chữ viết, đạo đức, pháp luật, khoa học, tôn giáo, văn học, nghệ thuật, những công cụ cho sinh hoạt hằng ngày về mặc, ăn, ở và các phương thức sử dụng. Toàn bộ những sáng tạo và phát minh đó tức là văn hóa\". Từ đó, Người khái quát văn hóa là tổng hợp mọi phương thức sinh hoạt của con người. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh của Bộ Giáo dục và Đào tạo:",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 391,
@@ -5468,7 +5467,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo giáo trình, Hồ Chí Minh quan niệm văn hóa theo nghĩa rộng, bao gồm toàn bộ đời sống tinh thần của xã hội, là kiến trúc thượng tầng. Người khẳng định văn hóa bao gồm cả tư tưởng, học thuật, nghệ thuật, lối sống... chứ không chỉ đơn thuần là văn học nghệ thuật hay đời sống vật chất.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 392,
@@ -5482,7 +5481,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Đây là hai câu thơ mở đầu trong tác phẩm \"Lịch sử nước ta\" (1942) của Hồ Chí Minh. Nguyên văn: \"Dân ta phải biết sử ta/ Cho tường gốc tích nước nhà Việt Nam\". Việc hiểu rõ lịch sử là cơ sở để khơi dậy lòng yêu nước và tinh thần dân tộc.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 393,
@@ -5494,9 +5493,9 @@ const QUESTIONS_DATA = [
       "C": "Chính trị, xã hội có được giải phóng thì văn hóa mới được giải phóng",
       "D": "Chính trị, kín tế có được giải phóng thì văn hóa mới được giải phóng"
     },
-    "answer": "C",
-    "explanation": "Trong bài \"Văn hóa mới\" (1945), Hồ Chí Minh khẳng định: \"Chính trị, xã hội có được giải phóng thì văn hóa mới được giải phóng\". Theo Người, văn hóa không thể tách rời chính trị, muốn xây dựng nền văn hóa mới thì trước hết phải giành được độc lập dân tộc, giải phóng chính trị và xã hội. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "B",
+    "explanation": "Trong mối quan hệ giữa văn hóa và chính trị ở nước thuộc địa, Hồ Chí Minh chỉ rõ: 'Chính trị giải phóng mở đường cho văn hóa phát triển'. Trước hết phải làm cách mạng giải phóng dân tộc, giành độc lập chính trị thì mới giải phóng và phát triển nền văn hóa dân tộc.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 394,
@@ -5510,7 +5509,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh, văn hóa không thể đứng ngoài mà phải ở trong chính trị, kinh tế. \"Ở trong chính trị\" có nghĩa là văn hóa phải phục vụ nhiệm vụ chính trị, là công cụ để thực hiện các mục tiêu cách mạng, giải phóng dân tộc và xây dựng chế độ mới.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 395,
@@ -5524,7 +5523,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong quan điểm của Hồ Chí Minh, văn hóa không chỉ là sản phẩm của kinh tế mà còn có tính độc lập tương đối và vai trò tác động trở lại. Văn hóa phải tham gia vào việc thúc đẩy kinh tế phát triển, nâng cao dân trí và năng suất lao động, chứ không phải là sự phụ thuộc một chiều.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 396,
@@ -5538,7 +5537,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Đây là trích dẫn trong bài nói chuyện của Chủ tịch Hồ Chí Minh tại Đại hội văn nghệ toàn quốc lần thứ II (năm 1957). Nguyên văn câu nói là: \"Xã hội thế nào, văn nghệ thế ấy. Văn nghệ của dân tộc ta vốn rất phong phú, nhưng dưới chế độ thực dân và phong kiến, nhân dân ta bị nô lệ, thì văn nghệ cũng bị nô lệ, bị tồi tàn, không thể phát triển được\". Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 397,
@@ -5552,7 +5551,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo tư tưởng Hồ Chí Minh, văn hóa dân tộc là một chỉnh thể thống nhất, trong đó Người phân tích bản sắc văn hóa thành hai phương diện cơ bản: \"nội dung\" (những giá trị cốt lõi, tinh thần) và \"hình thức\" (cốt cách, biểu hiện bên ngoài như ngôn ngữ, phong tục).",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 398,
@@ -5566,7 +5565,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong tư tưởng Hồ Chí Minh, nội dung cốt lõi của bản sắc văn hóa Việt Nam chính là lòng yêu nước nồng nàn, tinh thần độc lập, tự cường, ý chí tự tôn dân tộc và lòng nhân ái (thương nòi). Đây là sợi chỉ đỏ xuyên suốt lịch sử dựng nước và giữ nước của dân tộc.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 399,
@@ -5580,7 +5579,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Hình thức hay \"cốt cách\" văn hóa là những biểu hiện cụ thể, sinh động của văn hóa dân tộc trong đời sống hàng ngày. Hồ Chí Minh khẳng định những yếu tố như ngôn ngữ, phong tục, tập quán, lễ hội, cách cảm, cách nghĩ... chính là những nét đặc trưng tạo nên \"cốt cách\" riêng biệt của văn hóa Việt Nam, giúp phân biệt dân tộc ta với các dân tộc khác. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 400,
@@ -5592,9 +5591,9 @@ const QUESTIONS_DATA = [
       "C": "Đạo đức truyền thống",
       "D": "Bản sắc văn hóa dân tộc"
     },
-    "answer": "B",
-    "explanation": "Trong quá trình bôn ba tìm đường cứu nước, Hồ Chí Minh đã tiếp thu tinh hoa văn hóa phương Tây (đặc biệt là tư tưởng dân chủ, tự do, bình đẳng của Cách mạng Pháp và Mỹ) kết hợp với truyền thống dân tộc và chủ nghĩa Mác - Lênin. Chính việc tiếp cận văn hóa phương Tây đã giúp Người tìm thấy con đường giải phóng dân tộc đúng đắn.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "D",
+    "explanation": "Theo Hồ Chí Minh, chính bản sắc văn hóa dân tộc, tinh thần yêu nước truyền thống và đạo lý thương người của dân tộc Việt Nam là ngọn nguồn đầu tiên dẫn dắt Người đến với chủ nghĩa Mác - Lênin và con đường cứu nước vô sản.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 401,
@@ -5606,9 +5605,9 @@ const QUESTIONS_DATA = [
       "C": "Tinh thần học tập, nâng cao trình độ chuyên môn, nghiệp vụ",
       "D": "Tinh thần độc lập tự cường"
     },
-    "answer": "A",
-    "explanation": "Trong đề cương xây dựng nền văn hóa mới trước Cách mạng tháng Tám, Hồ Chí Minh xác định 3 điểm lớn: Dân tộc hóa, Khoa học hóa và Đại chúng hóa. Về mặt tâm lý, Người nhấn mạnh việc xây dựng tinh thần vì nước quên mình, vì lợi ích chung quên lợi ích riêng để tạo nên sức mạnh đoàn kết dân tộc.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "D",
+    "explanation": "Trong định hướng xây dựng nền văn hóa mới trước năm 1945, Hồ Chí Minh xác định về mặt tâm lý phải xây dựng 'tinh thần độc lập tự cường', rũ bỏ tâm lý tự ti, vọng ngoại, nô lệ.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 402,
@@ -5620,9 +5619,9 @@ const QUESTIONS_DATA = [
       "C": "nghệ sĩ / xây dựng",
       "D": "chiến sĩ / bảo vệ"
     },
-    "answer": "A",
-    "explanation": "Trong \"Thư gửi các họa sĩ nhân dịp triển lãm hội họa năm 1951\", Hồ Chí Minh đã khẳng định: \"Văn hóa nghệ thuật cũng là một mặt trận. Anh chị em là chiến sĩ trên mặt trận ấy\". Người cũng luôn căn dặn văn nghệ sĩ phải dùng ngòi bút của mình để phụng sự Tổ quốc, phục vụ nhân dân. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "B",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. người lính / bảo vệ**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & CẢNH BÁO ĐẶC BIỆT]**:\n- Trong bức thư gửi các họa sĩ năm 1951, Bác viết: 'Văn hóa nghệ thuật cũng là một mặt trận. Anh chị em là chiến sĩ trên mặt trận ấy... chiến sĩ nghệ thuật có nhiệm vụ phụng sự Tổ quốc, phục vụ nhân dân' (đáp án A). Ngay trong câu hỏi của đề thi cũng in lộ sẵn từ *(chiến sĩ)* và *(phụng sự)* trong dấu ngoặc đơn.\n- Tuy nhiên, trong file đáp án Word của Giảng viên ghi nhận chọn **B (người lính / bảo vệ)** do lỗi chọn nhầm dòng. Khi làm bài thi trắc nghiệm trên hệ thống của trường, thí sinh cần lưu ý theo barem chấm của Thầy là B.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 403,
@@ -5636,7 +5635,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong tác phẩm \"Đời sống mới\" (1947) và các bài viết trước đó, Hồ Chí Minh xác định nền văn hóa mới phải có tính chất dân tộc, khoa học và đại chúng. Về mặt luân lý, Người nhấn mạnh tinh thần \"mình vì mọi người\", \"biết hy sinh mình, làm lợi cho quần chúng\" để xây dựng một xã hội đoàn kết, tiến bộ.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 404,
@@ -5650,7 +5649,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Đây là trích dẫn nổi tiếng trong tác phẩm \"Đường Kách mệnh\" (1927). Hồ Chí Minh khẳng định đạo đức là \"gốc\" của người cách mạng, là nền tảng để người cách mạng có đủ uy tín và năng lực lãnh đạo nhân dân.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 405,
@@ -5664,7 +5663,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trích dẫn này nằm trong tác phẩm \"Đạo đức cách mạng\" (1958). Hồ Chí Minh ví đạo đức như gốc của cây, như nguồn của sông, và là sức mạnh để người cách mạng có thể vượt qua mọi khó khăn, thử thách nhằm hoàn thành \"nhiệm vụ cách mạng vẻ vang\". Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh của Bộ Giáo dục và Đào tạo:",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 406,
@@ -5678,7 +5677,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo Giáo trình Tư tưởng Hồ Chí Minh, \"Trung với nước, hiếu với dân\" là phẩm chất đạo đức quan trọng nhất, bao trùm nhất, là hạt nhân trong hệ thống đạo đức cách mạng của Người. Đây là sự phát triển tư tưởng trung hiếu của Nho giáo truyền thống lên một tầm cao mới, mang nội dung giai cấp và thời đại sâu sắc.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 407,
@@ -5692,7 +5691,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Đây là câu nói nổi tiếng của Chủ tịch Hồ Chí Minh khi bàn về việc giáo dục, rèn luyện con người. Người khẳng định niềm tin vào bản chất tốt đẹp của con người và yêu cầu người cách mạng phải biết khơi dậy phần thiện, đẩy lùi phần ác, ví sự phát triển của phần tốt như \"hoa mùa Xuân\".",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 408,
@@ -5706,7 +5705,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo quan điểm của Hồ Chí Minh trong tác phẩm \"Đạo đức cách mạng\" và \"Sửa đổi lối làm việc\", chữ \"Cần\" không chỉ đơn thuần là chăm chỉ mà phải là lao động có kế hoạch, có sáng tạo, có năng suất cao, biết tự lực cánh sinh, không ỷ lại, không lười biếng. Đây là nội dung cốt lõi trong chuẩn mực \"Cần, kiệm, liêm, chính\" của Người. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh của Bộ Giáo dục và Đào tạo:",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 409,
@@ -5720,7 +5719,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong tác phẩm \"Đạo đức cách mạng\" (1958), Hồ Chí Minh đã định nghĩa về chữ \"Liêm\": \"Chữ Liêm có nghĩa là: Không tham địa vị. Không tham tiền tài. Không tham sung sướng. Không ham người tâng bốc mình. Vì vậy mà quang minh chính đại, không bao giờ hủ hóa\".",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 410,
@@ -5734,7 +5733,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Trong tư tưởng Hồ Chí Minh, con người vừa là mục tiêu, vừa là động lực của sự nghiệp cách mạng. Người luôn khẳng định: \"Trong bầu trời không gì quý bằng nhân dân. Trong thế giới không gì mạnh bằng lực lượng đoàn kết của nhân dân\". Con người là yếu tố quyết định nhất trong mọi thắng lợi.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 411,
@@ -5748,7 +5747,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Đây là câu nói nổi tiếng của Hồ Chí Minh trong tác phẩm \"Dân vận\" (1949). Nguyên văn đầy đủ là: \"Vô luận việc gì, đều do người làm ra, từ nhỏ đến to, từ gần đến xa, đều thế cả\". Câu nói này nhấn mạnh vai trò chủ thể, sáng tạo của con người trong mọi hoạt động thực tiễn. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh của Bộ Giáo dục và Đào tạo:",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 412,
@@ -5760,9 +5759,9 @@ const QUESTIONS_DATA = [
       "C": "Nhân dân- Nông dân",
       "D": "Dân- Công nhân"
     },
-    "answer": "A",
-    "explanation": "Đây là câu nói nổi tiếng của Chủ tịch Hồ Chí Minh trong bài viết \"Dân vận\" (1949). Người khẳng định vai trò quyết định của nhân dân trong mọi công việc cách mạng: \"Dễ mười lần không dân cũng chịu, khó vạn lần dân liệu cũng xong\".",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "B",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. Nhân dân- Dân**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Câu nói của Bác: 'Việc dễ mấy không có Nhân dân cũng chịu, việc khó mấy có Dân liệu cũng xong'. Barem của Thầy chốt chính xác là **B (Nhân dân - Dân)**.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 413,
@@ -5776,7 +5775,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Theo tư tưởng Hồ Chí Minh, nhân dân là chủ thể của lịch sử, là người sáng tạo ra mọi giá trị vật chất và tinh thần. Người luôn đề cao vai trò của quần chúng nhân dân, coi \"dân là gốc\" của nước, là lực lượng quyết định thắng lợi của cách mạng.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 414,
@@ -5790,7 +5789,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong tư tưởng Hồ Chí Minh, giáo dục là chìa khóa để nâng cao dân trí, đào tạo nhân lực, bồi dưỡng nhân tài. Để xây dựng con người \"vừa hồng\" (có đạo đức cách mạng) \"vừa chuyên\" (có năng lực chuyên môn), Người đặc biệt chú trọng đến công tác giáo dục, đào tạo và tự đào tạo. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 415,
@@ -5804,7 +5803,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011), Đảng ta khẳng định: \"Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển\". Đây là sự kế thừa tư tưởng Hồ Chí Minh về vai trò của con người trong sự nghiệp cách mạng.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 416,
@@ -5816,9 +5815,9 @@ const QUESTIONS_DATA = [
       "C": "Những giá trị truyền thống tốt đẹp của dân tộc",
       "D": "Những giá trị văn hóa mang tính đặc thù của dân tộc"
     },
-    "answer": "A",
-    "explanation": "Theo giáo trình, bản sắc văn hóa dân tộc trong tư tưởng Hồ Chí Minh là những giá trị bền vững, những tinh hoa của cộng đồng các dân tộc Việt Nam được vun đắp qua hàng nghìn năm lịch sử, trong đó nổi bật nhất là lòng yêu nước, tinh thần độc lập, tự cường, tự tôn dân tộc, ý thức gắn kết cộng đồng.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "B",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **B. Những giá trị vật chất và tinh thần đặc sắc của dân tộc**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Bản sắc văn hóa dân tộc theo cách định nghĩa trong ngân hàng câu hỏi của Thầy được chốt ngắn gọn là những giá trị vật chất và tinh thần đặc sắc tạo nên cốt cách dân tộc (đáp án B).",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 417,
@@ -5832,7 +5831,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Hồ Chí Minh chủ trương \"hòa nhập chứ không hòa tan\". Người nhấn mạnh việc tiếp thu tinh hoa văn hóa nhân loại phải có chọn lọc, trên cơ sở \"lấy văn hóa dân tộc làm gốc\" để không bị đồng hóa và giữ vững bản sắc dân tộc trong quá trình hội nhập. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 418,
@@ -5846,7 +5845,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, việc tiếp thu tinh hoa văn hóa nhân loại không bị giới hạn bởi không gian (Đông, Tây) hay thời gian (kim, cổ). Người chủ trương tiếp thu tất cả những gì là tinh hoa, là giá trị tốt đẹp của nhân loại để làm giàu cho văn hóa dân tộc.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 419,
@@ -5860,7 +5859,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Hồ Chí Minh quan niệm việc tiếp thu văn hóa phải có chọn lọc, dựa trên tinh thần phê phán và sáng tạo. Người khẳng định: \"Cái gì hay, cái gì tốt của văn hóa nhân loại thì ta học lấy\" để làm giàu cho văn hóa Việt Nam, đồng thời phải biết gạn đục khơi trong, không tiếp thu một cách máy móc, rập khuôn.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 420,
@@ -5874,7 +5873,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Trong tác phẩm \"Đời sống mới\" (1947), Hồ Chí Minh đã khẳng định: \"Cần, Kiệm, Liêm, Chính là nền tảng của đời sống mới, là nền tảng của Thi đua ái quốc\". Đối với một quốc gia, đây chính là thước đo sự văn minh, tiến bộ và là nền tảng tinh thần vững chắc để xây dựng chế độ mới. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 421,
@@ -5888,7 +5887,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo giáo trình, Hồ Chí Minh khẳng định văn hóa văn nghệ là một mặt trận, văn nghệ sĩ là chiến sĩ. Văn hóa văn nghệ có vai trò quan trọng trong việc bồi dưỡng tư tưởng, tình cảm, nâng cao lòng yêu nước, ý chí quyết tâm và niềm tin vào thắng lợi của cách mạng. Đáp án A bao quát đầy đủ và chính xác nhất các khía cạnh tư tưởng mà Người nhấn mạnh.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 422,
@@ -5902,7 +5901,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong tư tưởng Hồ Chí Minh, giáo dục có vai trò hàng đầu trong việc nâng cao dân trí. Ngay sau khi giành độc lập, Người xác định \"diệt giặc dốt\" là một trong ba loại giặc cần phải tiêu diệt (cùng với giặc đói và giặc ngoại xâm). Giáo dục giúp con người hiểu biết, có tri thức để làm chủ bản thân, làm chủ xã hội và nắm bắt được quy luật phát triển của lịch sử.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 423,
@@ -5914,9 +5913,9 @@ const QUESTIONS_DATA = [
       "C": "Đào tạo con người Việt Nam giỏi về chuyên môn, nghiệp vụ đáp ứng được yêu cầu của sự nghiệp đổi mới đất nước",
       "D": "Cải tạo trí thức cũ, xây dựng trí thức mới, đáp ứng được yêu cầu, nhiệm vụ của sự nghiệp xây dựng chủ nghĩa xã hội"
     },
-    "answer": "D",
-    "explanation": "Trong tư tưởng Hồ Chí Minh, giáo dục không chỉ là truyền thụ kiến thức mà còn là quá trình \"trồng người\". Nhiệm vụ cốt lõi của giáo dục trong giai đoạn xây dựng chủ nghĩa xã hội là cải tạo những tư tưởng cũ, lạc hậu, xây dựng con người mới xã hội chủ nghĩa, đào tạo đội ngũ trí thức mới có đủ đức và tài để phục vụ sự nghiệp xây dựng đất nước. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "A",
+    "explanation": "Theo tư tưởng Hồ Chí Minh, văn hóa giáo dục có sứ mệnh cao cả trong chiến lược 'trồng người': Đào tạo con người mới, cán bộ mới, nguồn nhân lực chất lượng cao phục vụ toàn diện cho sự nghiệp cách mạng và kháng chiến, kiến quốc.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 424,
@@ -5930,7 +5929,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo quan điểm của Hồ Chí Minh, văn hóa có chức năng bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp cho con người. Văn hóa đạo đức, lối sống giúp con người hoàn thiện nhân cách, nâng cao phẩm giá, phong cách, hướng con người tới các giá trị chân, thiện, mỹ.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 425,
@@ -5942,9 +5941,9 @@ const QUESTIONS_DATA = [
       "C": "Tư tưởng vững vàng, ngòi bút phải sắc bén, gần gũi với nhân dân",
       "D": "Tư tưởng kiên định, ngòi bút phải sắc bén, gần gũi với nhân dân"
     },
-    "answer": "D",
-    "explanation": "Trong \"Thư gửi các họa sĩ nhân dịp triển lãm hội họa năm 1951\", Hồ Chí Minh khẳng định: \"Văn hóa nghệ thuật cũng là một mặt trận. Anh chị em là chiến sĩ trên mặt trận ấy\". Để làm tròn nhiệm vụ \"phò chính trừ tà\", người nghệ sĩ phải có lập trường tư tưởng vững vàng (kiên định), ngòi bút sắc bén để đấu tranh với cái xấu, cái ác và gần gũi với nhân dân để phản ánh hiện thực.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "C",
+    "explanation": "Theo Hồ Chí Minh, để hoàn thành sứ mệnh văn nghệ sĩ là chiến sĩ trên mặt trận văn hóa, 'phò chính trừ tà', người làm nghệ thuật phải có 'tư tưởng vững vàng, ngòi bút phải sắc bén, gần gũi với nhân dân'.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 426,
@@ -5958,7 +5957,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Hồ Chí Minh luôn nhấn mạnh văn hóa phải gắn liền với đời sống nhân dân. Người yêu cầu văn nghệ sĩ phải \"thật hòa mình vào quần chúng\", \"đi sâu vào đời sống của nhân dân\" để hiểu thấu tâm tư, tình cảm, nguyện vọng của nhân dân, từ đó mới có thể sáng tạo ra những tác phẩm có giá trị phục vụ nhân dân. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 427,
@@ -5972,7 +5971,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo Hồ Chí Minh, nền văn hóa mới phải có tính đại chúng, nghĩa là văn hóa phải phục vụ nhân dân và do nhân dân xây dựng nên. Nhân dân vừa là đối tượng thụ hưởng, vừa là chủ thể sáng tạo ra văn hóa.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 428,
@@ -5986,7 +5985,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong thời kỳ xây dựng chủ nghĩa xã hội, Hồ Chí Minh xác định nền văn hóa mới Việt Nam phải là nền văn hóa có nội dung xã hội chủ nghĩa và tính chất dân tộc. Tính dân tộc đảm bảo văn hóa giữ được bản sắc, còn nội dung xã hội chủ nghĩa định hướng cho sự phát triển tiến bộ.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 429,
@@ -6000,7 +5999,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, việc giữ gìn bản sắc văn hóa dân tộc không phải là đóng cửa, mà là phải biết trân trọng, khai thác, giữ gìn, phát huy và phát triển các giá trị văn hóa truyền thống tốt đẹp của dân tộc để phục vụ cho sự nghiệp cách mạng trong từng giai đoạn lịch sử cụ thể. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 430,
@@ -6014,7 +6013,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo quan điểm của Hồ Chí Minh, đạo đức không phải là những điều trừu tượng mà thể hiện cụ thể trong nếp sống, cách ứng xử hàng ngày. Người nhấn mạnh đạo đức bắt đầu từ những mối quan hệ gần gũi (gia đình, bạn bè) đến những mối quan hệ rộng lớn hơn (quốc gia, dân tộc) và mục đích cuối cùng của giáo dục là để làm việc, làm người và làm cán bộ tốt cho cách mạng.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 431,
@@ -6028,7 +6027,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Trong tư tưởng Hồ Chí Minh, sức hấp dẫn của chủ nghĩa xã hội không chỉ nằm ở cơ sở vật chất mà trước hết nằm ở tính ưu việt về mặt đạo đức. Người khẳng định chính những giá trị đạo đức cao đẹp và phẩm chất gương mẫu của những người cộng sản là tấm gương sáng, là nhân tố quan trọng nhất để thuyết phục và thu hút quần chúng nhân dân đi theo con đường xã hội chủ nghĩa.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 432,
@@ -6042,7 +6041,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "D",
     "explanation": "Trong hệ thống đạo đức cách mạng của Hồ Chí Minh, \"Trung với nước, hiếu với dân\" là phẩm chất hàng đầu. \"Trung với nước\" được Người định nghĩa là tuyệt đối trung thành với Tổ quốc, với Đảng, với sự nghiệp cách mạng, đặt lợi ích của Đảng và dân tộc lên trên hết, trước hết. Đây là nội dung cốt lõi trong tư tưởng đạo đức Hồ Chí Minh. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 433,
@@ -6055,7 +6054,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, \"Hiếu với dân\" thể hiện ở việc phải gần dân, hiểu dân, học dân, dựa vào dân và lấy dân làm gốc. Người yêu cầu cán bộ phải \"thương dân, tin dân, thân dân\", vì dân mà phục vụ, mọi việc đều phải xuất phát từ lợi ích của nhân dân.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 434,
@@ -6069,7 +6068,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong tác phẩm \"Đạo đức cách mạng\", Hồ Chí Minh khẳng định \"Cần, kiệm, liêm, chính\" là bốn đức của con người, là nền tảng của đời sống mới, là nội dung cốt lõi của đạo đức cách mạng, gắn liền với hoạt động hằng ngày của mỗi người.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 435,
@@ -6083,7 +6082,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo Hồ Chí Minh, \"chí công vô tư\" là biểu hiện cao nhất của đạo đức cách mạng. Người luôn nhấn mạnh việc phải nêu cao chủ nghĩa tập thể, đặt lợi ích của Đảng, của dân tộc lên trên hết, đồng thời kiên quyết quét sạch chủ nghĩa cá nhân – thứ \"giặc nội xâm\" nguy hiểm nhất. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 436,
@@ -6097,7 +6096,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo giáo trình, tình yêu thương con người của Hồ Chí Minh mang tính nhân văn sâu sắc, bắt nguồn từ lòng thương cảm đối với những người cùng khổ, những người bị áp bức, bóc lột, bị mất quyền trong xã hội cũ. Đây là cơ sở để Người hình thành tư tưởng giải phóng dân tộc, giải phóng con người.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 437,
@@ -6111,7 +6110,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong các nguyên tắc xây dựng đạo đức mới theo tư tưởng Hồ Chí Minh, \"Nói đi đôi với làm\" được xác định là nguyên tắc quan trọng bậc nhất, là sự thống nhất giữa lý luận và thực tiễn, giữa tư tưởng và hành động, nhằm khắc phục bệnh nói suông, nói mà không làm.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 438,
@@ -6125,7 +6124,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Câu nói này của Hồ Chí Minh khẳng định sức mạnh của sự nêu gương. Trong tư tưởng đạo đức của Người, \"nói đi đôi với làm\" không chỉ dừng lại ở việc thực hiện lời nói, mà còn phải trở thành tấm gương sáng để người khác noi theo, đặc biệt là đối với cán bộ, đảng viên. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 439,
@@ -6139,7 +6138,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo giáo trình, Hồ Chí Minh cho rằng đạo đức cách mạng không phải tự nhiên mà có, nó là kết quả của quá trình rèn luyện bền bỉ. Vấn đề quan trọng nhất trong giáo dục đạo đức là phải khơi dậy được ý thức đạo đức lành mạnh, để mỗi cá nhân tự giác nhận thức được trách nhiệm của mình đối với bản thân, tập thể và xã hội.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 440,
@@ -6153,7 +6152,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Trong tư tưởng Hồ Chí Minh, việc xây dựng đạo đức mới gắn liền với cuộc đấu tranh chống lại cái cũ, cái lạc hậu. Người khẳng định đạo đức mới chỉ có thể xây dựng thành công trên cơ sở kiên trì mục tiêu chống chủ nghĩa đế quốc, chống thói quen và tập tục lạc hậu, đặc biệt là phải loại trừ chủ nghĩa cá nhân – \"giặc nội xâm\" nguy hiểm nhất.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 441,
@@ -6167,7 +6166,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong bài nói chuyện tại Trường Đảng Nguyễn Ái Quốc (năm 1957), Hồ Chí Minh đã giải thích chữ \"Người\" theo nghĩa rộng dần: Nghĩa hẹp là gia đình, anh em, họ hàng, bè bạn; nghĩa rộng là đồng bào cả nước; rộng hơn nữa là cả loài người. Đây là biểu hiện của tinh thần nhân văn cao cả và chủ nghĩa quốc tế trong tư tưởng của Người. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 442,
@@ -6179,9 +6178,9 @@ const QUESTIONS_DATA = [
       "C": "Con người luôn tồn tại trong cộng đồng, trong các mối quan hệ xã hội, chịu sự chi phối của các quy luật xã hội",
       "D": "Con người là sản phẩm của xã hội, do xã hội quyết định"
     },
-    "answer": "C",
-    "explanation": "Theo giáo trình, Hồ Chí Minh quan niệm con người là một thực thể xã hội. Tính xã hội của con người thể hiện ở chỗ con người luôn tồn tại trong cộng đồng, trong các mối quan hệ xã hội (gia đình, làng xã, giai cấp, dân tộc, nhân loại) và chịu sự chi phối của các quy luật xã hội.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "A",
+    "explanation": "Theo quan điểm Hồ Chí Minh, con người luôn là một thực thể xã hội, tồn tại trong cộng đồng và chịu sự quy định, chi phối của các quan hệ xã hội, điều kiện lịch sử cụ thể.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 443,
@@ -6195,7 +6194,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Hồ Chí Minh cho rằng con người trước hết là một thực thể sinh vật, cần phải được thỏa mãn các nhu cầu tối thiểu để tồn tại. Người khẳng định: \"Nếu dân đói, Đảng và Chính phủ có lỗi; nếu dân rét là Đảng và Chính phủ có lỗi...\". Do đó, mục tiêu của Đảng và Nhà nước là phải làm cho dân có ăn, có mặc, có chỗ ở, có học hành.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 444,
@@ -6209,7 +6208,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Hồ Chí Minh đã vận dụng sáng tạo chủ nghĩa Mác - Lênin vào hoàn cảnh cụ thể của Việt Nam. Việc nhìn nhận con người Việt Nam trong mối quan hệ giữa truyền thống dân tộc và giai cấp đã giúp Người giải quyết hài hòa, sáng tạo mối quan hệ giữa vấn đề dân tộc và vấn đề giai cấp, trong đó độc lập dân tộc gắn liền với chủ nghĩa xã hội. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 445,
@@ -6223,7 +6222,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Theo giáo trình, tư tưởng Hồ Chí Minh về con người là chiến lược \"trồng người\". Trong tiến trình cách mạng Việt Nam, Người xác định mục tiêu xuyên suốt gắn liền với các giai đoạn: giải phóng dân tộc, xây dựng chế độ dân chủ nhân dân và tiến dần lên chủ nghĩa xã hội.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 446,
@@ -6237,7 +6236,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong tư tưởng Hồ Chí Minh, các mục tiêu giải phóng dân tộc, giải phóng giai cấp, giải phóng xã hội và giải phóng con người không tách rời mà có mối quan hệ biện chứng, kết hợp chặt chẽ, vừa đồng thời thực hiện vừa có tính chất nối tiếp nhau trong từng giai đoạn của cách mạng.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 447,
@@ -6251,7 +6250,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Hồ Chí Minh luôn coi con người là vốn quý nhất, là nhân tố quyết định thành công của cách mạng. Do đó, việc xây dựng con người được Người xác định là một trọng tâm, một bộ phận hợp thành không thể tách rời của chiến lược phát triển đất nước (thường được tóm tắt qua quan điểm \"Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người\"). Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 448,
@@ -6265,7 +6264,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo tư tưởng Hồ Chí Minh, \"trồng người\" là một công việc lâu dài, khó khăn, đòi hỏi sự kiên trì và phải được tiến hành thường xuyên trong suốt tiến trình đi lên chủ nghĩa xã hội. Người nhấn mạnh đây là công việc của toàn Đảng, toàn dân, phải gắn liền với thực tiễn cách mạng và đạt kết quả cụ thể trong từng giai đoạn.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 449,
@@ -6279,7 +6278,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Hồ Chí Minh khẳng định giáo dục là sự nghiệp của quần chúng. Việc \"trồng người\" không chỉ là trách nhiệm của Đảng, Nhà nước và các tổ chức đoàn thể trong việc tạo môi trường, định hướng giáo dục, mà còn đòi hỏi sự nỗ lực, tự giác, tính tích cực và chủ động của chính mỗi cá nhân trong việc tự tu dưỡng, rèn luyện.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 450,
@@ -6293,7 +6292,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong tư tưởng Hồ Chí Minh, chủ nghĩa xã hội và con người xã hội chủ nghĩa có mối quan hệ biện chứng: Chủ nghĩa xã hội tạo điều kiện để phát triển con người, và con người xã hội chủ nghĩa (với tư cách là người làm chủ) chính là động lực quan trọng nhất để xây dựng thành công chủ nghĩa xã hội. Người từng nói: \"Muốn xây dựng chủ nghĩa xã hội, trước hết cần có những con người xã hội chủ nghĩa\". Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 451,
@@ -6305,9 +6304,9 @@ const QUESTIONS_DATA = [
       "C": "Chính trị, tư tưởng, đạo đức, năng lực",
       "D": "Đức, tài, thể chất, thẩm mỹ"
     },
-    "answer": "A",
-    "explanation": "Theo tư tưởng Hồ Chí Minh, con người phát triển toàn diện là con người có đủ cả đức và tài, trong đó đức là gốc. Trong giáo trình, Hồ Chí Minh luôn nhấn mạnh việc rèn luyện con người trên các mặt: đạo đức (đức), trí tuệ (trí), thể chất (thể) và thẩm mỹ (mỹ) để trở thành người công dân tốt, người lao động mới.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "C",
+    "explanation": "• **Theo đáp án của Giảng viên / Đề thi của trường:** Chọn **C. Chính trị, tư tưởng, đạo đức, năng lực**.\n\n• **[ĐỐI CHIẾU NGUỒN ĐỘC LẬP & LƯU Ý THI CỬ]**:\n- Bên cạnh quan điểm giáo dục toàn diện 'Đức, trí, thể, mỹ', khi nói về xây dựng con người mới và đội ngũ cán bộ cách mạng, Hồ Chí Minh đặc biệt chú trọng 4 phương diện trọng tâm: Chính trị, tư tưởng, đạo đức và năng lực thực tiễn. Đáp án của Thầy chốt là **C**.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 452,
@@ -6321,7 +6320,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Nghị quyết Trung ương 5 (khóa VIII) đã kế thừa và phát triển tư tưởng Hồ Chí Minh về văn hóa, khẳng định văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu, vừa là động lực thúc đẩy sự phát triển kinh tế - xã hội. Đây là quan điểm cốt lõi trong đường lối văn hóa của Đảng ta.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 453,
@@ -6333,9 +6332,9 @@ const QUESTIONS_DATA = [
       "C": "Con người được quan tâm phát triển toàn diện về đức, trí, thể, mỹ",
       "D": "Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển"
     },
-    "answer": "B",
-    "explanation": "Cương lĩnh năm 2011 đã đúc kết tư tưởng Hồ Chí Minh về con người, khẳng định: \"Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển. Tôn trọng và bảo vệ quyền con người, gắn quyền con người với quyền và lợi ích của dân tộc, đất nước và quyền làm chủ của nhân dân\". Tuy nhiên, xét về mối quan hệ biện chứng trong sự nghiệp đổi mới, Cương lĩnh nhấn mạnh con người vừa là mục tiêu, vừa là động lực của sự nghiệp đổi mới. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên nội dung Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "D",
+    "explanation": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung, phát triển năm 2011) vận dụng tư tưởng Hồ Chí Minh đã khẳng định: 'Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển'.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 454,
@@ -6349,7 +6348,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Trong \"Thư gửi các học sinh\" (9/1945), Hồ Chí Minh đã khẳng định: \"Non sông Việt Nam có trở nên tươi đẹp hay không, dân tộc Việt Nam có bước tới đài vinh quang để sánh vai với các cường quốc năm châu được hay không, chính là nhờ một phần lớn ở công học tập của các em\". Trong các bài viết khác, Người cũng nhấn mạnh thanh niên là người chủ tương lai của nước nhà, nước nhà thịnh hay suy, yếu hay mạnh một phần lớn là do các thanh niên.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 455,
@@ -6363,7 +6362,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo tư tưởng Hồ Chí Minh, phẩm chất đạo đức quan trọng nhất, bao trùm nhất, là gốc của đạo đức cách mạng chính là \"Trung với nước, hiếu với dân\". Đây là tiêu chuẩn hàng đầu để đánh giá đạo đức của người cách mạng, là sợi chỉ đỏ xuyên suốt trong hệ thống đạo đức Hồ Chí Minh.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 456,
@@ -6377,7 +6376,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo Giáo trình Tư tưởng Hồ Chí Minh, mặc dù chịu tác động của mặt trái kinh tế thị trường, nhưng phần lớn sinh viên Việt Nam vẫn kế thừa và phát huy được các giá trị truyền thống tốt đẹp của dân tộc kết hợp với những phẩm chất mới của thời đại như: nhân hậu, tình nghĩa, khiêm tốn, cần cù, sáng tạo, có chí lập thân, lập nghiệp, dám chịu trách nhiệm và bản lĩnh. Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 457,
@@ -6391,7 +6390,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo giáo trình, việc học tập tư tưởng, đạo đức Hồ Chí Minh giúp sinh viên khắc phục những biểu hiện tiêu cực như: phai nhạt lý tưởng, thiếu trách nhiệm với bản thân, gia đình và xã hội, thiếu ý chí lập thân, lập nghiệp. Phương án B bao quát đầy đủ và chính xác nhất các biểu hiện tiêu cực thường được nhắc đến trong giáo trình đối với đối tượng sinh viên.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 458,
@@ -6405,7 +6404,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Giáo trình Tư tưởng Hồ Chí Minh nhấn mạnh việc học tập và làm theo đạo đức của Người nhằm mục đích giáo dục, rèn luyện con người Việt Nam, trước hết là thế hệ trẻ, trở thành những công dân tốt, có đạo đức cách mạng, có bản lĩnh chính trị để xứng đáng là người làm chủ đất nước trong thời kỳ đổi mới.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 459,
@@ -6419,7 +6418,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Đây là câu nói nổi tiếng của Chủ tịch Hồ Chí Minh thể hiện tấm lòng yêu nước, thương dân sâu sắc và nỗi trăn trở khôn nguôi của Người về sự nghiệp thống nhất đất nước. Cụm từ chính xác trong các tài liệu lịch sử và giáo trình là \"ăn không ngon, ngủ không yên\". Dưới đây là lời giải các câu hỏi trắc nghiệm dựa trên nội dung Giáo trình Tư tưởng Hồ Chí Minh (Bộ Giáo dục và Đào tạo):",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 460,
@@ -6433,7 +6432,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Theo tư tưởng Hồ Chí Minh, sinh viên là lực lượng trí thức trẻ, là chủ nhân tương lai của nước nhà. Người luôn nhấn mạnh sinh viên phải có ý thức trách nhiệm với Tổ quốc, không chỉ dừng lại ở việc học tập mà phải biết vun đắp tinh thần dân tộc, tự giác và tích cực thực hiện trách nhiệm công dân trong sự nghiệp xây dựng và bảo vệ đất nước.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 461,
@@ -6447,7 +6446,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "A",
     "explanation": "Trong tư tưởng Hồ Chí Minh, lòng nhân ái không phải là sự thương hại chung chung mà gắn liền với niềm tin vào nhân dân. Người khẳng định \"Dễ trăm lần không dân cũng chịu, khó vạn lần dân liệu cũng xong\", do đó tình yêu thương con người của Người luôn song hành với niềm tin tuyệt đối vào sức mạnh và trí tuệ của nhân dân.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 462,
@@ -6461,7 +6460,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "B",
     "explanation": "Đây là nội dung cốt lõi trong việc vận dụng tư tưởng Hồ Chí Minh đối với thế hệ trẻ. Người luôn căn dặn thanh niên, sinh viên phải kết hợp giữa \"học\" và \"hành\", giữa \"đức\" và \"tài\". Việc rèn luyện đạo đức cách mạng và gắn lý luận với thực tiễn là yêu cầu tiên quyết để sinh viên trở thành người kế thừa xứng đáng sự nghiệp cách mạng của Đảng và dân tộc.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 463,
@@ -6475,7 +6474,7 @@ const QUESTIONS_DATA = [
     },
     "answer": "C",
     "explanation": "Theo tư tưởng Hồ Chí Minh, con người vừa là mục tiêu, vừa là động lực của sự nghiệp cách mạng. Người khẳng định: \"Muốn xây dựng chủ nghĩa xã hội, trước hết cần có những con người xã hội chủ nghĩa\". Điều này không có nghĩa là đợi có con người hoàn thiện mới xây dựng CNXH, mà là quá trình xây dựng CNXH và xây dựng con người xã hội chủ nghĩa phải diễn ra song song, biện chứng, đặt ra ngay từ đầu và xuyên suốt trong toàn bộ tiến trình cách mạng.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   },
   {
     "id": 464,
@@ -6487,8 +6486,8 @@ const QUESTIONS_DATA = [
       "C": "“Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về trách nhiệm, trung thực, nói đi đôi với làm”",
       "D": "“Học tập và làm theo tư tưởng và tấm gương mẫu mực của Hồ Chí Minh về tu dưỡng đạo đức suốt đời”"
     },
-    "answer": "C",
-    "explanation": "Căn cứ vào các văn bản hướng dẫn của Trung ương Đoàn TNCS Hồ Chí Minh về việc đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, trong năm 2020, chủ đề trọng tâm được triển khai sâu rộng trong đoàn viên, thanh niên là: “Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về trách nhiệm, trung thực, nói đi đôi với làm”. Đây là nội dung cốt lõi nhằm giáo dục đạo đức cách mạng cho thế hệ trẻ.",
-    "chapter": "Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người"
+    "answer": "D",
+    "explanation": "Năm 2020, Trung ương Đoàn TNCS Hồ Chí Minh triển khai chuyên đề học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh dành cho cán bộ đoàn và đoàn viên, trong đó có chủ đề: 'Học tập và làm theo tư tưởng và tấm gương mẫu mực của Hồ Chí Minh về tu dưỡng đạo đức suốt đời'.",
+    "chapter": "Chương 6: Tư tưởng Hồ Chí Minh về văn hóa, đạo đức, con người"
   }
 ];

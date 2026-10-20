@@ -1186,11 +1186,12 @@
 
         <select class="chapter-select" id="chapter-filter" onchange="filterChapter(this.value)">
           <option value="all">Tất cả các chương (464 câu)</option>
-          <option value="ch1">Chương 1: Khái niệm, đối tượng, phương pháp</option>
-          <option value="ch23">Chương 2 & 3: Cơ sở hình thành & Độc lập dân tộc</option>
-          <option value="ch4">Chương 4: Đảng Cộng sản & Nhà nước</option>
-          <option value="ch5">Chương 5: Đại đoàn kết toàn dân & Quốc tế</option>
-          <option value="ch6">Chương 6: Văn hóa, đạo đức, con người</option>
+          <option value="ch1">Chương 1: Khái niệm, đối tượng, phương pháp (26 câu)</option>
+          <option value="ch2">Chương 2: Cơ sở, quá trình hình thành & phát triển (65 câu)</option>
+          <option value="ch3">Chương 3: Độc lập dân tộc & Chủ nghĩa xã hội (89 câu)</option>
+          <option value="ch4">Chương 4: Đảng Cộng sản & Nhà nước của nhân dân (98 câu)</option>
+          <option value="ch5">Chương 5: Đại đoàn kết toàn dân & Quốc tế (92 câu)</option>
+          <option value="ch6">Chương 6: Văn hóa, đạo đức, con người (94 câu)</option>
         </select>
 
         <div class="grid-container" id="question-grid">
@@ -1223,35 +1224,42 @@
             </div>
           </div>
           <div class="chapters-checkbox-grid">
-            <label class="chapter-checkbox-card" id="card-ch-1">
+            <label class="chapter-checkbox-card" id="card-ch1">
               <input type="checkbox" value="ch1" checked onchange="updateExamPoolCount()">
               <div class="chapter-checkbox-label">
                 <span>Chương 1: Khái niệm, đối tượng, phương pháp nghiên cứu & ý nghĩa</span>
                 <span class="q-count-badge">26 câu</span>
               </div>
             </label>
-            <label class="chapter-checkbox-card" id="card-ch-23">
-              <input type="checkbox" value="ch23" checked onchange="updateExamPoolCount()">
+            <label class="chapter-checkbox-card" id="card-ch2">
+              <input type="checkbox" value="ch2" checked onchange="updateExamPoolCount()">
               <div class="chapter-checkbox-label">
-                <span>Chương 2 & 3: Cơ sở hình thành & Độc lập dân tộc gắn liền CNXH</span>
-                <span class="q-count-badge">94 câu</span>
+                <span>Chương 2: Cơ sở, quá trình hình thành & phát triển tư tưởng HCM</span>
+                <span class="q-count-badge">65 câu</span>
               </div>
             </label>
-            <label class="chapter-checkbox-card" id="card-ch-4">
+            <label class="chapter-checkbox-card" id="card-ch3">
+              <input type="checkbox" value="ch3" checked onchange="updateExamPoolCount()">
+              <div class="chapter-checkbox-label">
+                <span>Chương 3: Độc lập dân tộc & Chủ nghĩa xã hội</span>
+                <span class="q-count-badge">89 câu</span>
+              </div>
+            </label>
+            <label class="chapter-checkbox-card" id="card-ch4">
               <input type="checkbox" value="ch4" checked onchange="updateExamPoolCount()">
               <div class="chapter-checkbox-label">
                 <span>Chương 4: Đảng Cộng sản & Nhà nước của nhân dân, do dân, vì dân</span>
-                <span class="q-count-badge">160 câu</span>
+                <span class="q-count-badge">98 câu</span>
               </div>
             </label>
-            <label class="chapter-checkbox-card" id="card-ch-5">
+            <label class="chapter-checkbox-card" id="card-ch5">
               <input type="checkbox" value="ch5" checked onchange="updateExamPoolCount()">
               <div class="chapter-checkbox-label">
                 <span>Chương 5: Đại đoàn kết toàn dân tộc & Đoàn kết quốc tế</span>
-                <span class="q-count-badge">90 câu</span>
+                <span class="q-count-badge">92 câu</span>
               </div>
             </label>
-            <label class="chapter-checkbox-card" id="card-ch-6">
+            <label class="chapter-checkbox-card" id="card-ch6">
               <input type="checkbox" value="ch6" checked onchange="updateExamPoolCount()">
               <div class="chapter-checkbox-label">
                 <span>Chương 6: Tư tưởng HCM về văn hóa, đạo đức, con người</span>
@@ -1544,7 +1552,7 @@
       
       // Exam Config & State
       examConfig: {
-        chapters: ['ch1', 'ch23', 'ch4', 'ch5', 'ch6'],
+        chapters: ['ch1', 'ch2', 'ch3', 'ch4', 'ch5', 'ch6'],
         questionCount: 40,
         timeLimitMinutes: 40
       },
@@ -1719,9 +1727,10 @@
       if (state.chapterFilter === 'all') return QUESTIONS_DATA;
       return QUESTIONS_DATA.filter(q => {
         if (state.chapterFilter === 'ch1') return q.id <= 26;
-        if (state.chapterFilter === 'ch23') return q.id > 26 && q.id <= 120;
-        if (state.chapterFilter === 'ch4') return q.id > 120 && q.id <= 280;
-        if (state.chapterFilter === 'ch5') return q.id > 280 && q.id <= 370;
+        if (state.chapterFilter === 'ch2') return q.id > 26 && q.id <= 91;
+        if (state.chapterFilter === 'ch3') return q.id > 91 && q.id <= 180;
+        if (state.chapterFilter === 'ch4') return q.id > 180 && q.id <= 278;
+        if (state.chapterFilter === 'ch5') return q.id > 278 && q.id <= 370;
         if (state.chapterFilter === 'ch6') return q.id > 370;
         return true;
       });
@@ -1919,9 +1928,10 @@
       const selectedChaps = getSelectedExamChapters();
       return QUESTIONS_DATA.filter(q => {
         if (selectedChaps.includes('ch1') && q.id <= 26) return true;
-        if (selectedChaps.includes('ch23') && (q.id > 26 && q.id <= 120)) return true;
-        if (selectedChaps.includes('ch4') && (q.id > 120 && q.id <= 280)) return true;
-        if (selectedChaps.includes('ch5') && (q.id > 280 && q.id <= 370)) return true;
+        if (selectedChaps.includes('ch2') && (q.id > 26 && q.id <= 91)) return true;
+        if (selectedChaps.includes('ch3') && (q.id > 91 && q.id <= 180)) return true;
+        if (selectedChaps.includes('ch4') && (q.id > 180 && q.id <= 278)) return true;
+        if (selectedChaps.includes('ch5') && (q.id > 278 && q.id <= 370)) return true;
         if (selectedChaps.includes('ch6') && q.id > 370) return true;
         return false;
       });
@@ -1932,7 +1942,7 @@
       document.getElementById('exam-pool-count').innerText = `${pool.length} câu khả dụng`;
       
       // Highlight cards
-      ['ch1', 'ch23', 'ch4', 'ch5', 'ch6'].forEach(id => {
+      ['ch1', 'ch2', 'ch3', 'ch4', 'ch5', 'ch6'].forEach(id => {
         const card = document.getElementById(`card-${id}`);
         const cb = card.querySelector('input');
         if (cb && cb.checked) card.classList.add('selected');
