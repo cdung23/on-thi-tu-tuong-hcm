@@ -617,11 +617,27 @@
     .grid-container {
       flex: 1;
       overflow-y: auto;
-      padding-right: 4px;
+      padding-right: 6px;
+      padding-bottom: 2rem;
       display: grid;
       grid-template-columns: repeat(6, 1fr);
       gap: 6px;
-      margin-bottom: 1rem;
+      margin-bottom: 0.75rem;
+      scroll-behavior: smooth;
+    }
+    .grid-container::-webkit-scrollbar {
+      width: 6px;
+    }
+    .grid-container::-webkit-scrollbar-track {
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 4px;
+    }
+    .grid-container::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.2);
+      border-radius: 4px;
+    }
+    .grid-container::-webkit-scrollbar-thumb:hover {
+      background: var(--brand-red);
     }
 
     .grid-item {
@@ -636,19 +652,24 @@
       align-items: center;
       justify-content: center;
       cursor: pointer;
-      transition: var(--transition);
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
       position: relative;
     }
 
     .grid-item:hover {
       border-color: var(--text-main);
       color: var(--text-main);
+      transform: translateY(-1px);
     }
 
     .grid-item.current {
-      border-color: var(--brand-red);
-      background: rgba(220, 38, 38, 0.2);
+      border-color: #ef4444;
+      background: rgba(239, 68, 68, 0.25);
       color: #fff;
+      box-shadow: 0 0 0 2px rgba(239, 68, 68, 0.7), 0 0 12px rgba(239, 68, 68, 0.5);
+      font-weight: 800;
+      transform: scale(1.08);
+      z-index: 2;
     }
     .grid-item.correct {
       background: var(--color-correct);
@@ -1880,12 +1901,35 @@
       renderQuestion(0);
     }
 
+    function scrollActiveGridItem(grid, currentItem) {
+      if (!grid || !currentItem) return;
+      requestAnimationFrame(() => {
+        const gridRect = grid.getBoundingClientRect();
+        const itemRect = currentItem.getBoundingClientRect();
+        const margin = 20;
+        
+        // Kiểm tra xem item có nằm quá gần mép hoặc vượt khỏi tầm nhìn không
+        const isOutOfView = (itemRect.top < gridRect.top + margin) || (itemRect.bottom > gridRect.bottom - margin);
+        if (isOutOfView) {
+          const currentScroll = grid.scrollTop;
+          const relativeTop = itemRect.top - gridRect.top;
+          const targetScroll = currentScroll + relativeTop - (grid.clientHeight / 2) + (itemRect.height / 2);
+          grid.scrollTo({
+            top: Math.max(0, targetScroll),
+            behavior: 'smooth'
+          });
+        }
+      });
+    }
+
     function renderSidebarGrid() {
       const filtered = getFilteredQuestions();
       const grid = document.getElementById('question-grid');
       grid.innerHTML = '';
       
       let answeredCount = 0;
+      let currentItemElem = null;
+
       filtered.forEach((q, idx) => {
         const item = document.createElement('div');
         item.className = 'grid-item';
@@ -1900,13 +1944,17 @@
 
         if (state.bookmarks.has(q.id)) item.classList.add('bookmarked');
         if (state.customDrill.has(q.id) || state.mistakes.has(q.id)) item.classList.add('in-drill');
-        if (idx === state.currentIndex) item.classList.add('current');
+        if (idx === state.currentIndex) {
+          item.classList.add('current');
+          currentItemElem = item;
+        }
 
         item.onclick = () => renderQuestion(idx);
         grid.appendChild(item);
       });
 
       document.getElementById('grid-progress-text').innerText = `${answeredCount}/${filtered.length}`;
+      scrollActiveGridItem(grid, currentItemElem);
     }
 
     /* ==========================================================================
@@ -2101,12 +2149,16 @@
       const grid = document.getElementById('exam-grid');
       grid.innerHTML = '';
       let done = 0;
+      let currentItemElem = null;
 
       state.examQuestions.forEach((q, idx) => {
         const item = document.createElement('div');
         item.className = 'grid-item';
         item.innerText = idx + 1;
-        if (idx === state.examCurrentIdx) item.classList.add('current');
+        if (idx === state.examCurrentIdx) {
+          item.classList.add('current');
+          currentItemElem = item;
+        }
 
         if (state.examAnswers[q.id]) {
           done++;
@@ -2124,6 +2176,7 @@
       });
 
       document.getElementById('exam-answered-count').innerText = `${done}/${state.examQuestions.length}`;
+      scrollActiveGridItem(grid, currentItemElem);
     }
 
     function submitExam() {
